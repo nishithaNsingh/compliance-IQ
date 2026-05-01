@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+faiss-cpu
+fastembed
+python-dotenv
+openai
+pydantic
+pypdf
+pymupdf

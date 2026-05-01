@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import numpy as np
 import json
 import faiss
-from sentence_transformers import SentenceTransformer
+from fastembed import TextEmbedding
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
@@ -46,7 +46,7 @@ def load_system():
     print(f"✅ Loaded {len(all_chunks)} chunks")
 
     print("🔹 Loading embedding model...")
-    model = SentenceTransformer("all-MiniLM-L6-v2")
+    model = TextEmbedding(model_name="sentence-transformers/all-MiniLM-L6-v2")
     print("✅ Model ready")
 
 
@@ -58,26 +58,31 @@ class QueryRequest(BaseModel):
 
 
 # ================================
+# HELPER: get embedding as numpy array
+# ================================
+def embed(text: str) -> np.ndarray:
+    return np.array(list(model.embed([text])))  # shape: (1, 384)
+
+
+# ================================
 # SEARCH
 # ================================
 def search(query, k=3):
-    query_embedding = model.encode([query])
+    query_embedding = embed(query)
     distances, indices = index.search(query_embedding, k)
-
     return [all_chunks[i] for i in indices[0]]
 
 
 # ================================
-# FILTER (same as notebook)
+# FILTER
 # ================================
 def filter_relevant_chunks(results, query, threshold=0.5):
-    query_emb = model.encode([query])
+    query_emb = embed(query)
 
     filtered = []
     for r in results:
-        chunk_emb = model.encode([r["text"]])
+        chunk_emb = embed(r["text"])
         score = np.dot(query_emb, chunk_emb.T)[0][0]
-
         if score > threshold:
             filtered.append(r)
 
@@ -117,14 +122,13 @@ Question:
 # HALLUCINATION CHECK
 # ================================
 def grounding_score(answer, context):
-    ans_emb = model.encode([answer])
-    ctx_emb = model.encode([context])
+    ans_emb = embed(answer)
+    ctx_emb = embed(context)
     return np.dot(ans_emb, ctx_emb.T)[0][0]
 
 
 def check_hallucination(answer, context, threshold=0.5):
     score = grounding_score(answer, context)
-
     if score < threshold:
         return "⚠️ Potential hallucination", score
     else:
@@ -137,13 +141,8 @@ def check_hallucination(answer, context, threshold=0.5):
 @app.post("/ask")
 def ask_api(req: QueryRequest):
 
-    # Step 1: search
     results = search(req.query, k=3)
-
-    # Step 2: filter (IMPORTANT — same as notebook)
     results = filter_relevant_chunks(results, req.query)
-
-    # Step 3: context
     context = "\n\n".join([r["text"] for r in results])
 
     if not context.strip():
@@ -155,13 +154,9 @@ def ask_api(req: QueryRequest):
             "evidence": []
         }
 
-    # Step 4: LLM
     answer = generate_answer(req.query, context)
-
-    # Step 5: grounding
     status, score = check_hallucination(answer, context)
 
-    # Step 6: response
     return {
         "answer": answer,
         "status": status,
@@ -175,12 +170,10 @@ def ask_api(req: QueryRequest):
             for r in results
         ]
     }
-    
-    
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # for now (dev)
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
