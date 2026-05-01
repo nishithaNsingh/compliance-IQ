@@ -2,7 +2,7 @@ fastapi
 uvicorn
 numpy
 faiss-cpu
-fastembed
+fastembed==0.3.6
 python-dotenv
 openai
 pydantic
