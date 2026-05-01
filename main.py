@@ -8,11 +8,18 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 
 # ================================
 # INIT APP
 # ================================
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+@app.get("/")
+def serve_homepage():
+    return FileResponse("static/index.html")
 
 # ================================
 # LOAD ENV
