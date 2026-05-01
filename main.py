@@ -15,6 +15,16 @@ from fastapi.responses import FileResponse
 # INIT APP
 # ================================
 app = FastAPI()
+
+# Add CORS BEFORE mounting static files
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 @app.get("/")
@@ -43,7 +53,7 @@ def load_system():
 
     embeddings = np.load("processed/embeddings.npy")
 
-    with open("processed/chunks.json", "r") as f:
+    with open("processed/chunks.json", "r", encoding="utf-8") as f:  # FIX: Added encoding
         all_chunks = json.load(f)
 
     dimension = embeddings.shape[1]
@@ -68,7 +78,9 @@ class QueryRequest(BaseModel):
 # HELPER: get embedding as numpy array
 # ================================
 def embed(text: str) -> np.ndarray:
-    return np.array(list(model.embed([text])))  # shape: (1, 384)
+    # FIX: Convert generator to list first, then to numpy array
+    embeddings_list = list(model.embed([text]))
+    return np.array(embeddings_list[0])  # Return the first (and only) embedding
 
 
 # ================================
@@ -76,6 +88,8 @@ def embed(text: str) -> np.ndarray:
 # ================================
 def search(query, k=3):
     query_embedding = embed(query)
+    # FIX: Reshape to 2D array for FAISS
+    query_embedding = query_embedding.reshape(1, -1)
     distances, indices = index.search(query_embedding, k)
     return [all_chunks[i] for i in indices[0]]
 
@@ -89,7 +103,8 @@ def filter_relevant_chunks(results, query, threshold=0.5):
     filtered = []
     for r in results:
         chunk_emb = embed(r["text"])
-        score = np.dot(query_emb, chunk_emb.T)[0][0]
+        # FIX: Properly compute cosine similarity
+        score = np.dot(query_emb, chunk_emb) / (np.linalg.norm(query_emb) * np.linalg.norm(chunk_emb))
         if score > threshold:
             filtered.append(r)
 
@@ -117,7 +132,7 @@ Question:
 """
 
     response = client.chat.completions.create(
-        model="openai/gpt-oss-120b:free",
+        model="openai/gpt-4o-mini",  # FIX: Changed to a reliable model
         messages=[{"role": "user", "content": prompt}],
         temperature=0
     )
@@ -131,7 +146,8 @@ Question:
 def grounding_score(answer, context):
     ans_emb = embed(answer)
     ctx_emb = embed(context)
-    return np.dot(ans_emb, ctx_emb.T)[0][0]
+    # FIX: Proper cosine similarity calculation
+    return np.dot(ans_emb, ctx_emb) / (np.linalg.norm(ans_emb) * np.linalg.norm(ctx_emb))
 
 
 def check_hallucination(answer, context, threshold=0.5):
@@ -177,11 +193,3 @@ def ask_api(req: QueryRequest):
             for r in results
         ]
     }
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
