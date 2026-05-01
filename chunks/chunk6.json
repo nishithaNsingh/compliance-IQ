@@ -1,0 +1,1028 @@
+[
+  {
+    "text": "In 2009, employment jobs were 7,820 thousand. Labour volume was 5,925 thousand. Hourly wage was 20.02 euros. Monthly wage including overtime was 2,225 euros. Yearly wage including bonuses was 30,650 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 7,860 thousand. Labour volume was 5,924 thousand. Hourly wage was 20.41 euros. Monthly wage including overtime was 2,245 euros. Yearly wage including bonuses was 30,990 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 7,926 thousand. Labour volume was 5,926 thousand. Hourly wage was 20.62 euros. Monthly wage including overtime was 2,266 euros. Yearly wage including bonuses was 31,340 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 7,872 thousand. Labour volume was 5,868 thousand. Hourly wage was 21.16 euros. Monthly wage including overtime was 2,302 euros. Yearly wage including bonuses was 31,740 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 7,746 thousand. Labour volume was 5,773 thousand. Hourly wage was 21.48 euros. Monthly wage including overtime was 2,337 euros. Yearly wage including bonuses was 32,430 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 7,706 thousand. Labour volume was 5,740 thousand. Hourly wage was 21.58 euros. Monthly wage including overtime was 2,359 euros. Yearly wage including bonuses was 32,590 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 7,783 thousand. Labour volume was 5,794 thousand. Hourly wage was 22.08 euros. Monthly wage including overtime was 2,405 euros. Yearly wage including bonuses was 33,200 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 7,893 thousand. Labour volume was 5,902 thousand. Hourly wage was 22.13 euros. Monthly wage including overtime was 2,436 euros. Yearly wage including bonuses was 33,730 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 8,096 thousand. Labour volume was 6,045 thousand. Hourly wage was 22.23 euros. Monthly wage including overtime was 2,460 euros. Yearly wage including bonuses was 34,090 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 8,324 thousand. Labour volume was 6,237 thousand. Hourly wage was 22.69 euros. Monthly wage including overtime was 2,508 euros. Yearly wage including bonuses was 34,670 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 8,501 thousand. Labour volume was 6,381 thousand. Hourly wage was 23.14 euros. Monthly wage including overtime was 2,575 euros. Yearly wage including bonuses was 35,630 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 8,391 thousand. Labour volume was 6,356 thousand. Hourly wage was 24.07 euros. Monthly wage including overtime was 2,692 euros. Yearly wage including bonuses was 37,280 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 8,561 thousand. Labour volume was 6,507 thousand. Hourly wage was 24.45 euros. Monthly wage including overtime was 2,761 euros. Yearly wage including bonuses was 38,380 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 8,868 thousand. Labour volume was 6,723 thousand. Hourly wage was 25.32 euros. Monthly wage including overtime was 2,852 euros. Yearly wage including bonuses was 39,940 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 8,979 thousand. Labour volume was 6,826 thousand. Hourly wage was 27.12 euros. Monthly wage including overtime was 3,045 euros. Yearly wage including bonuses was 42,380 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 9,046 thousand. Labour volume was 6,877 thousand. Hourly wage was 28.94 euros. Monthly wage including overtime was 3,249 euros. Yearly wage including bonuses was 45,220 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 9,167 thousand. Labour volume was 6,962 thousand. Hourly wage was 30.49 euros. Monthly wage including overtime was 3,399 euros. Yearly wage including bonuses was 47,360 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 568 thousand. Labour volume was 207 thousand. Hourly wage was 6.06 euros. Monthly wage including overtime was 327 euros. Yearly wage including bonuses was 4,260 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 553 thousand. Labour volume was 196 thousand. Hourly wage was 6.08 euros. Monthly wage including overtime was 315 euros. Yearly wage including bonuses was 4,100 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 556 thousand. Labour volume was 190 thousand. Hourly wage was 6.08 euros. Monthly wage including overtime was 308 euros. Yearly wage including bonuses was 3,960 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 541 thousand. Labour volume was 180 thousand. Hourly wage was 6.09 euros. Monthly wage including overtime was 298 euros. Yearly wage including bonuses was 3,830 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 518 thousand. Labour volume was 171 thousand. Hourly wage was 5.95 euros. Monthly wage including overtime was 290 euros. Yearly wage including bonuses was 3,720 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 514 thousand. Labour volume was 166 thousand. Hourly wage was 5.91 euros. Monthly wage including overtime was 284 euros. Yearly wage including bonuses was 3,640 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 534 thousand. Labour volume was 171 thousand. Hourly wage was 5.96 euros. Monthly wage including overtime was 285 euros. Yearly wage including bonuses was 3,650 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 564 thousand. Labour volume was 188 thousand. Hourly wage was 5.86 euros. Monthly wage including overtime was 290 euros. Yearly wage including bonuses was 3,760 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 604 thousand. Labour volume was 206 thousand. Hourly wage was 6.11 euros. Monthly wage including overtime was 307 euros. Yearly wage including bonuses was 3,940 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 644 thousand. Labour volume was 223 thousand. Hourly wage was 6.51 euros. Monthly wage including overtime was 331 euros. Yearly wage including bonuses was 4,260 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 669 thousand. Labour volume was 231 thousand. Hourly wage was 6.89 euros. Monthly wage including overtime was 351 euros. Yearly wage including bonuses was 4,530 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 631 thousand. Labour volume was 223 thousand. Hourly wage was 7.27 euros. Monthly wage including overtime was 380 euros. Yearly wage including bonuses was 4,910 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 648 thousand. Labour volume was 231 thousand. Hourly wage was 7.49 euros. Monthly wage including overtime was 393 euros. Yearly wage including bonuses was 5,080 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 700 thousand. Labour volume was 248 thousand. Hourly wage was 8.18 euros. Monthly wage including overtime was 428 euros. Yearly wage including bonuses was 5,540 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 704 thousand. Labour volume was 248 thousand. Hourly wage was 9.18 euros. Monthly wage including overtime was 475 euros. Yearly wage including bonuses was 6,130 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 704 thousand. Labour volume was 244 thousand. Hourly wage was 10.07 euros. Monthly wage including overtime was 513 euros. Yearly wage including bonuses was 6,600 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 710 thousand. Labour volume was 246 thousand. Hourly wage was 10.78 euros. Monthly wage including overtime was 546 euros. Yearly wage including bonuses was 7,030 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 7,407 thousand. Labour volume was 5,604 thousand. Hourly wage was 20.18 euros. Monthly wage including overtime was 2,235 euros. Yearly wage including bonuses was 30,780 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 7,440 thousand. Labour volume was 5,594 thousand. Hourly wage was 20.58 euros. Monthly wage including overtime was 2,253 euros. Yearly wage including bonuses was 31,080 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 7,482 thousand. Labour volume was 5,576 thousand. Hourly wage was 20.81 euros. Monthly wage including overtime was 2,274 euros. Yearly wage including bonuses was 31,430 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 7,421 thousand. Labour volume was 5,513 thousand. Hourly wage was 21.37 euros. Monthly wage including overtime was 2,310 euros. Yearly wage including bonuses was 31,840 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 7,298 thousand. Labour volume was 5,419 thousand. Hourly wage was 21.67 euros. Monthly wage including overtime was 2,343 euros. Yearly wage including bonuses was 32,490 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 7,251 thousand. Labour volume was 5,377 thousand. Hourly wage was 21.78 euros. Monthly wage including overtime was 2,363 euros. Yearly wage including bonuses was 32,610 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 7,302 thousand. Labour volume was 5,409 thousand. Hourly wage was 22.29 euros. Monthly wage including overtime was 2,409 euros. Yearly wage including bonuses was 33,190 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 7,379 thousand. Labour volume was 5,487 thousand. Hourly wage was 22.38 euros. Monthly wage including overtime was 2,441 euros. Yearly wage including bonuses was 33,740 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 7,524 thousand. Labour volume was 5,582 thousand. Hourly wage was 22.53 euros. Monthly wage including overtime was 2,467 euros. Yearly wage including bonuses was 34,140 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 7,664 thousand. Labour volume was 5,699 thousand. Hourly wage was 23.03 euros. Monthly wage including overtime was 2,517 euros. Yearly wage including bonuses was 34,760 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 7,774 thousand. Labour volume was 5,788 thousand. Hourly wage was 23.52 euros. Monthly wage including overtime was 2,585 euros. Yearly wage including bonuses was 35,700 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 7,670 thousand. Labour volume was 5,760 thousand. Hourly wage was 24.44 euros. Monthly wage including overtime was 2,699 euros. Yearly wage including bonuses was 37,310 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 7,801 thousand. Labour volume was 5,872 thousand. Hourly wage was 24.82 euros. Monthly wage including overtime was 2,764 euros. Yearly wage including bonuses was 38,330 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 7,995 thousand. Labour volume was 5,994 thousand. Hourly wage was 25.74 euros. Monthly wage including overtime was 2,855 euros. Yearly wage including bonuses was 39,890 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 8,033 thousand. Labour volume was 6,033 thousand. Hourly wage was 27.6 euros. Monthly wage including overtime was 3,047 euros. Yearly wage including bonuses was 42,330 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 8,056 thousand. Labour volume was 6,051 thousand. Hourly wage was 29.46 euros. Monthly wage including overtime was 3,252 euros. Yearly wage including bonuses was 45,170 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 8,128 thousand. Labour volume was 6,101 thousand. Hourly wage was 31.09 euros. Monthly wage including overtime was 3,409 euros. Yearly wage including bonuses was 47,340 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 164 thousand. Labour volume was 134 thousand. Hourly wage was 21.33 euros. Monthly wage including overtime was 2,632 euros. Yearly wage including bonuses was 36,920 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 160 thousand. Labour volume was 132 thousand. Hourly wage was 22.09 euros. Monthly wage including overtime was 2,725 euros. Yearly wage including bonuses was 38,740 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 163 thousand. Labour volume was 134 thousand. Hourly wage was 22.54 euros. Monthly wage including overtime was 2,792 euros. Yearly wage including bonuses was 40,010 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 161 thousand. Labour volume was 132 thousand. Hourly wage was 23.4 euros. Monthly wage including overtime was 2,877 euros. Yearly wage including bonuses was 40,770 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 159 thousand. Labour volume was 131 thousand. Hourly wage was 24.24 euros. Monthly wage including overtime was 2,991 euros. Yearly wage including bonuses was 42,960 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 158 thousand. Labour volume was 130 thousand. Hourly wage was 24.84 euros. Monthly wage including overtime was 3,093 euros. Yearly wage including bonuses was 44,560 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 164 thousand. Labour volume was 136 thousand. Hourly wage was 25.77 euros. Monthly wage including overtime was 3,203 euros. Yearly wage including bonuses was 47,070 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 168 thousand. Labour volume was 140 thousand. Hourly wage was 25.64 euros. Monthly wage including overtime was 3,215 euros. Yearly wage including bonuses was 47,310 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 178 thousand. Labour volume was 149 thousand. Hourly wage was 25.53 euros. Monthly wage including overtime was 3,212 euros. Yearly wage including bonuses was 47,130 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 181 thousand. Labour volume was 151 thousand. Hourly wage was 25.63 euros. Monthly wage including overtime was 3,204 euros. Yearly wage including bonuses was 47,160 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 196 thousand. Labour volume was 163 thousand. Hourly wage was 25.96 euros. Monthly wage including overtime was 3,268 euros. Yearly wage including bonuses was 48,330 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 171 thousand. Labour volume was 144 thousand. Hourly wage was 25.95 euros. Monthly wage including overtime was 3,275 euros. Yearly wage including bonuses was 48,020 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 184 thousand. Labour volume was 155 thousand. Hourly wage was 26.64 euros. Monthly wage including overtime was 3,395 euros. Yearly wage including bonuses was 50,280 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 210 thousand. Labour volume was 175 thousand. Hourly wage was 27.21 euros. Monthly wage including overtime was 3,441 euros. Yearly wage including bonuses was 51,150 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 227 thousand. Labour volume was 190 thousand. Hourly wage was 28.84 euros. Monthly wage including overtime was 3,641 euros. Yearly wage including bonuses was 53,350 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 239 thousand. Labour volume was 201 thousand. Hourly wage was 30.45 euros. Monthly wage including overtime was 3,834 euros. Yearly wage including bonuses was 56,190 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 252 thousand. Labour volume was 210 thousand. Hourly wage was 31.69 euros. Monthly wage including overtime was 3,949 euros. Yearly wage including bonuses was 58,040 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 104 thousand. Labour volume was 80 thousand. Hourly wage was 11.46 euros. Monthly wage including overtime was 1,414 euros. Yearly wage including bonuses was 18,690 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 119 thousand. Labour volume was 95 thousand. Hourly wage was 11.62 euros. Monthly wage including overtime was 1,471 euros. Yearly wage including bonuses was 19,410 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 141 thousand. Labour volume was 113 thousand. Hourly wage was 11.75 euros. Monthly wage including overtime was 1,500 euros. Yearly wage including bonuses was 19,750 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 155 thousand. Labour volume was 123 thousand. Hourly wage was 12.05 euros. Monthly wage including overtime was 1,530 euros. Yearly wage including bonuses was 20,110 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 163 thousand. Labour volume was 130 thousand. Hourly wage was 12.29 euros. Monthly wage including overtime was 1,564 euros. Yearly wage including bonuses was 20,490 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 175 thousand. Labour volume was 142 thousand. Hourly wage was 12.28 euros. Monthly wage including overtime was 1,594 euros. Yearly wage including bonuses was 20,980 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 194 thousand. Labour volume was 157 thousand. Hourly wage was 12.56 euros. Monthly wage including overtime was 1,621 euros. Yearly wage including bonuses was 21,220 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 216 thousand. Labour volume was 177 thousand. Hourly wage was 12.7 euros. Monthly wage including overtime was 1,666 euros. Yearly wage including bonuses was 21,950 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 249 thousand. Labour volume was 204 thousand. Hourly wage was 12.87 euros. Monthly wage including overtime was 1,713 euros. Yearly wage including bonuses was 22,580 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 278 thousand. Labour volume was 230 thousand. Hourly wage was 13.53 euros. Monthly wage including overtime was 1,796 euros. Yearly wage including bonuses was 23,720 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 306 thousand. Labour volume was 254 thousand. Hourly wage was 14.06 euros. Monthly wage including overtime was 1,869 euros. Yearly wage including bonuses was 24,730 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 301 thousand. Labour volume was 251 thousand. Hourly wage was 14.78 euros. Monthly wage including overtime was 1,972 euros. Yearly wage including bonuses was 26,150 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 325 thousand. Labour volume was 275 thousand. Hourly wage was 15.12 euros. Monthly wage including overtime was 2,050 euros. Yearly wage including bonuses was 27,330 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 362 thousand. Labour volume was 305 thousand. Hourly wage was 15.99 euros. Monthly wage including overtime was 2,156 euros. Yearly wage including bonuses was 28,760 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 371 thousand. Labour volume was 315 thousand. Hourly wage was 17.64 euros. Monthly wage including overtime was 2,376 euros. Yearly wage including bonuses was 31,640 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 376 thousand. Labour volume was 319 thousand. Hourly wage was 19.37 euros. Monthly wage including overtime was 2,602 euros. Yearly wage including bonuses was 34,640 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 386 thousand. Labour volume was 326 thousand. Hourly wage was 20.68 euros. Monthly wage including overtime was 2,748 euros. Yearly wage including bonuses was 36,970 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 3,927 thousand. Labour volume was 2,031 thousand. Hourly wage was 17.32 euros. Monthly wage including overtime was 1,272 euros. Yearly wage including bonuses was 17,400 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 3,969 thousand. Labour volume was 2,033 thousand. Hourly wage was 17.83 euros. Monthly wage including overtime was 1,282 euros. Yearly wage including bonuses was 17,560 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 4,134 thousand. Labour volume was 2,133 thousand. Hourly wage was 17.98 euros. Monthly wage including overtime was 1,318 euros. Yearly wage including bonuses was 18,130 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 4,169 thousand. Labour volume was 2,164 thousand. Hourly wage was 18.45 euros. Monthly wage including overtime was 1,350 euros. Yearly wage including bonuses was 18,490 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 4,126 thousand. Labour volume was 2,153 thousand. Hourly wage was 18.77 euros. Monthly wage including overtime was 1,374 euros. Yearly wage including bonuses was 18,810 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 4,134 thousand. Labour volume was 2,168 thousand. Hourly wage was 18.77 euros. Monthly wage including overtime was 1,392 euros. Yearly wage including bonuses was 18,950 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 4,211 thousand. Labour volume was 2,223 thousand. Hourly wage was 19.06 euros. Monthly wage including overtime was 1,423 euros. Yearly wage including bonuses was 19,350 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 4,254 thousand. Labour volume was 2,264 thousand. Hourly wage was 19.08 euros. Monthly wage including overtime was 1,442 euros. Yearly wage including bonuses was 19,710 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 4,445 thousand. Labour volume was 2,394 thousand. Hourly wage was 19.3 euros. Monthly wage including overtime was 1,484 euros. Yearly wage including bonuses was 20,330 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 4,571 thousand. Labour volume was 2,483 thousand. Hourly wage was 19.73 euros. Monthly wage including overtime was 1,522 euros. Yearly wage including bonuses was 20,780 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 4,690 thousand. Labour volume was 2,571 thousand. Hourly wage was 20.17 euros. Monthly wage including overtime was 1,579 euros. Yearly wage including bonuses was 21,550 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 4,633 thousand. Labour volume was 2,599 thousand. Hourly wage was 21.12 euros. Monthly wage including overtime was 1,691 euros. Yearly wage including bonuses was 23,150 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 4,703 thousand. Labour volume was 2,649 thousand. Hourly wage was 21.46 euros. Monthly wage including overtime was 1,732 euros. Yearly wage including bonuses was 23,670 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 4,898 thousand. Labour volume was 2,753 thousand. Hourly wage was 22.21 euros. Monthly wage including overtime was 1,791 euros. Yearly wage including bonuses was 24,580 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 4,970 thousand. Labour volume was 2,816 thousand. Hourly wage was 23.89 euros. Monthly wage including overtime was 1,933 euros. Yearly wage including bonuses was 26,430 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 5,034 thousand. Labour volume was 2,865 thousand. Hourly wage was 25.7 euros. Monthly wage including overtime was 2,089 euros. Yearly wage including bonuses was 28,510 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 5,152 thousand. Labour volume was 2,947 thousand. Hourly wage was 27.29 euros. Monthly wage including overtime was 2,219 euros. Yearly wage including bonuses was 30,270 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 504 thousand. Labour volume was 143 thousand. Hourly wage was 5.92 euros. Monthly wage including overtime was 247 euros. Yearly wage including bonuses was 3,210 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 491 thousand. Labour volume was 134 thousand. Hourly wage was 6.06 euros. Monthly wage including overtime was 239 euros. Yearly wage including bonuses was 3,120 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 500 thousand. Labour volume was 135 thousand. Hourly wage was 6.11 euros. Monthly wage including overtime was 241 euros. Yearly wage including bonuses was 3,090 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 492 thousand. Labour volume was 131 thousand. Hourly wage was 6.2 euros. Monthly wage including overtime was 241 euros. Yearly wage including bonuses was 3,090 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 473 thousand. Labour volume was 126 thousand. Hourly wage was 6.2 euros. Monthly wage including overtime was 239 euros. Yearly wage including bonuses was 3,060 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 472 thousand. Labour volume was 124 thousand. Hourly wage was 6.2 euros. Monthly wage including overtime was 239 euros. Yearly wage including bonuses was 3,050 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 492 thousand. Labour volume was 130 thousand. Hourly wage was 6.23 euros. Monthly wage including overtime was 242 euros. Yearly wage including bonuses was 3,090 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 520 thousand. Labour volume was 144 thousand. Hourly wage was 6.03 euros. Monthly wage including overtime was 245 euros. Yearly wage including bonuses was 3,170 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 557 thousand. Labour volume was 158 thousand. Hourly wage was 6.22 euros. Monthly wage including overtime was 256 euros. Yearly wage including bonuses was 3,280 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 593 thousand. Labour volume was 171 thousand. Hourly wage was 6.54 euros. Monthly wage including overtime was 272 euros. Yearly wage including bonuses was 3,500 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 616 thousand. Labour volume was 178 thousand. Hourly wage was 6.86 euros. Monthly wage including overtime was 288 euros. Yearly wage including bonuses was 3,690 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 582 thousand. Labour volume was 174 thousand. Hourly wage was 7.21 euros. Monthly wage including overtime was 313 euros. Yearly wage including bonuses was 4,040 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 596 thousand. Labour volume was 178 thousand. Hourly wage was 7.43 euros. Monthly wage including overtime was 322 euros. Yearly wage including bonuses was 4,130 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 644 thousand. Labour volume was 193 thousand. Hourly wage was 8.09 euros. Monthly wage including overtime was 351 euros. Yearly wage including bonuses was 4,510 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 649 thousand. Labour volume was 192 thousand. Hourly wage was 9.11 euros. Monthly wage including overtime was 390 euros. Yearly wage including bonuses was 5,000 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 649 thousand. Labour volume was 189 thousand. Hourly wage was 9.96 euros. Monthly wage including overtime was 419 euros. Yearly wage including bonuses was 5,350 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 654 thousand. Labour volume was 190 thousand. Hourly wage was 10.62 euros. Monthly wage including overtime was 444 euros. Yearly wage including bonuses was 5,670 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 3,731 thousand. Labour volume was 1,928 thousand. Hourly wage was 17.5 euros. Monthly wage including overtime was 1,281 euros. Yearly wage including bonuses was 17,530 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 3,782 thousand. Labour volume was 1,935 thousand. Hourly wage was 18.0 euros. Monthly wage including overtime was 1,290 euros. Yearly wage including bonuses was 17,680 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 3,931 thousand. Labour volume was 2,025 thousand. Hourly wage was 18.17 euros. Monthly wage including overtime was 1,327 euros. Yearly wage including bonuses was 18,250 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 3,961 thousand. Labour volume was 2,051 thousand. Hourly wage was 18.65 euros. Monthly wage including overtime was 1,359 euros. Yearly wage including bonuses was 18,610 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 3,920 thousand. Labour volume was 2,041 thousand. Hourly wage was 18.99 euros. Monthly wage including overtime was 1,383 euros. Yearly wage including bonuses was 18,940 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 3,928 thousand. Labour volume was 2,054 thousand. Hourly wage was 18.98 euros. Monthly wage including overtime was 1,400 euros. Yearly wage including bonuses was 19,080 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 3,991 thousand. Labour volume was 2,099 thousand. Hourly wage was 19.3 euros. Monthly wage including overtime was 1,431 euros. Yearly wage including bonuses was 19,470 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 4,030 thousand. Labour volume was 2,137 thousand. Hourly wage was 19.32 euros. Monthly wage including overtime was 1,451 euros. Yearly wage including bonuses was 19,850 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 4,193 thousand. Labour volume was 2,251 thousand. Hourly wage was 19.58 euros. Monthly wage including overtime was 1,496 euros. Yearly wage including bonuses was 20,510 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 4,288 thousand. Labour volume was 2,322 thousand. Hourly wage was 20.03 euros. Monthly wage including overtime was 1,536 euros. Yearly wage including bonuses was 20,990 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 4,382 thousand. Labour volume was 2,396 thousand. Hourly wage was 20.51 euros. Monthly wage including overtime was 1,596 euros. Yearly wage including bonuses was 21,790 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 4,337 thousand. Labour volume was 2,427 thousand. Hourly wage was 21.46 euros. Monthly wage including overtime was 1,709 euros. Yearly wage including bonuses was 23,400 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 4,400 thousand. Labour volume was 2,471 thousand. Hourly wage was 21.81 euros. Monthly wage including overtime was 1,749 euros. Yearly wage including bonuses was 23,920 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 4,550 thousand. Labour volume was 2,549 thousand. Hourly wage was 22.62 euros. Monthly wage including overtime was 1,812 euros. Yearly wage including bonuses was 24,890 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 4,597 thousand. Labour volume was 2,597 thousand. Hourly wage was 24.34 euros. Monthly wage including overtime was 1,957 euros. Yearly wage including bonuses was 26,780 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 4,640 thousand. Labour volume was 2,635 thousand. Hourly wage was 26.18 euros. Monthly wage including overtime was 2,116 euros. Yearly wage including bonuses was 28,930 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 4,725 thousand. Labour volume was 2,698 thousand. Hourly wage was 27.84 euros. Monthly wage including overtime was 2,252 euros. Yearly wage including bonuses was 30,760 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 68 thousand. Labour volume was 38 thousand. Hourly wage was 17.54 euros. Monthly wage including overtime was 1,433 euros. Yearly wage including bonuses was 19,660 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 63 thousand. Labour volume was 35 thousand. Hourly wage was 18.5 euros. Monthly wage including overtime was 1,464 euros. Yearly wage including bonuses was 20,320 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 66 thousand. Labour volume was 37 thousand. Hourly wage was 18.92 euros. Monthly wage including overtime was 1,538 euros. Yearly wage including bonuses was 21,700 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 65 thousand. Labour volume was 36 thousand. Hourly wage was 19.6 euros. Monthly wage including overtime was 1,582 euros. Yearly wage including bonuses was 21,990 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 64 thousand. Labour volume was 35 thousand. Hourly wage was 20.04 euros. Monthly wage including overtime was 1,605 euros. Yearly wage including bonuses was 22,080 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 62 thousand. Labour volume was 35 thousand. Hourly wage was 20.43 euros. Monthly wage including overtime was 1,667 euros. Yearly wage including bonuses was 22,930 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 65 thousand. Labour volume was 37 thousand. Hourly wage was 20.97 euros. Monthly wage including overtime was 1,729 euros. Yearly wage including bonuses was 24,020 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 65 thousand. Labour volume was 37 thousand. Hourly wage was 20.85 euros. Monthly wage including overtime was 1,723 euros. Yearly wage including bonuses was 24,090 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 69 thousand. Labour volume was 40 thousand. Hourly wage was 20.77 euros. Monthly wage including overtime was 1,733 euros. Yearly wage including bonuses was 24,070 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 70 thousand. Labour volume was 40 thousand. Hourly wage was 20.63 euros. Monthly wage including overtime was 1,697 euros. Yearly wage including bonuses was 23,340 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 75 thousand. Labour volume was 43 thousand. Hourly wage was 20.92 euros. Monthly wage including overtime was 1,738 euros. Yearly wage including bonuses was 24,110 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 66 thousand. Labour volume was 38 thousand. Hourly wage was 21.63 euros. Monthly wage including overtime was 1,835 euros. Yearly wage including bonuses was 25,840 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 69 thousand. Labour volume was 41 thousand. Hourly wage was 21.91 euros. Monthly wage including overtime was 1,871 euros. Yearly wage including bonuses was 26,010 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 80 thousand. Labour volume was 46 thousand. Hourly wage was 22.22 euros. Monthly wage including overtime was 1,862 euros. Yearly wage including bonuses was 25,910 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 86 thousand. Labour volume was 49 thousand. Hourly wage was 23.82 euros. Monthly wage including overtime was 2,000 euros. Yearly wage including bonuses was 27,710 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 92 thousand. Labour volume was 53 thousand. Hourly wage was 25.29 euros. Monthly wage including overtime was 2,118 euros. Yearly wage including bonuses was 29,030 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 99 thousand. Labour volume was 57 thousand. Hourly wage was 26.4 euros. Monthly wage including overtime was 2,210 euros. Yearly wage including bonuses was 30,400 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In 2009, employment jobs were 56 thousand. Labour volume was 32 thousand. Hourly wage was 11.18 euros. Monthly wage including overtime was 997 euros. Yearly wage including bonuses was 13,330 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2009"
+  },
+  {
+    "text": "In 2010 after change of method, employment jobs were 56 thousand. Labour volume was 32 thousand. Hourly wage was 11.41 euros. Monthly wage including overtime was 1,005 euros. Yearly wage including bonuses was 13,370 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2010 after change of method"
+  },
+  {
+    "text": "In 2011, employment jobs were 68 thousand. Labour volume was 40 thousand. Hourly wage was 11.53 euros. Monthly wage including overtime was 1,042 euros. Yearly wage including bonuses was 13,780 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2011"
+  },
+  {
+    "text": "In 2012, employment jobs were 77 thousand. Labour volume was 46 thousand. Hourly wage was 11.71 euros. Monthly wage including overtime was 1,074 euros. Yearly wage including bonuses was 14,180 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2012"
+  },
+  {
+    "text": "In 2013, employment jobs were 83 thousand. Labour volume was 49 thousand. Hourly wage was 11.78 euros. Monthly wage including overtime was 1,086 euros. Yearly wage including bonuses was 14,260 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2013"
+  },
+  {
+    "text": "In 2014, employment jobs were 85 thousand. Labour volume was 52 thousand. Hourly wage was 11.75 euros. Monthly wage including overtime was 1,102 euros. Yearly wage including bonuses was 14,480 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2014"
+  },
+  {
+    "text": "In 2015, employment jobs were 98 thousand. Labour volume was 60 thousand. Hourly wage was 11.92 euros. Monthly wage including overtime was 1,145 euros. Yearly wage including bonuses was 14,950 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2015"
+  },
+  {
+    "text": "In 2016, employment jobs were 101 thousand. Labour volume was 61 thousand. Hourly wage was 11.99 euros. Monthly wage including overtime was 1,136 euros. Yearly wage including bonuses was 14,990 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2016"
+  },
+  {
+    "text": "In 2017, employment jobs were 117 thousand. Labour volume was 72 thousand. Hourly wage was 12.02 euros. Monthly wage including overtime was 1,169 euros. Yearly wage including bonuses was 15,420 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2017"
+  },
+  {
+    "text": "In 2018, employment jobs were 126 thousand. Labour volume was 78 thousand. Hourly wage was 12.65 euros. Monthly wage including overtime was 1,208 euros. Yearly wage including bonuses was 15,980 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2018"
+  },
+  {
+    "text": "In 2019, employment jobs were 137 thousand. Labour volume was 84 thousand. Hourly wage was 13.05 euros. Monthly wage including overtime was 1,246 euros. Yearly wage including bonuses was 16,490 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2019"
+  },
+  {
+    "text": "In 2020, employment jobs were 132 thousand. Labour volume was 82 thousand. Hourly wage was 13.54 euros. Monthly wage including overtime was 1,309 euros. Yearly wage including bonuses was 17,340 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2020"
+  },
+  {
+    "text": "In 2021, employment jobs were 137 thousand. Labour volume was 87 thousand. Hourly wage was 13.86 euros. Monthly wage including overtime was 1,358 euros. Yearly wage including bonuses was 17,980 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2021"
+  },
+  {
+    "text": "In 2022, employment jobs were 153 thousand. Labour volume was 96 thousand. Hourly wage was 14.6 euros. Monthly wage including overtime was 1,422 euros. Yearly wage including bonuses was 18,810 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2022"
+  },
+  {
+    "text": "In 2023, employment jobs were 153 thousand. Labour volume was 97 thousand. Hourly wage was 16.14 euros. Monthly wage including overtime was 1,579 euros. Yearly wage including bonuses was 20,810 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2023"
+  },
+  {
+    "text": "In 2024, employment jobs were 154 thousand. Labour volume was 97 thousand. Hourly wage was 17.86 euros. Monthly wage including overtime was 1,724 euros. Yearly wage including bonuses was 22,710 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2024"
+  },
+  {
+    "text": "In 2025*, employment jobs were 161 thousand. Labour volume was 101 thousand. Hourly wage was 19.15 euros. Monthly wage including overtime was 1,836 euros. Yearly wage including bonuses was 24,280 euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": "2025*"
+  },
+  {
+    "text": "In nan, employment jobs were nan thousand. Labour volume was nan thousand. Hourly wage was nan euros. Monthly wage including overtime was nan euros. Yearly wage including bonuses was nan euros.",
+    "source": "economic_data.csv",
+    "type": "economic",
+    "period": NaN
+  }
+]

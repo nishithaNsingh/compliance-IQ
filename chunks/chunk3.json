@@ -1,0 +1,506 @@
+[
+  {
+    "text": "Short Title and Commencement:\na. These directions shall be called the Reserve Bank of India (Digital Payment\nSecurity Controls) directions, 2021.\nb. These directions shall come into effect six months from the day they are placed\non the official website of the Reserve Bank of India (RBI). However, in respect\nof instructions already issued either by Department of Payment and Settlement\nSystems (DPSS), Department of Regulation (DoR) or Department of\nSupervision (DoS) of RBI including those to select Regulated Entities (REs), by\nway of circular or advisory, the timeline would be with immediate effect or as\nper the timelines already prescribed.",
+    "section": "Short Title and Commencement",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Applicability:\nThe provisions of these directions shall apply to the following Regulated Entities (REs):\na) Scheduled Commercial Banks (excluding Regional Rural Banks);\nb) Small Finance Banks;\nc) Payments Banks; and\nd) Credit card issuing NBFCs.",
+    "section": "Applicability",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Definitions:\nAll expressions unless defined herein shall have the same meaning as have been\nassigned to them under the Banking Regulation Act, 1949, Reserve Bank of India Act,\n1934, Payment and Settlement Systems Act, 2007 or Information Technology Act,\n2000/ Information Technology (Amendment) Act, 2008 and Rules made thereunder,\nany statutory modification or re-enactment thereto or as used in commercial parlance,\nas the case may be.\nCHAPTER \u2013 II\nGENERAL CONTROLS\nGovernance and Management of Security Risks",
+    "section": "Definitions",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall formulate a policy for digital payment products and services with the:\napproval of their Board. The contours of the policy, while discussing the parameters\nof any \u201cnew product\u201d including its alignment with the overall business strategy and\ninherent risk of the product, risk management/ mitigation measures, compliance\nwith regulatory instructions, customer experience, etc., should explicitly discuss\nabout payment security requirements from Functionality, Security and Performance\n(FSP) angles such as:\na) Necessary controls to protect the confidentiality of customer data and integrity\nof data and processes associated with the digital product/ services offered;\nb) Availability of requisite infrastructure e.g. human resources, technology, etc.\nwith necessary back up;\nc) Assurance that the payment product is built in a secure manner offering robust\nperformance ensuring safety, consistency and rolled out after necessary testing\nfor achieving desired FSP;\nd) Capacity building and expansion with scalability (to meet the growth for efficient\ntransaction processing);\ne) Minimal customer service disruption with high availability of systems/ channels\n(to have minimal technical declines);\nf)\nEfficient and effective dispute resolution mechanism and handling of customer\ngrievance; and\ng) Adequate and appropriate review mechanism followed by swift corrective\naction, in case any one of the above requirements is hampered or having high\npotential to get hampered.\nThe Board and Senior Management shall be responsible for implementation of this\npolicy. The policy shall be reviewed periodically, at least on a yearly basis. REs may\nformulate this policy separately for its different digital products or include the same\nas part of their overall product policy. Further, the policy document should require\nthat every digital payment product/ services offered addresses the mechanics, clear\ndefinition of starting point, critical intermittent stages/ points and end point in the\ndigital payment cycle, security aspects, validations till the digital payment is settled,\nclear pictorial representation of digital path and exception handling. In addition,\nsigning off of the above requirements, mechanism for carrying out User Acceptance\nTests (UAT) in multiple stages before roll out, sign off from multiple stakeholders\n(post UAT) and data archival requirements shall also be taken in to account. The\nneed for an external assessment of the entire process including the logic, build and\nsecurity aspects of the application(s) supporting the digital product should be clearly\narticulated.",
+    "section": "REs shall formulate a policy for digital payment products and services with the",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall incorporate appropriate processes into their governance and risk:\nmanagement programs for identifying, analysing, monitoring and managing the\nspecific risks, including compliance risk and fraud risk, associated with the portfolio\nof digital payment products and services on a continual basis and in a holistic\nmanner. The Board/ Senior Management of REs shall have appropriate\nperformance monitoring systems/ key performance indicators for assessing\nwhether the product or service offered through digital payment channels meet\noperational and security norms.",
+    "section": "REs shall incorporate appropriate processes into their governance and risk",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "As part of this process, the REs shall define product-level limits on the level of:\nacceptable security risk, document specific security objectives and performance\ncriteria including quantitative benchmarks for evaluating the success of the security\nbuilt into the digital payment product or service, periodically compare actual results\nwith projections and qualitative benchmarks to detect and address adverse trends\nor concerns in a timely manner and modify the business plan/ strategy involving the\nproduct, when appropriate, based on the security performance of the product or\nservice.",
+    "section": "As part of this process, the REs shall define product-level limits on the level of",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall have trained resources with necessary expertise to manage the digital:\npayment infrastructure. Wherever the REs are dependent on third party service\nproviders, adequate oversight and controls for monitoring the activities of the third\nparty personnel, in line with RBI guidelines on outsourcing, shall be put in place.",
+    "section": "REs shall have trained resources with necessary expertise to manage the digital",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall conduct risk assessments with regard to the safety and security of digital:\npayment products and associated processes and services as well as suitability and\nappropriateness of the same vis-a-vis the target users, both prior to establishing the\nservice(s) and regularly thereafter. The risk assessment should take into account \u2013\na) The technology stack and solutions used;\nb) Known vulnerabilities at each of the touchpoints of the digital product and the\nremedial action taken by the entity;\nc) Dependence on third party service providers and oversight over such providers;\nd) Risk arising out of integration of digital payment platform with other systems\nboth internal and external to the RE, including core systems and systems of\npayment systems operators, etc.;\ne) The customer experience, convenience and technology adoption required to\nuse such products;\nf)\nReconciliation process;\ng) Interoperability aspects;\nh) Data storage, security and privacy protection as per extant laws/ instructions;\ni)\nOperational risk including fraud risk;\nj)\nBusiness continuity and service availability;\nk) Compliance with extant cyber security requirements; and\nl)\nCompatibility aspects.\nSuch assessment shall cover the surrounding ecosystem as well. The assessment\nof risks shall address the need to protect and secure payment data1 and evaluate\nthe resilience of systems. The internal Risk and Control Self-Assessment (RCSA)\nexercise shall cover the risks (inherent) & controls vis-\u00e0-vis the probability and\nimpact of threats to arrive at residual risk. In such an exercise, it is imperative for\nREs to maintain database of all systems and applications storing customer data in\nthe payment ecosystem and compliance with applicable PCI standards in each of\nthe systems (notwithstanding mandatory requirements of certification/ standard\naccreditation).",
+    "section": "REs shall conduct risk assessments with regard to the safety and security of digital",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "security"
+  },
+  {
+    "text": "REs shall evaluate the risks associated with the chosen technology platforms,:\napplication architecture, both on the server and client side. Further, REs should\nundertake a review of the risk scenarios and existing security measures based on\nincidents affecting their services, before any major change to the infrastructure or\nprocedures is made or, when, any new threats are identified through risk monitoring\nactivities. Further, unused or unwanted features of the platform should be closely\ncontrolled to minimise risk.",
+    "section": "REs shall evaluate the risks associated with the chosen technology platforms,",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "REs shall develop sound internal control systems and take into account the:\noperational risk before offering digital payment products and related services. This\nwould include ensuring that adequate safeguards are in place to protect integrity of\ndata, customer confidentiality and security of data.",
+    "section": "REs shall develop sound internal control systems and take into account the",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall ensure that the digital payment architecture is robust and scalable,:\ncommensurate with the transaction volumes and customer growth. The IT strategy\nof the RE shall ensure that a robust capacity management plan is in place to meet\nevolving demand. REs shall also put in place review mechanism of IT/ IT Security\narchitecture and technology platform overhaul on a periodic basis based on Board-\napproved policy.",
+    "section": "REs shall ensure that the digital payment architecture is robust and scalable,",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall have necessary capacity, systems and procedures in place to periodically:\ntest the backed-up data, application pertaining to digital products to ensure recovery\n1 customer data; customer and beneficiary account details; payment credentials; transaction data;\nwithout loss of transactions or audit-trails. These facilities should be tested at least\non a half-yearly basis for digital payment products and services.\nOther Generic Security Controls",
+    "section": "REs shall have necessary capacity, systems and procedures in place to periodically",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The communication protocol in the digital payment channels (especially over:\nInternet) shall adhere to a secure standard.  An appropriate level of encryption and\nsecurity shall be implemented in the digital payment ecosystem.",
+    "section": "The communication protocol in the digital payment channels (especially over",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Web applications providing the digital payment products and services should not:\nstore sensitive information in HTML hidden fields, cookies, or any other client-side\nstorage to avoid any compromise in the integrity of the data.",
+    "section": "Web applications providing the digital payment products and services should not",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall implement Web Application Firewall (WAF) solution and DDoS mitigation:\ntechniques to secure the digital payment products and services offered over\nInternet.",
+    "section": "REs shall implement Web Application Firewall (WAF) solution and DDoS mitigation",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The key length (for symmetric/ asymmetric encryption, hashing), algorithms (for:\nencryption, signing, exchange of keys, creation of message digest, random number\ngenerators), cipher suites, digital certificates and applicable protocols used in\ntransmission channels, processing of data, authentication purpose, shall be strong,\nadopting internationally accepted and published standards that are not deprecated/\ndemonstrated to be insecure/ vulnerable and the configurations involved in\nimplementing such controls are in general, compliant with extant instructions and\nthe law of the land.",
+    "section": "The key length (for symmetric/ asymmetric encryption, hashing), algorithms (for",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall renew their digital certificates used in digital payment ecosystem well in:\ntime.",
+    "section": "REs shall renew their digital certificates used in digital payment ecosystem well in",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The mobile application2 and internet banking application should have effective:\nlogging and monitoring capabilities to track user activity, security changes and\nidentify anomalous behaviour and transactions.\nApplication Security Life Cycle (ASLC)",
+    "section": "The mobile application2 and internet banking application should have effective",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall implement multi-tier application architecture, segregating application,:\ndatabase and presentation layer in the digital payment products and services.",
+    "section": "REs shall implement multi-tier application architecture, segregating application,",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall follow a \u2018secure by design\u2019 approach in the development of digital:\npayment products and services. REs shall ensure that digital payment applications\nare inherently more secure by embedding security within their development\nlifecycle.\n2 Mobile banking, mobile payment applications of the regulated entities",
+    "section": "REs shall follow a \u2018secure by design\u2019 approach in the development of digital",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall explicitly define security objectives (including protection of customer:\ninformation/ data) during (a) requirements gathering, (b) designing, (c)\ndevelopment, (d) testing including source code review, (e) implementation,\nmaintenance & monitoring and (f) decommissioning phases of the digital payment\napplications.",
+    "section": "REs shall explicitly define security objectives (including protection of customer",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "security"
+  },
+  {
+    "text": "REs (including those partnering with other entities to co-brand/ co-develop:\napplications) shall adopt and incorporate a threat modelling approach during\napplication lifecycle management into their policies, processes, guidelines and\nprocedures.",
+    "section": "REs (including those partnering with other entities to co-brand/ co-develop",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "For digital payment applications that are licensed by a third party vendor, REs shall:\nhave an escrow arrangement for the source code for ensuring continuity of services\nin case the vendor defaults or is unable to provide services.",
+    "section": "For digital payment applications that are licensed by a third party vendor, REs shall",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall conduct security testing including review of source code, Vulnerability:\nAssessment (VA) and Penetration Testing (PT) of their digital payment applications\nto assure that the application is secure for putting through transactions while\npreserving confidentiality and integrity of the data that is stored and transmitted.\nSuch testing should invariably cover compliance with various standards like\nOWASP.  If the source code is not owned by the RE, then, in such cases, the RE\nshall obtain a certificate from the application developer stating that the application\nis free of known vulnerabilities, malwares and any covert channels in the code. In\nthis context,\na) The VA shall be conducted at least on a half-yearly basis; PT shall be\nconducted at least on a yearly basis. In addition, VA/PT shall be conducted as\nand when any new IT Infrastructure or digital payment application is introduced\nor when any major change is performed in application or infrastructure;\nb) Testing related to review of source code/ certification shall be conducted/\nobtained. This shall continue on a yearly  basis, if changes/ upgrades have been\nmade to the application during the year;\na) Testing/ Certification should broadly address the objective that the product/\nversion/module(s) functions only in a manner that it is intended to do, is\ndeveloped as per the best secure design/ coding practices and standards,\naddressing known flaws/threats due to insecure coding; and\nb) Penal provisions shall be included by the RE into third-party contractual\narrangements for any non-compliance by the application provider.",
+    "section": "REs shall conduct security testing including review of source code, Vulnerability",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "security"
+  },
+  {
+    "text": "REs may also run automated VA scanning tools to automatically scan all systems:\non the network that are critical, public facing or store customer sensitive data on a\ncontinuous/ more frequent basis.",
+    "section": "REs may also run automated VA scanning tools to automatically scan all systems",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall compare the results from earlier vulnerability scans to verify/ ascertain:\nthat vulnerabilities are addressed either by patching, implementing a compensating\ncontrol, or documenting and accepting the residual risk with necessary approval\nand that there is no recurrence of the known vulnerabilities. The identified\nvulnerabilities should be fixed in a time-bound manner.",
+    "section": "REs shall compare the results from earlier vulnerability scans to verify/ ascertain",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall ensure that all vulnerability scanning is performed in authenticated mode:\neither with agents running locally on the system to analyse the security configuration\nor with remote scanners that are given administrative rights on the system being\ntested.3",
+    "section": "REs shall ensure that all vulnerability scanning is performed in authenticated mode",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall verify and thoroughly test the functionality (to validate whether the system:\nmeets the functional requirements/ specifications)  and security controls of payment\nproducts and services before its launch/ moving to the production environment.",
+    "section": "REs shall verify and thoroughly test the functionality (to validate whether the system",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall institute a mechanism to actively monitor for the non-genuine/:\nunauthorised/ malicious applications (with similar name/ features) on popular app-\nstores and the Web and respond accordingly to bring them down.",
+    "section": "REs shall institute a mechanism to actively monitor for the non-genuine/",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The server at the RE\u2019s end should have adequate checks and balances to ensure:\nthat no transaction is carried out through non-genuine/ unauthorised digital payment\nproducts/ applications and the authentication process is robust, secure and\ncentralised.",
+    "section": "The server at the RE\u2019s end should have adequate checks and balances to ensure",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The security controls for digital payment applications must focus on how these:\napplications handle, store and protect payment data. The APIs for secure data\nstorage and communication have to be implemented and used correctly in order to\nbe effective. REs shall refer to standards such as OWASP-MASVS, OWASP-ASVS\nand other relevant OWASP standards, security and data protection guidelines in\nISO 12812, threat catalogues and guides developed by NIST (including for\nBluetooth and LTE security), for application security and other protection measures.\nSuch testing has to necessarily verify for vulnerabilities including, but not limited to\nOWASP/ OWASP Mobile Top 10, application security guidelines/ requirements\ndeveloped/ shared by operating system providers/ OEMs.",
+    "section": "The security controls for digital payment applications must focus on how these",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "security"
+  },
+  {
+    "text": "REs shall redact/ mask customer information such as account numbers/ card:\nnumbers/ other sensitive information when transmitted via SMS/ e-mails.\n3 SANS Critical Security Controls\nAuthentication Framework",
+    "section": "REs shall redact/ mask customer information such as account numbers/ card",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "In view of the proliferation of cyber-attacks and their potential consequences, REs:\nshould implement, except where explicitly permitted/ relaxed, multi-factor\nauthentication for payments through electronic modes and fund transfers, including\ncash withdrawals from ATMs/ micro-ATMs/ business correspondents, through\ndigital payment applications. At least one of the authentication methodologies\nshould be generally dynamic or non-replicable. [e.g., Use of One Time Password,\nmobile devices (device binding and SIM), biometric/ PKI/ hardware tokens, EMV\nchip card (for Card Present Transactions) with server-side verification could be\ntermed either in dynamic or non-replicable methodologies.].",
+    "section": "In view of the proliferation of cyber-attacks and their potential consequences, REs",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs may also adopt adaptive authentication to select the right authentication factors:\ndepending on risk assessment, user risk profile and behaviour. Properly designed\nand implemented multi-factor authentication methods are more reliable and\nstronger fraud deterrents and are more difficult to compromise. The key objectives\nof multi-factor authentication are to protect the confidentiality of payment data as\nwell as enhance confidence in digital payment by combating various cyber-attack\nmechanisms like phishing, keylogging, spyware/ malware and other internet-based\nfrauds targeted at REs and their customers. In this regard,\na) The implementation of appropriate authentication methodologies should be\nbased on an assessment of the risk posed by the RE\u2019s digital payment products\nand services. The risk should be evaluated in light of the type of customer (e.g.,\nretail/ corporate/ commercial); the customer transactional requirements/ pattern\n(e.g., bill payment, fund transfer), the sensitivity of customer information and\nthe volume, value of transactions involved.\nb) Beyond the technology factor, the success of a particular authentication method\ndepends on appropriate policies, procedures, and controls. An effective\nauthentication method should take into consideration customer acceptance,\nease of use, reliable performance, scalability to accommodate growth,\ncustomer profile, location, transaction, etc., and interoperability with other\nsystems.\nc) To enhance online processing security, multi factor authentication and alerts\n(like SMS, e-mail, etc.) should be applied in respect of all payment transactions\n(including debits and credits), creation of new account linkages (addition/\nmodification/ deletion of beneficiaries), changing account details or revision to\nfund transfer limits. In devising these security features, REs should take into\naccount their efficacy and differing customer preferences for additional online\nprotection.\nd) The alerts and OTPs received by the customer for online transactions shall\nidentify the merchant name, wherever applicable, rather than the payment\naggregator through which the transaction was effected.\ne) As an integral part of the multi factor authentication architecture, REs should\nalso implement appropriate measures to minimise exposure to a middleman\nattack which is more commonly known as a man-in-the-middle attack (MITM),\nman-in-the browser (MITB) attack or man-in-the application attack. This is to\nensure, among other things, that the data in transit is secured and the\ntransactions are authenticated only by genuine/ authorised source/ process.\nf)\nAn authenticated session, together with its encryption protocol, should remain\nintact throughout the interaction with the customer. Else, in the event of\ninterference or in case the customer closes the application, the session should\nbe terminated, and the affected transactions resolved or reversed out. The\ncustomer should be promptly notified about the status of the transaction by\nemail, SMS or through other means.",
+    "section": "REs may also adopt adaptive authentication to select the right authentication factors",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs should set down the maximum number of failed log-in or authentication:\nattempts after which access to the digital payment product/ service is blocked. They\nshould have a secure procedure in place to re-activate the access to blocked\nproduct/ service. The customer shall be notified for failed log-in or authentication\nattempts.\nFraud Risk Management",
+    "section": "REs should set down the maximum number of failed log-in or authentication",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The REs shall document and implement the configuration aspects for identifying:\nsuspicious transactional behaviour in respect of rules, preventive, detective types\nof controls, mechanism to alert the customers in case of failed authentication, time\nframe for the same, etc.",
+    "section": "The REs shall document and implement the configuration aspects for identifying",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "System alerts shall be parameterised and monitored in terms of various applicable:\nparameters. Such parameters, as applicable could be: transaction velocity (e.g.,\nfund transfers, cash withdrawals, payments through electronic modes, adding new\nbeneficiaries, etc.) in a short period, more so in the accounts of customers who\u2019ve\nnever used mobile app/ internet banking/ card ever (depending upon the type of\npayment channel), high risk merchant category codes (MCC) parameters,\ncounterfeit card parameters (String of Invalid CVV/ PINs indicates an account\ngeneration attack), new account parameters (excessive activity on a new account\n), time zones, geo-locations, IP address origin (in respect of unusual patterns,\nprohibited zones/ rogue IPs), behavioural biometrics, transaction origination from\npoint of compromise, transactions to mobile wallets/ mobile numbers/ VPAs on\nwhom vishing fraud or other types of fraud is/are registered/ recorded, declined\ntransactions, transactions with no approval code, etc.",
+    "section": "System alerts shall be parameterised and monitored in terms of various applicable",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Fraud analysis shall be conducted to identify the reason for fraud occurrence and:\ndetermine mechanism to prevent such frauds.",
+    "section": "Fraud analysis shall be conducted to identify the reason for fraud occurrence and",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The staff, especially in the fraud control function, shall be educated about frauds:\nand trained in the following skills and areas of expertise:\na) Fraud control tools and their usage;\nb) Investigative techniques and procedures;\nc) Cardholder and merchant education techniques to prevent fraud;\nd) Scheme/ Card operating regulations;\ne) Data processing and analysis and liaising or communicating with law\nenforcement agencies; and\nf)\nThe requisite skills required to (i) set and update appropriate rules, (ii) monitor\nthe exceptions thrown based on the rules on a continuous basis and take\nnecessary actions promptly, (iii) communicate/ escalate wherever required to\nappropriate authorities, and (iv) differentiate false positives from the rest.",
+    "section": "The staff, especially in the fraud control function, shall be educated about frauds",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall maintain updated contact details of service providers, intermediaries,:\nexternal agencies and other stakeholders (including other REs) for coordination in\nincident response. REs shall put in place a mechanism with the stakeholders to\nupdate and verify such contact details.  REs shall also formulate specific SOPs to\nhandle incidents related to payment ecosystem to mitigate the loss either to the\ncustomer or RE.\nReconciliation Mechanism",
+    "section": "REs shall maintain updated contact details of service providers, intermediaries,",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "A real time/ near-real time (not later than 24 hours from the time of receipt of:\nsettlement file(s)) reconciliation framework for all digital payment transactions\nbetween RE and all other stakeholders such as payment system operators,\nbusiness correspondents, card networks, payment system processors, payment\naggregators, payment gateways, third party technology service providers, other\nparticipants, etc., shall be put in place for better detection and prevention of\nsuspicious transactions. A mechanism shall be introduced to monitor the\nimplementation and effectiveness of such framework.\nCustomer Protection, Awareness and Grievance Redressal Mechanism",
+    "section": "A real time/ near-real time (not later than 24 hours from the time of receipt of",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall incorporate secure, safe and responsible usage guidelines and training:\nmaterials for end users within the digital payment applications. They shall also make\nit mandatory (i.e. not providing any option to circumvent/ avoid the material) for the\nconsumer to go through secure usage guidelines (even in the consumer\u2019s preferred\nlanguage) while obtaining and recording confirmation during the on-boarding\nprocedure in the first instance and first use after each update of the digital payment\napplication or after major updates to secure and safe usage guidelines.",
+    "section": "REs shall incorporate secure, safe and responsible usage guidelines and training",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall mention/ incorporate a section on the digital payment application clearly:\nspecifying the process and procedure (with forms/ contact information, etc.) to lodge\nconsumer grievances. A mechanism to keep this information periodically updated\nshall also be put in place. The reporting facility on the application shall provide an\noption for registering a grievance. Customer dispute handling, reporting and\nresolution procedures, including the expected timelines for the RE's response\nshould be clearly defined.",
+    "section": "REs shall mention/ incorporate a section on the digital payment application clearly",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall adhere to extant instructions4, updated from time to time, to put in place:\nsystem/s for online dispute resolution for resolving disputes and grievances of\ncustomers pertaining to digital payments.",
+    "section": "REs shall adhere to extant instructions4, updated from time to time, to put in place",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall educate customers about the need to maintain the physical and logical:\nsecurity of their devices accessing digital payment products and services including\nrecommending secure/ regular installation of operating system and application\nupdates, downloading applications only from authorised sources, having anti-\nmalware/ anti-virus applications on devices, etc.",
+    "section": "REs shall educate customers about the need to maintain the physical and logical",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall ensure that its customers are provided information about the risks,:\nbenefits and liabilities of using digital payment products and its related services\nbefore they subscribe to them. Customers shall also be informed clearly and\nprecisely on their rights, obligations and responsibilities on matters relating to digital\npayments, and, any problems that may arise from its service unavailability,\nprocessing errors and security breaches. The terms and conditions including\ncustomer privacy and security policy applying to digital payment products and\nservices shall be readily available to customers within the product. All digital\nchannels are to be offered on express willingness of customers and shall not be\nbundled without their knowledge.",
+    "section": "REs shall ensure that its customers are provided information about the risks,",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "Whenever new operating features or functions, particularly those relating to:\nsecurity, integrity and authentication, are introduced to online delivery channels,\n4 RBI/2020-21/21 DPSS.CO.PD No.116/02.12.004/2020-21 circular dated August 6, 2020 on \u2018Online Dispute Resolution (ODR)\nSystem for Digital Payments\u2019\nclear and effective communication followed by sufficient instructions to properly\nutilise such new features should be provided to the customers.",
+    "section": "Whenever new operating features or functions, particularly those relating to",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs may continuously create public awareness on the types of threats and attacks:\nused against the consumers while using digital payment products and\nprecautionary measures to safeguard against the same. Customers shall be\ncautioned against commonly known threats in recent times like phishing, vishing,\nreverse-phishing, remote access of mobile devices and educated to secure and\nsafeguard their account details, credentials, PIN, card details, devices, etc.",
+    "section": "REs may continuously create public awareness on the types of threats and attacks",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall provide digital payment products and services, to a customer only at her/:\nhis option based on specific written or authenticated electronic requisition along with\na positive acknowledgement of the terms and conditions.",
+    "section": "REs shall provide digital payment products and services, to a customer only at her/",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs should provide a mechanism on their mobile and internet banking application:\nfor their customers to, with necessary authentication, identify/ mark a transaction\nas fraudulent for seamless and immediate notification to his RE. On such\nnotification by the customer, the REs may endeavour to build the capability for\nseamless/ instant reporting of fraudulent transactions to the corresponding\nbeneficiary/ counterparty\u2019s RE; vice-versa have mechanism to receive such\nfraudulent transactions reported from other REs. The objective of this mechanism\nis to accelerate early detection and enable the banking/ payment system to trace\nthe transaction trail and mitigate the loss to the defrauded customer at the earliest\npossible time.\nChapter III\nINTERNET BANKING SECURITY CONTROLS\nIn addition to the controls prescribed in Chapter II, the following instructions are\napplicable to REs offering/ intending to offer internet banking facility to their customers:",
+    "section": "REs should provide a mechanism on their mobile and internet banking application",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Internet banking websites are vulnerable to authentication related brute force:\nattacks/ application layer Denial of Service (DoS) attacks. Based on the RE\u2019s\nindividual risk/ vulnerability assessment on authentication-related attacks such as\nbrute force/ DoS attacks, REs shall implement additional levels of authentication to\ninternet banking website such as adaptive authentication, strong CAPTCHA\n(preferably with anti-bot features) with server-side validation, etc., in order to plug\nthis vulnerability and prevent its exploitation. Appropriate measures shall be taken\nto prevent DNS cache poisoning attacks and for secure handling of cookies. Virtual\nkeyboard option should be made available.",
+    "section": "Internet banking websites are vulnerable to authentication related brute force",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Secure delivery of password for login purpose shall be ensured. The password:\ngenerated and dispatched by the RE should be valid for a limited period from the\ndate of its creation. If the password is generated and dispatched by the RE, then,\nthe user shall be compulsorily required to change the password, on the first login.",
+    "section": "Secure delivery of password for login purpose shall be ensured. The password",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "When the internet banking application is accessed through external websites (eg::\nin case of payment of taxes, e-commerce transactions, etc.), the procedure for\nauthentication and the appearance/ look and feel of the RE\u2019s internet banking site\nshould be made uniform as far as possible.\nChapter IV\nMOBILE PAYMENTS APPLICATION SECURITY CONTROLS\nIn addition to the controls prescribed in Chapter II, the following instructions are\napplicable to the REs offering/ intending to offer mobile banking/ mobile payments\nfacility to their customers through mobile application:",
+    "section": "When the internet banking application is accessed through external websites (eg:",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "On detection of any anomalies or exceptions for which the mobile application was:\nnot programmed, the customer shall be directed to remove the current copy/\ninstance of the application and proceed with installation of a new copy/ instance of\nthe application. REs shall be able to verify the version of the mobile application\nbefore the transactions are enabled.",
+    "section": "On detection of any anomalies or exceptions for which the mobile application was",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Specific Controls for mobile applications include::\na) Device policy enforcement (allowing app installation/ execution after baseline\nrequirements are met);\nb) Application secure download/ install;\nc) Deactivating older application versions in a phased but time bound manner (not\nexceeding six months from the date of release of newer version) i.e.,\nmaintaining only one version (excluding the overlap period while phasing out\nolder version) of the mobile application on a platform/ operating system;\nd) Storage of customer data;\ne) Device or application encryption;\nf)\nEnsuring minimal data collection/ app permissions;\ng) Application sandbox/ containerisation;\nh) Ability to identify remote access applications (to the extent possible) and\nprohibit login access to the mobile application, as a matter of precaution; and\ni)\nCode obfuscation.",
+    "section": "Specific Controls for mobile applications include:",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs may consider to perform validation on the security and compatibility condition:\nof the device/ operating system and the mobile application to ensure that activities\nrelating to the account are put through the mobile application in a safe and secure\nmanner.",
+    "section": "REs may consider to perform validation on the security and compatibility condition",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "security"
+  },
+  {
+    "text": "REs may explore the feasibility of implementing a code that checks if the device is:\nrooted/ jailbroken prior to the installation of the mobile application and disallow the\nmobile application to install/ function if the phone is rooted/ jailbroken.",
+    "section": "REs may explore the feasibility of implementing a code that checks if the device is",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Checksum of current active version of application shall be hosted on public platform:\nso that users can verify the same.",
+    "section": "Checksum of current active version of application shall be hosted on public platform",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall ensure device binding of mobile application5.:\n5  The device binding should be preferably implemented through a combination of hardware, software and service information.\nIn case, the RE allows multiple devices to be registered, then, (a) the user must be notified of every new device registration on",
+    "section": "REs shall ensure device binding of mobile application5.",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Considering that the additional factor of authentication and mobile application may:\nreside on the same mobile device in the case of mobile banking, mobile payments,\nREs may consider implementing alternatives to SMS-based OTP authentication\nmechanisms.",
+    "section": "Considering that the additional factor of authentication and mobile application may",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The mobile application should require re-authentication whenever the device or:\napplication remains unused for a designated period and each time the user\nlaunches the application. Applications must be able to identify new network\nconnections or connections from unsecured networks like unsecured Wi-Fi\nconnections and must implement appropriate authentication/ checks/ measures to\nperform transactions under those circumstances.",
+    "section": "The mobile application should require re-authentication whenever the device or",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The mobile application should not store/ retain sensitive personal/ consumer:\nauthentication information such as user IDs, passwords, keys, hashes, hard coded\nreferences on the device and the application should securely wipe any sensitive\ncustomer information from memory when the customer/ user exits the application.",
+    "section": "The mobile application should not store/ retain sensitive personal/ consumer",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall ensure that their mobile application limit the writing of sensitive:\ninformation into \u2018temp\u2019 files. The sensitive information written in such files must be\nsuitably encrypted/ masked/ hashed and stored securely.",
+    "section": "REs shall ensure that their mobile application limit the writing of sensitive",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs may consider designing anti-malware capabilities into their mobile:\napplications.",
+    "section": "REs may consider designing anti-malware capabilities into their mobile",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall ensure that the usage of raw (visible) SQL queries in mobile applications:\nto fetch or update data from databases is avoided. Mobile applications should be\nsecured from SQL injection type of vulnerabilities. Sensitive information should be\nwritten to the database in an encrypted form. Web content, as part of the mobile\napplication\u2019s layout, should not be loaded if errors are detected during SSL/ TLS\nnegotiation. Certificate errors on account of the certificate not being signed by a\nrecognised certificate authority; expiry/ revocation of the certificate must be\ndisplayed to the user.\nmultiple channels such as registered mobile number, email or phone call and (b)  in relation to the mobile application, RE must\nmaintain a record of all registered devices, providing the user a facility to disable a registered device.\nChapter V\nCARD PAYMENTS SECURITY\nIn addition to the controls prescribed in Chapter II, the following instructions are\napplicable to the REs offering/ intending to issue cards (credit/ debit/ prepaid) (physical\nor virtual) to their customers:",
+    "section": "REs shall ensure that the usage of raw (visible) SQL queries in mobile applications",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs shall follow various payment card standards (over and above PCI-DSS and:\nPA-DSS6) as per Payment Card Industry (PCI) prescriptions for comprehensive\npayment card security as per applicability/ readiness of updated versions of the\nstandards such as \u2013\na) PCI-PIN (secure management, processing, and transmission of personal\nidentification number (PIN) data);\nb) PCI-PTS (security approval framework addresses the logical and/ or physical\nprotection of cardholder and other sensitive data at point of interaction (POI)\ndevices and hardware security modules (HSMs);\nc) PCI-HSM (securing cardholder-authentication applications and processes\nincluding key generation, key injection, PIN verification, secure encryption\nalgorithm, etc.); and\nd) PCI-P2PE (security standard that requires payment card information to be\nencrypted instantly upon its initial swipe and then securely transferred directly\nto the payment processor).",
+    "section": "REs shall follow various payment card standards (over and above PCI-DSS and",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs should ensure that terminals installed at the merchants for capturing card:\ndetails for payments or otherwise are validated against the PCI-P2PE program to\nuse PCI-approved P2PE solutions; PoS terminals with PIN entry installed at the\nmerchants for capturing card payments (including the double swipe terminals) are\napproved by the PCI-PTS  program.",
+    "section": "REs should ensure that terminals installed at the merchants for capturing card",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Acquirers shall secure their card payment infrastructure (Unique Key Per Terminal:\n\u2013 UKPT or Derived Unique Key Per Transaction \u2013 DUKPT/ Terminal Line\nEncryption \u2013 TLE).",
+    "section": "Acquirers shall secure their card payment infrastructure (Unique Key Per Terminal",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The security controls to be implemented at HSM are::\na) The HSMs should have logging enabled, the logs must themselves be tamper\nproof;\nb) HSM can become a single point of failure. This needs to be mitigated by\n\u2018clustering\u2019 for high availability and ensure secure backups;\nc) Access to the HSM should be controlled through Access Control Lists (ACLs);\nd) Separate ACLs should be maintained for each individual application to ensure\napplication level isolation;\ne) All access to HSM should be managed and monitored using a robust Privileged\nIdentity and Access Management solution;\nf)\nDecryption and validation of keys, PIN should be done at HSM;\n6 PCI Secure Software Standard, a PCI standard within PCI Software Security Framework (SSF) will replace PA-DSS as the\nprimary standard for securing payment software in 2022. (ref: PCI security standards website)\ng) Card PIN generation and printing should be directly at system connected HSM;\nh) CVV generation and validation should be done at HSM;\ni)\nEnsure HSM is implemented with secure PIN block format with controls to\ndisable outputting PIN block in weaker format;\nj)\nSecure key management for HSMs (such as LMKs, etc.); and\nk) Security of the physical keys of the HSM device should be properly maintained.",
+    "section": "The security controls to be implemented at HSM are:",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "security"
+  },
+  {
+    "text": "REs shall implement the following for improving the security posture of the ATM::\na) Implement security measures such as BIOS password, disabling USB ports,\ndisabling auto-run facility, applying the latest patches of operating system and\nother softwares, terminal security solution, time-based admin access, etc;\nb) Implement anti-skimming and whitelisting solution; and\nc) Upgrade all the ATMs with supported versions of operating system. Use of\nATMs that have unsupported operating systems shall be prohibited.",
+    "section": "REs shall implement the following for improving the security posture of the ATM:",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "security"
+  },
+  {
+    "text": "REs shall ensure robust surveillance/ monitoring of card transactions (especially:\noverseas cash withdrawals) and setting up of rules and limits commensurate with\ntheir risk appetites. REs shall take up with the card network and/ or ATM network\nas the case may be, to put in place transaction limits at Card, BIN as well as at the\nRE level. Such limits shall be mandatorily set at the card network switch itself. Limits\ncould be mandated both for domestic as well as international transactions\nseparately. REs shall put in place transaction control mechanisms with necessary\ncaps (restrictions on transactions), if any of the limits set as per the above\nrequirement is breached. A periodic review mechanism of such limits set as per the\nrisk appetite of the RE shall be put in place as per the Board-approved policy. REs\nshall institute a mechanism to monitor breaches, if any, on a 24x7 basis, including\nweekends, long holidays and put in place a robust incident response mechanism to\nmitigate the fraud loss, on account of suspicious transactions, if any. REs shall\nensure that card details of the customers are not stored in plain text at the RE and\nits vendor(s) locations, systems and applications. REs shall also ensure that the\nprocessing of card details in readable format is performed in a secure manner to\nstrictly avoid data leakage of sensitive customer information.",
+    "section": "REs shall ensure robust surveillance/ monitoring of card transactions (especially",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "REs that use card data scanning tools to identify unencrypted (clear text) payments:\ncard data in their ecosystem especially during audits shall adhere to the following\nsafety measures:\na) Any tool (procured by/ from a third-party) for the purpose of scanning of\nunencrypted card data should first be tested in a test environment to understand\nthe scope and impact of the tool\u2019s capabilities;\nb) The scanning tool should be installed only in the RE's premises on their devices;\nc) Card data scanning should not be done remotely;\nd) The discovered data, if any, must preferably reside in the scanning tool.\nExportable card data must be appropriately masked. (No data, even masked,\nmust be taken out of the RE\u2019s premises/ infrastructure); and\ne) Limited access to service providers to conduct the scan or analyse the data, if\nat all, must be provided only on the RE\u2019s devices.\nAcronyms\nACL\nAccess Control List\nASLC\nApplication Security Life Cycle\nATM\nAutomated Teller Machine\nBIN\nBank Identification Number\nBIOS\nBasic Input/ Output System\nCAPTCHA\nCompletely Automated Public Turing test to tell Computers and\nHumans Apart\nCVV\nCard Verification Value\nDDoS\nDistributed Denial of Service\nDNS\nDomain Name Server\nDoR\nDepartment of Regulation\nDoS\nDepartment of Supervision\nDPSS\nDepartment of Payment and Settlement Systems\nDUKPT\nDerived Unique Key per Transaction\nEMV\nEuropay, Mastercard, and Visa\nFSP\nFunctionality, Security and Performance\nHSM\nHardware Security Module\nHTML\nHyperText Markup Language\nIP\nInternet Protocol\nIT\nInformation Technology\nIVR\nInteractive Voice Response\nLMK\nLocal Master Key\nMCC\nMerchant Category Code\nMITB\nMan-in-The Browser attack\nMITM\nMan-In-the-Middle attack\nNIST\nNational Institute of Standards and Technology\nOEM\nOriginal Equipment Manufacturer\nOTP\nOne Time Password\nOWASP\nOpen Web Application Security Project\nOWASP-ASVS\nOpen Web Application Security Project \u2013 Application Security\nVerification Standard\nOWASP-MASVS\nOpen Web Application Security Project \u2013 Mobile Application\nSecurity Verification Standard\nPA-DSS\nPayment Application Data Security Standard\nPCI\nPayment Card Industry\nPCI-DSS\nPayment Card Industry-Data Security Standard\nPCI-HSM\nPayment Card Industry-Hardware Security Module\nPCI-P2PE\nPayment Card Industry-Point to Point Encryption\nPCI-PTS\nPayment Card Industry-PIN Transaction Security\nPIN\nPersonal Identification Number\nPKI\nPublic Key Infrastructure\nPoS\nPoint of Sale\nPT\nPenetration Testing\nRBI\nReserve Bank of India\nRCSA\nRisk Control Self-Assessment\nREs\nRegulated Entities\nSIM\nSubscriber Identification Module\nSOP\nStandard Operating Procedure\nSQL\nStructured Query Language\nSSL\nSecure Socket Layer\nTLE\nTerminal Line Encryption\nTLS\nTransport Layer Security\nUAT\nUser Acceptance Test\nUKPT\nUnique Key Per terminal\nUSB\nUniversal Serial Bus\nVA\nVulnerability Assessment\nVPA\nVirtual Payment Address\nWAF\nWeb Application Firewall",
+    "section": "REs that use card data scanning tools to identify unencrypted (clear text) payments",
+    "source": "RBI",
+    "file_name": "RBI_Master_Direction_dated_18.02.2021_-_Digital_Payment_Security_Controls.pdf",
+    "type": "data"
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "text": "IT Services Outsourcing:\nSection- B",
+    "section": "IT Services Outsourcing",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Recommendations for NBFCs with asset size:\nbelow ` 500 crore\nAnnex- I\nTemplate for reporting Cyber Incidents\nPage 3 of 15\nIntroduction:\nThe NBFC (Non-Banking Finance Company) sector has grown in size and complexity over the years. As the\nNBFC industry matures and achieves scale, its Information Technology /Information Security (IT/IS)\nframework, Business continuity planning (BCP), Disaster Recovery (DR) Management, IT audit, etc. must be\nbenchmarked to best practices.",
+    "section": "Recommendations for NBFCs with asset size",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Accordingly, directions on IT Framework for the NBFC sector that are expected to enhance safety,:\nsecurity, efficiency in processes leading to benefits for NBFCs and their customers are enclosed. NBFCs\nmay have already implemented or may be implementing some of the requirements indicated in the circular.\nNBFCs are therefore required to conduct a formal gap analysis between their current status and stipulations\nas laid out in the circular and put in place a time-bound action plan to address the gap and comply with the\nguidelines.",
+    "section": "Accordingly, directions on IT Framework for the NBFC sector that are expected to enhance safety,",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The focus of the proposed IT framework is on IT Governance, IT Policy, Information & Cyber:\nSecurity, IT Operations, IS Audit, Business Continuity Planning and IT Services Outsourcing. The\ndirections are categorized into two parts, those which are applicable to all NBFCs with asset size above `\n500 crore (Considered Systemically Important) are provided in Section-A. Directions for NBFCs with asset\nsize below ` 500 crore are provided in Section-B.",
+    "section": "The focus of the proposed IT framework is on IT Governance, IT Policy, Information & Cyber",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "NBFCs may place these directions before their Board, together with a gap-analysis vis-a-vis the Master:\nDirection and the proposed action by September 30, 2017.",
+    "section": "NBFCs may place these directions before their Board, together with a gap-analysis vis-a-vis the Master",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "NBFCs- Systemically Important shall comply with the Master Directions by June 30, 2018 and other:\nNBFCs (asset size below ` 500 crore) shall comply by September 30, 2018.\nPage 4 of 15\nSection-A\nIT GOVERNANCE",
+    "section": "NBFCs- Systemically Important shall comply with the Master Directions by June 30, 2018 and other",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "IT Governance:\nIT Governance is an integral part of corporate governance. It involves leadership support, organizational\nstructure and processes to ensure that the NBFC\u2019s IT sustains and extends business strategies and\nobjectives. Effective IT Governance is the responsibility of the Board of Directors and Executive\nManagement.\nWell-defined roles and responsibilities of Board and Senior Management are critical, while\nimplementing\nIT\nGovernance.\nClearly-defined\nroles\nenable\neffective\nproject\ncontrol.\nPeople,\nwhen they are aware of others' expectations from them, are able to complete work on time,\nwithin budget and to the expected level of quality. IT Governance Stakeholders include: Board of Directors,\nIT Strategy Committees, CEOs, Business Executives, Chief Information Officers (CIOs), Chief Technology\nOfficers (CTOs), IT Steering Committees (operating at an executive level and focusing on priority setting,\nresource allocation and project tracking), Chief Risk Officer and Risk Committees.\nThe basic principles of value delivery, IT Risk Management, IT resource management and performance\nmanagement must form the basis of governance framework. IT Governance has a continuous life-cycle. It's\na process in which IT strategy drives the processes, using resources necessary to execute responsibilities.\nGiven the criticality of the IT, NBFCs may follow relevant aspects of such prudential governance standards\nthat have found acceptability in the finance industry.",
+    "section": "IT Governance",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1     IT Strategy Committee:  NBFCs are required to form an IT Strategy Committee. The chairman of the:\ncommittee shall be an independent director and CIO & CTO should be a part of the committee. The IT\nStrategy Committee should meet at an appropriate frequency but not more than six months should elapse\nbetween two meetings. The Committee shall work in partnership with other Board committees and Senior\nManagement to provide input to them. It will also carry out review and amend the IT strategies in line with\nthe corporate strategies, Board Policy reviews, cyber security arrangements and any other matter related to\nIT Governance. Its deliberations may be placed before the Board.",
+    "section": "1     IT Strategy Committee:  NBFCs are required to form an IT Strategy Committee. The chairman of the",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Roles and Responsibilities of IT Strategy Committee:  Some of the roles and responsibilities include::\n\u2022\nApproving IT strategy and policy documents and ensuring that the management has put an effective\nstrategic planning process in place;\n\u2022\nAscertaining that management has implemented processes and practices that ensure that the IT\ndelivers value to the business;\nPage 5 of 15\n\u2022\nEnsuring IT investments represent a balance of risks and benefits and that budgets are acceptable;\n\u2022\nMonitoring the method that management uses to determine the IT resources needed to achieve\nstrategic goals and provide high-level direction for sourcing and use of IT resources;\n\u2022\nEnsuring proper balance of IT investments for sustaining NBFC\u2019s growth and becoming aware about\nexposure towards IT risks and controls.\nIT POLICY",
+    "section": "2 Roles and Responsibilities of IT Strategy Committee:  Some of the roles and responsibilities include:",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "NBFCs may formulate a Board approved IT policy, in line with the objectives of their organisation:\ncomprising the following:\na) An IT organizational structure commensurate with the size, scale and nature of business activities\ncarried out by the NBFC;\nb) NBFCs may designate a senior executive as the Chief Information Officer (CIO) or in-Charge of IT\noperations whose responsibility is to ensure implementation of IT Policy to the operational level\ninvolving IT strategy, value delivery, risk management and IT resource management.\nc) To ensure technical competence at senior/middle level management of NBFC, periodic assessment\nof the IT training requirements should be formulated to ensure that sufficient, competent and capable\nhuman resources are available.\nd) The NBFCs which are currently not using IPv6 platform should migrate to the same as per National\nTelecom Policy issued by the Government of India in 2012. (As per Circular DNBS(Inf.).CC.No\n309/24.01.022/2012-13 November 08, 2012)\nINFORMATION AND CYBER SECURITY",
+    "section": "NBFCs may formulate a Board approved IT policy, in line with the objectives of their organisation",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Information Security:\nInformation is an asset to all NBFCs and Information Security (IS) refers to the protection of these assets in\norder to achieve organizational goals. The purpose of IS is to control access to sensitive information,\nensuring  use  only  by  legitimate  users  so  that  data  cannot  be  read  or compromised without proper\nauthorization. NBFCs must have a board approved IS Policy with the following basic tenets:\na) Confidentiality \u2013 Ensuring access to sensitive data to authorized users only.\nb) Integrity \u2013  Ensuring  accuracy  and  reliability  of  information by ensuring that there is  no\nmodification without authorization.\nc) Availability \u2013 Ensuring that uninterrupted data is available to users when it is needed.\nd) Authenticity \u2013 For IS it is necessary to ensure that the data, transactions, communications or\ndocuments (electronic or physical) are genuine.\nPage 6 of 15",
+    "section": "Information Security",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "security"
+  },
+  {
+    "text": "1  The IS Policy must provide for a IS framework with the following basic tenets::\na) Identification and Classification of Information Assets. NBFCs shall maintain detailed inventory\nof Information Asset with distinct and clear identification of the asset.\nb) Segregation of functions: There should be segregation of the duties of the Security Officer/Group\n(both physical security as well as cyber security) dealing exclusively with information systems\nsecurity and the Information Technology division which actually implements the computer systems.\nThe information security function should be adequately resourced in terms of the number of staff,\nlevel of skill and tools or techniques like risk assessment, security architecture, vulnerability\nassessment, forensic assessment, etc. Further, there should be a clear segregation of\nresponsibilities relating to system administration, database administration and transaction\nprocessing.\nc) Role based Access Control \u2013 Access to information should be based on well-defined user roles\n(system administrator, user manager, application owner etc.), NBFCs shall avoid dependence on\none or few persons for a particular job. There should be clear delegation of authority for right to\nupgrade/change user profiles and permissions and also key business parameters (eg. interest rates)\nwhich should be documented.\nd) Personnel Security - A few authorized application owners/users may have intimate knowledge of\nfinancial institution processes and they pose potential threat to systems and data. NBFC should have\na process of appropriate check and balance in this regard. Personnel with privileged access like\nsystem administrator, cyber security personnel, etc should be subject to rigorous background check\nand screening.\ne) Physical Security - The confidentiality, integrity, and availability of information can be impaired\nthrough physical access and damage or destruction to physical components. NBFCs need to create\na secured environment for physical security of IS Assets such as secure location of critical data,\nrestricted access to sensitive areas like data center etc.\nf) Maker-checker is one of the important principles of authorization in the information systems of\nfinancial entities. For each transaction, there must be at least two individuals necessary for its\ncompletion as this will reduce the risk of error and will ensure reliability of information.\ng) Incident Management - The IS Policy should define what constitutes an incident. NBFCs shall\ndevelop and implement processes for preventing, detecting, analysing and responding to information\nsecurity incidents.\nh) Trails- NBFCs shall ensure that audit trails exist for IT assets satisfying its business requirements\nincluding regulatory and legal requirements, facilitating audit, serving as forensic evidence when\nrequired and assisting in dispute resolution. If an employee, for instance, attempts to access an\nunauthorized section, this improper activity should be recorded in the audit trail.\nPage 7 of 15\ni) Public Key Infrastructure (PKI) - NBFCs may increase the usage of PKI to ensure confidentiality of\ndata, access control, data integrity, authentication and nonrepudiation.",
+    "section": "1  The IS Policy must provide for a IS framework with the following basic tenets:",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2  Cyber Security:\nNeed for a Board approved Cyber-security Policy\nNBFCs should put in place a cyber-security policy elucidating the strategy containing an appropriate\napproach to combat cyber threats given the level of complexity of business and acceptable levels of risk,\nduly approved by their Board. NBFCs should review the organisational arrangements so that the security\nconcerns are appreciated, receive adequate attention and get escalated to appropriate levels in the\nhierarchy to enable quick action.",
+    "section": "2  Cyber Security",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "security"
+  },
+  {
+    "text": "3  Vulnerability Management:\nA vulnerability can be defined as an inherent configuration flaw in an organization\u2019s information technology\nbase, whether hardware or software, which can be exploited by a third party to gather sensitive information\nregarding the organization. Vulnerability management is an ongoing process to determine the process of\neliminating or mitigating vulnerabilities based upon the risk and cost associated with the vulnerabilities.\nNBFCs may devise a strategy for managing and eliminating vulnerabilities and such strategy may clearly be\ncommunicated in the Cyber Security policy.",
+    "section": "3  Vulnerability Management",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4   Cyber security preparedness indicators:\nThe adequacy of and adherence to cyber resilience framework should be assessed and measured through\ndevelopment of indicators to assess the level of risk/preparedness. These indicators should be used for\ncomprehensive testing through independent compliance checks and audits carried out by qualified and\ncompetent professionals. The awareness among the stakeholders including employees may also form a part\nof this assessment.",
+    "section": "4   Cyber security preparedness indicators",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "security"
+  },
+  {
+    "text": "5   Cyber Crisis Management Plan:\nA Cyber Crisis Management Plan (CCMP) should be immediately evolved and should be a part of the\noverall Board approved strategy. CCMP should address the following four aspects: (i) Detection (ii)\nResponse (iii) Recovery and (iv) Containment. NBFCs need to take effective measures to prevent cyber-\nattacks and to promptly detect any cyber-intrusions so as to respond / recover / contain the fall out. NBFCs\nare expected to be well prepared to face emerging cyber-threats such as \u2018zero-day\u2019 attacks, remote access\nthreats, and targeted attacks. Among other things, NBFCs should take necessary preventive and corrective\nmeasures in addressing various types of cyber threats including, but not limited to, denial of service,\ndistributed denial of services (DDoS), ransom-ware / crypto ware, destructive malware, business email\nPage 8 of 15\nfrauds including spam, email phishing, spear phishing, whaling, vishing frauds, drive-by downloads, browser\ngateway fraud, ghost administrator exploits, identity frauds, memory update frauds, password related frauds,\netc.",
+    "section": "5   Cyber Crisis Management Plan",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "6 Sharing of information on cyber-security incidents with RBI:\nNBFCs are required to report all types of unusual security incidents as specified in point No. 2 of Annex I\nwhich deals with Basic Information including Cyber Security Incidents as specified in CSIR Form of Annex I\n(both the successful as well as the attempted incidents which did not fructify) to the DNBS Central Office,\nMumbai. The other particulars of the reporting have been provided in template as per Annex I.",
+    "section": "6 Sharing of information on cyber-security incidents with RBI",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "security"
+  },
+  {
+    "text": "7   Cyber-security awareness among stakeholders / Top Management / Board:\nIt should be realized that managing cyber risk requires the commitment of the entire organization to create a\ncyber-safe environment. This will require a high level of awareness among staff at all levels. Top\nManagement and Board should also have a fair degree of awareness of the fine nuances of the threats and\nappropriate familiarisation may be organized. NBFCs should proactively promote, among their customers,\nvendors, service providers and other relevant stakeholders an understanding of their cyber resilience\nobjectives, and require and ensure appropriate action to support their synchronised implementation and\ntesting.",
+    "section": "7   Cyber-security awareness among stakeholders / Top Management / Board",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "security"
+  },
+  {
+    "text": "8   Digital Signatures:\nA Digital Signature Certificate authenticates entity\u2019s identity electronically. It also provides a high level of\nsecurity for online transactions by ensuring absolute privacy of the information exchanged using a Digital\nSignature Certificate. NBFCs may consider use of Digital signatures to protect the authenticity and integrity\nof important electronic documents and also for high value fund transfer.",
+    "section": "8   Digital Signatures",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "9   IT Risk Assessment:\nNBFCs should undertake a comprehensive risk assessment of their IT systems at least on a yearly basis.\nThe assessment should make an analysis on the threats and vulnerabilities to the information technology\nassets of the NBFC and its existing security controls and processes. The outcome of the exercise should be\nto find out the risks present and to determine the appropriate level of controls necessary for appropriate\nmitigation of risks. The risk assessment should be brought to the notice of the Chief Risk Officer (CRO), CIO\nand the Board of the NBFC and should serve as an input for Information Security auditors.",
+    "section": "9   IT Risk Assessment",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "10   Mobile Financial Services:\nNBFCs that are already using or intending to use Mobile Financial Services should develop a mechanism for\nsafeguarding information assets that are used by mobile applications to provide services to customers. The\nPage 9 of 15\ntechnology used for mobile services should ensure confidentiality, integrity, authenticity and must provide for\nend-to end encryption.",
+    "section": "10   Mobile Financial Services",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "11   Social Media Risks:\nNBFCs using Social Media to market their products should be well equipped in handling social media risks\nand threats. As Social Media is vulnerable to account takeovers and malware distribution, proper controls,\nsuch as encryption and secure connections, should be prevalent to mitigate such risks.",
+    "section": "11   Social Media Risks",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "12    Training:\nHuman link is the weakest link in the information security chain. Hence, there is a vital need for an initial and\nongoing training and information security awareness programme. The programme may be periodically\nupdated keeping in view changes in information technology system, threats/vulnerabilities and/or the\ninformation security framework. There needs to be a mechanism to track the effectiveness of training\nprogrammes through an assessment / testing process. At any point of time, NBFCs need to maintain an\nupdated status on user training and awareness relating to information security.\nIT OPERATIONS\n4   IT Operations should support processing and storage of information, such that the required information is\navailable in a timely, reliable, secure and resilient manner. The Board or Senior Management should take\ninto consideration the risk associated with existing and planned IT operations and the risk tolerance and\nthen establish and monitor policies for risk management.",
+    "section": "12    Training",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1   Acquisition and Development of Information Systems (New Application Software) and Change:\nManagement\nIt has been the experience while implementing IT projects that many systems fail because of poor system\ndesign and implementation, as well as inadequate testing. NBFCs should identify system deficiencies and\ndefects at the system design, development and testing phases.\nNBFCs should establish a steering committee, consisting of business owners, the development team and\nother stakeholders to provide oversight and monitoring of the progress of the project, including deliverables\nto be realized at each phase of the project and milestones to be reached according to the project timetable.",
+    "section": "1   Acquisition and Development of Information Systems (New Application Software) and Change",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2   NBFCs are required to realign their IT systems on a regular basis in line with the changing needs of  its:\ncustomers and business. The changes need to be done in such a way that adverse incidents and disruption\nPage 10 of 15\nto services are minimized while maximizing value for the customers. For this purpose, NBFCs should\ndevelop, with the approval of their Board, a Change Management Policy that encompasses the following:\na) prioritizing and responding to change proposals from business,\nb) cost benefit analysis of the changes proposed,\nc) assessing risks associated with the changes proposed,\nd) change implementation, monitoring and reporting.\nIt should be the responsibility of the senior management to ensure that the Change Management policy is\nbeing followed on an ongoing basis.",
+    "section": "2   NBFCs are required to realign their IT systems on a regular basis in line with the changing needs of  its",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3   IT Enabled Management Information System:\nThe IT function of an NBFC should support a robust and comprehensive Management Information System\n(MIS) in respect of various business functions as per the needs of the business. A good MIS should take\ncare of information needs at all levels in the business including top management.",
+    "section": "3   IT Enabled Management Information System",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4  NBFCs may put in place MIS that assist the Top Management as well as the business heads in decision:\nmaking and also to maintain an oversight over operations of various business verticals. With robust IT\nsystems in place, NBFCs may have the following as part of an effective system generated MIS (indicative\nlist)\na) A dashboard for the Top Management summarising financial position vis-\u00e0-vis targets. It may include\ninformation on trend on returns on assets across categories, major growth business segments,\nmovement of net-worth etc.\nb) System enabled identification and classification of Special Mention Accounts and NPA as well as\ngeneration of MIS reports in this regard.\nc) The MIS should facilitate pricing of products, especially large ticket loans.\nd) The MIS should capture regulatory requirements and their compliance.\ne) Financial Reports including operating and non-operating revenues and expenses, cost benefit\nanalysis of segments/verticals, cost of funds, etc. (also regulatory compliance at transaction level)\nf) Reports relating to treasury operations.\ng) Fraud analysis- Suspicious transaction analysis, embezzlement, theft or suspected money-\nlaundering, misappropriation of assets, manipulation of financial records etc. The regulatory\nrequirement of reporting fraud to RBI should be system driven.\nh) Capacity and performance analysis of IT security systems\ni)\nIncident reporting, their impact and steps taken for non -recurrence of such events in the future.\n4.5   MIS for Supervisory requirements - The MIS that help management in taking strategic decisions\nshall also assist in generating the required information/returns for the supervisor.  The present structure of\nPage 11 of 15\nreporting system (to the supervisor) needs to be kept in view while designing the MIS. All\nregulatory/supervisory returns should be system driven; there should be seamless integration between\nMIS system of the NBFC and reporting under COSMOS. Further, it is essential that \u201c\u201dRead Only\u201d access\nbe provided to RBI Inspectors.\nIS AUDIT",
+    "section": "4  NBFCs may put in place MIS that assist the Top Management as well as the business heads in decision",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Policy for Information System Audit (IS Audit).:\nThe objective of the IS Audit is to provide an insight on the effectiveness of controls that are in place to\nensure confidentiality, integrity and availability of the organization\u2019s IT infrastructure. IS Audit shall identify\nrisks and methods to mitigate risk arising out of IT infrastructure such as server architecture, local and wide\narea networks, physical and information security, telecommunications etc.",
+    "section": "Policy for Information System Audit (IS Audit).",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1   IS Audit should form an integral part of Internal Audit system of the NBFC. While designing the IS:\nframework, NBFCs shall refer to guidance issued by Professional bodies like ISACA, IIA, ICAI in this regard.\nICAI has published \u201cStandard on Internal Audit (SIA) 14: Internal Audit in an Information Technology\nEnvironment\u201d on the subject.  NBFCs shall adopt an IS Audit framework duly approved by their Board.\nFurther, NBFCs shall have adequately skilled personnel in Audit Committee who can understand the results\nof the IS Audit.",
+    "section": "1   IS Audit should form an integral part of Internal Audit system of the NBFC. While designing the IS",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Coverage: IS Audit should cover effectiveness of  policy  and  oversight  of  IT systems,  evaluating:\nadequacy  of  processes  and  internal controls, recommend corrective action to address deficiencies and\nfollow-up. IS Audit should also evaluate the effectiveness of business continuity planning, disaster recovery\nset up and ensure that BCP is effectively implemented in the organization.  During the process of IS Audit,\ndue importance shall be given to compliance of all the applicable legal and statutory requirements.",
+    "section": "2 Coverage: IS Audit should cover effectiveness of  policy  and  oversight  of  IT systems,  evaluating",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Personnel \u2013 IS Audit may be conducted by an internal team of the NBFC. In case of inadequate internal:\nskills, NBFCs may appoint an outside agency having enough expertise in area of IT/IS audit for the purpose.\nThere should be a  right mix of skills and understanding  of  legal  and  regulatory  requirements  so  as  to\nassess  the efficacy of the framework vis-\u00e0-vis these standards. IS Auditors should act independently of\nNBFCs\u2019 Management both in attitude and appearance. In case of engagement of external professional\nservice providers, independence and accountability issues may be properly addressed.",
+    "section": "3 Personnel \u2013 IS Audit may be conducted by an internal team of the NBFC. In case of inadequate internal",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Periodicity - The periodicity of IS audit should ideally be based on the size and operations of the NBFC:\nbut may be conducted at least once in a year. IS Audit should be undertaken preferably prior to the statutory\nPage 12 of 15\naudit so that IS audit reports are available to the statutory auditors well in time for examination and for\nincorporating comments, if any, in the audit reports.",
+    "section": "4 Periodicity - The periodicity of IS audit should ideally be based on the size and operations of the NBFC",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 Reporting \u2013   The framework should clearly prescribe the reporting framework, whether to the Board or:\na Committee of the Board viz. Audit Committee of the Board (ACB)",
+    "section": "5 Reporting \u2013   The framework should clearly prescribe the reporting framework, whether to the Board or",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "6 Compliance \u2013 NBFCs\u2019 management is responsible for deciding the appropriate action to be taken in:\nresponse to reported observations and recommendations during IS Audit. Responsibilities for\ncompliance/sustenance of compliance, reporting lines, timelines for submission of compliance, authority for\naccepting compliance should be clearly delineated in the framework.  The framework may provide for an\naudit-mode access for auditors/ inspecting/ regulatory authorities.",
+    "section": "6 Compliance \u2013 NBFCs\u2019 management is responsible for deciding the appropriate action to be taken in",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "7 Computer-Assisted Audit Techniques (CAATs): NBFCs shall adopt a proper mix of manual:\ntechniques and CAATs for conducting IS Audit. CAATs may be used in critical areas (such as detection of\nrevenue leakage, treasury functions, assessing impact of control weaknesses, monitoring customer\ntransactions under AML requirements and generally in areas where a large volume of transactions are\nreported)  particularly  for  critical functions or processes having financial/regulatory/legal implications.\nBusiness Continuity Planning",
+    "section": "7 Computer-Assisted Audit Techniques (CAATs): NBFCs shall adopt a proper mix of manual",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Business Continuity Planning (BCP) and Disaster Recovery:\nBCP forms a significant part of an organisation's overall Business Continuity Management plan, which\nincludes policies, standards and procedures to ensure continuity, resumption and recovery of critical\nbusiness processes. BCP shall be designed to minimise the operational, financial, legal, reputational and\nother material consequences arising from a disaster. NBFC should adopt a Board approved BCP Policy.\nThe functioning of BCP shall be monitored by the Board by way of periodic reports. The CIO shall be\nresponsible for formulation, review and monitoring of BCP to ensure continued effectiveness. The BCP may\nhave the following salient features:",
+    "section": "Business Continuity Planning (BCP) and Disaster Recovery",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Business Impact Analysis-   NBFCs shall first identify critical business verticals, locations and shared:\nresources to come up with the detailed Business Impact Analysis. The process will envisage the impact of\nany unforeseen natural or man-made disasters on the NBFC\u2019s business. The entity shall clearly list the\nbusiness impact areas in order of priority.",
+    "section": "1 Business Impact Analysis-   NBFCs shall first identify critical business verticals, locations and shared",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Recovery strategy/ Contingency Plan- NBFCs shall try to fully understand the vulnerabilities:\nassociated with interrelationships between various systems, departments and business processes. The BCP\nPage 13 of 15\nshould come up with the probabilities of various failure scenarios. Evaluation of various options should be\ndone for recovery and the most cost-effective, practical strategy should be selected to minimize losses in\ncase of a disaster.",
+    "section": "2 Recovery strategy/ Contingency Plan- NBFCs shall try to fully understand the vulnerabilities",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 NBFCs shall consider the need to put in place necessary backup sites for their critical business systems:\nand Data centers.",
+    "section": "3 NBFCs shall consider the need to put in place necessary backup sites for their critical business systems",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 NBFCs shall test the BCP either annually or when significant IT or business changes take place to:\ndetermine if the entity could be recovered to an acceptable level of business within the timeframe stated in\nthe contingency plan. The test should be based on \u2018worst case scenarios\u2019. The results along with the gap\nanalysis may be placed before the CIO and the Board.  The GAP Analysis along with Board\u2019s insight should\nform the basis for construction of the updated BCP.\nIT SERVICES OUTSOURCING",
+    "section": "4 NBFCs shall test the BCP either annually or when significant IT or business changes take place to",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Policy for IT Services Outsourcing:\nOutsourcing of IT related business process can provide an NBFC the opportunity to realise valuable\nstrategic and economic benefits. However, prior to commencement of any outsourcing arrangement, careful\nconsideration of risks, threats of contractual arrangements and regulatory compliance obligations must take\nplace.  Companies usually outsource their IT related business process to a third party vendor because of\nhigher efficiency, inadequate resources and lack of specialized knowledge. The NBFC\u2019s decision to\noutsource IT Services should fit into the institution\u2019s overall strategic plan and corporate objectives.",
+    "section": "Policy for IT Services Outsourcing",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1   The terms and conditions governing the contract between the NBFC and the Outsourcing service:\nprovider should be carefully defined in written agreements and vetted by NBFC\u2019s legal counsel on their legal\neffect and enforceability. The contractual agreement may have the following provisions.\na) Monitoring and Oversight: Provide for continuous monitoring and assessment by the NBFC of the\nservice provider so that any necessary corrective measure can be taken immediately. Outsourcing\nservice provider should have adequate systems and procedures in place to ensure protection of\ndata/application outsourced.\nb) Access to books and records / Audit and Inspection: This would include :\ni.\nEnsure that the NBFC has the ability to access all books, records and information relevant to the\noutsourced activity available with the service provider. For technology outsourcing, requisite\naudit trails and logs for administrative activities should be retained and accessible to the NBFC\nbased on approved requests.\nPage 14 of 15\nii.\nProvide the NBFC with the right to conduct audits on the service provider whether by its internal\nor external auditors, or by external specialists appointed to act on its behalf and to obtain copies\nof any audit or review reports and findings made on the service provider in conjunction with the\nservices performed for the NBFC.\niii.\nThe contractual agreement may include clauses to allow the Reserve Bank of India or persons\nauthorized by it to access the NBFC\u2019s documents, records of transactions, and other\nnecessary information given to, stored or processed by the service provider within a reasonable\ntime. This includes information maintained in paper and electronic formats.",
+    "section": "1   The terms and conditions governing the contract between the NBFC and the Outsourcing service",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2   The Board and senior management are ultimately responsible for \u2018outsourcing operations\u2019 and for:\nmanaging risks inherent in such outsourcing relationships. The Board of Directors of NBFCs is responsible\nfor effective due diligence, oversight and management of outsourcing and accountability for all outsourcing\ndecisions. The Board and IT Strategy committee have the responsibility to institute an effective governance\nmechanism and risk management process for all IT outsourced operations.",
+    "section": "2   The Board and senior management are ultimately responsible for \u2018outsourcing operations\u2019 and for",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3    The Role of IT Strategy committee in respect of outsourced operations shall include:\na) Instituting an appropriate governance mechanism for outsourced processes, comprising of risk\nbased policies and procedures, to effectively identify, measure, monitor and control risks associated\nwith outsourcing in an end to end manner;\nb) Defining approval authorities for outsourcing depending on nature of risks and materiality of\noutsourcing;\nc) Developing sound and responsive outsourcing risk management policies and procedures\ncommensurate with the nature, scope, and complexity of outsourcing arrangements;\nd) Undertaking a periodic review of outsourcing strategies and all existing material outsourcing\narrangements;\ne) Evaluating the risks and materiality of all prospective outsourcing based on the framework developed\nby the Board;\nf) Periodically reviewing the effectiveness of policies and procedures;\ng) Communicating significant risks in outsourcing to the NBFC\u2019s Board on a periodic basis;\nh) Ensuring an independent review and audit in accordance with approved policies and procedures;\ni)\nEnsuring that contingency plans have been developed and tested adequately;\nj)\nNBFC should ensure that their business continuity preparedness is not adversely compromised on\naccount of outsourcing. NBFCs are expected to adopt sound business continuity management\npractices as issued by RBI and seek proactive assurance that the outsourced service provider\nmaintains readiness and preparedness for business continuity on an ongoing basis.\nPage 15 of 15\nSection-B\nRecommendations for NBFCs with asset size below ` 500 crore",
+    "section": "3    The Role of IT Strategy committee in respect of outsourced operations shall include",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "It is recommended that smaller NBFCs may start with developing basic IT systems mainly for:\nmaintaining the database. NBFCs having asset size below ` 500 crore shall have a Board approved\nInformation Technology policy/Information system policy. This policy may be designed considering the\nundermentioned basic standards and the same shall be put in place by September 30, 2018. The IT\nsystems shall have:\nI.\nBasic security aspects such as physical/ logical access controls and well defined password policy;\nII.\nA well-defined user role;\nIII.\nA Maker-checker  concept  to  reduce  the  risk  of  error  and  misuse and to ensure reliability of\ndata/information;\nIV.\nInformation Security and Cyber Security;\nV.\nRequirements as regards Mobile Financial Services, Social Media and Digital Signature Certificates\nas indicated in para 3.18, 3.10 & 3.11 above;\nVI.\nSystem  generated  reports  for  Top  Management  summarising  financial position including\noperating and non-operating revenues and expenses, cost benefit analysis of segments/verticals,\ncost of funds, etc.;\nVII.\nAdequacy to file regulatory returns to RBI (COSMOS Returns);\nVIII.\nA BCP policy duly approved by the Board ensuring regular oversight of the Board by way of periodic\nreports (at least once every year);\nIX.\nArrangement for backup of data with periodic testing.",
+    "section": "It is recommended that smaller NBFCs may start with developing basic IT systems mainly for",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 IT Systems should be progressively scaled up as the size and complexity of NBFC\u2019s operations:\nincreases.\nAnnex to Master Direction- Information Technology Framework for the NBFC Sector\nAnnex - I\nTemplate for reporting Cyber Incidents",
+    "section": "1 IT Systems should be progressively scaled up as the size and complexity of NBFC\u2019s operations",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Subsequent update(s) RBI (updates to be provided if the earlier reporting was:\nincomplete i.e. investigation underway or new information pertaining to the incident\nhas been discovered or as per request of RBI):\nBasic Information",
+    "section": "Subsequent update(s) RBI (updates to be provided if the earlier reporting was",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Particulars of Reporting::\n\u2022 Name of the NBFC\n\u2022 Date and Time of Reporting to RBI, CERT-IN, other\nagencies (please mention separately time of\nreporting to each)\n\u2022 Name of Person Reporting\n\u2022 Designation/Department\n\u2022 Contact details (e.g. official email-id,\ntelephone no, mobile no)",
+    "section": "Particulars of Reporting:",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Details of Incident::\n\u2022 Date and time of incident detection\n\u2022 Type of incidents and systems affected\n(i)\nOutage of Critical IT system(s)\n(e.g. CBS, Treasury Systems, Trade\nfinance systems, Internet banking\nsystems, ATMs, payment systems such\nas SWIFT, RTGS, NEFT,NACH, IMPS,\netc.)\n(ii)\nCyber Security Incident e.g.\nDDOS, Ransom ware/crypto ware, data\nbreach, data destruction, web\ndefacement, etc.)? [Please complete\nAnnex]\n(iii)\nTheft or Loss of Information\n(e.g. sensitive customer or business\ninformation stolen or missing\nAnnex to Master Direction- Information Technology Framework for the NBFC Sector\nor destroyed or corrupted)?\n(iv)\nOutage of Infrastructure (e.g. which\npremises-DC/Central Processing Units,\nbranch, etc. power/utilities supply,\ntelecommunications supply,)?\n(v)\nFinancial (e.g. liquidity, bank run)?\n(vi)\nUnavailability of Staff (e.g. number and\npercentage on loss of staff/absence of\nstaff from work\n(vii)\nOthers (e.g. outsourced service\nproviders, business partners, breach of\nIT Act/any other law and RBI/SEBI\nregulations. Etc.)?\n\u2022 What actions or responses have been taken by the\nNBFC at the time of first reporting/till the time of\nsubsequent reporting?",
+    "section": "Details of Incident:",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Impact Assessment (examples are given but not exhaustive)::\n\u2022 Business impact including availability of services -\nInternet\nbanking,\nCash\nManagement,\nTrade\nFinance, Branches, ATMs, Clearing and Settlement\nactivities, etc.\n\u2022 Impact on stakeholders- affected retail/corporate\ncustomers,\naffected\nparticipants\nincluding\noperator(s),\nsettlement\ninstitution(s),\nbusiness\npartners, and service providers, etc.\n\u2022 Financial and market impact \u2013 Trading activities,\ntransaction volumes and values, monetary losses,\nliquidity impact, withdrawal of funds etc.\n\u2022 Regulatory and Legal impact",
+    "section": "Impact Assessment (examples are given but not exhaustive):",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Chronological order of events::\n\u2022 Date of incident, start time and duration.\n\u2022 Escalations done  including approvals sought on\ninterim measures to mitigate the event, and reasons\nfor taking such measures\n\u2022 Stakeholders informed or involved\nAnnex to Master Direction- Information Technology Framework for the NBFC Sector\n\u2022 Channels of communications used (e.g. email,\ninternet, sms, press release, website notice, etc.)\n\u2022 Rationale on the decision/activation of BCP and/or\nDR",
+    "section": "Chronological order of events:",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Root Cause Analysis(RCA)::\n\u2022 Factors that caused the problem/ Reasons for\noccurrence, Cause and effects of incident\n\u2022 Interim measures to mitigate/resolve the issue, and\nreasons for taking such measures, and\n\u2022 Steps identified or to be taken to address the\nproblem in the longer term. List the remedial\nmeasures/corrections affected(one time measure)\nand/or corrective actions taken to prevent future\noccurrences of similar types of incident",
+    "section": "Root Cause Analysis(RCA):",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Date/target date of resolution___________:\n(DD/MM/YYYY).\nNote: All fields are REQUIRED to be filled unless otherwise stated.\nAnnex to Master Direction- Information Technology Framework for the NBFC Sector\nCYBER SECURITY INCIDENT REPORTING(CSIR) FORM\nGeneral Information\nReport No:",
+    "section": "Date/target date of resolution___________",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Contact Information: (Please provide if different from what is reported in Basic Information:\nabove)\nName of NBFC:\nName   of   the   person\nreporting and Designation:\nDepartment\nOfficial Email :\nTelephone/Mobile :",
+    "section": "Contact Information: (Please provide if different from what is reported in Basic Information",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Is this a \u2610New incident \u2610Update to reported incident?:\n\u2022\nFor the first update, please indicate \u201c1. If this is an update to a reported incident,\nplease provide the update number for this update. (X.1, X.2, X.3,X.4, etc. where X is\nthe Report No. Update No: Click here to enter text.",
+    "section": "Is this a \u2610New incident \u2610Update to reported incident?",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What severity is this incident being classified as?:\nSeverity 1\n\u2610\nAffected critical system(s)/\ncustomer\nfacing\napplications/systems,\ncrippled Internal network or\na combination of the above\nSeverity  2\n\u2610\nIncident\noccurred\non\nsystem or network that\ncould   put   the   NBFC\u2019s\nnetwork / critical system(s)\nor a combination of them at\nrisk\nAnnex to Master Direction- Information Technology Framework for the NBFC Sector\nInformation about the Incident",
+    "section": "What severity is this incident being classified as?",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Please indicate the date and time the incident was reported to the RBI. If it is also:\nreported to Other Agencies (CERT-IN/NCIIP), Law enforcement agencies, separately\nindicate the date and time of such reporting.\n(Please specify in Indian Local Time (+5.30 GMT))\nReported to RBI - Date: Click here to enter a date.\nReported to CERT-IN Date: Click here to enter a date.\nReported to NCIIP Date: Click here to enter a date.\nReported to ----mention the name of agency Date: Click here to enter a date.",
+    "section": "Please indicate the date and time the incident was reported to the RBI. If it is also",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Types of Threat/Incident:\n((Please select more than one, as applicable)\n\u2610 Denial of Service (DoS)   \u2610 Distributed Denial of Service (DDoS)\n\u2610 Virus/Worm/Trojan/Malware\n\u2610 Intrusion/Hack/Unauthorised access\n\u2610 Website Defacement\n\u2610 Misuse of Systems/Inappropriate usage\n\u2610 APT/0-day attack  \u2610 Spear phishing/Whaling/Phishing/Wishing/Social engineering attack\n\u2610 Other: Click here to enter text.",
+    "section": "Types of Threat/Incident",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Is this incident related to another incident previously reported?:\nChoose an item.\n\u2022\nIf \u201cYes\u201d, provide more information on how both incidents are related.\nClick here to enter text.\n\u2022\nPlease provide the reference no. of the previously reported incident.\nRef no: Click here to enter text.\nIncident Details",
+    "section": "Is this incident related to another incident previously reported?",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Please provide details of the incident in the box below.:\n\u2022\nWhen was the incident first observed/sighted/detected?\nClick here to enter a date.\n\u2022\nHow was the incident first observed/sighted/detected?\nClick here to enter text.\n\u2022\nWho observed?\nAnnex to Master Direction- Information Technology Framework for the NBFC Sector",
+    "section": "Please provide details of the incident in the box below.",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Please provide details of the critical system(s) or network(s) that is/are impacted by this:\nincident. Details should minimally include:\nLocation, purpose of this system/ network, affected applications (including hardware\nmanufacturer,  software  developer,  make/  model,  etc.)  running  on  the\nsystems/networks, etc.\nClick here to enter text.\nWhat security software installed on the system currently?\nIf known, any TCP or UDP ports involved in the incident.\nIf known, provide the affected system\u2019s IP address If known, provide the  attacker\u2019s\nIP address\nWhere  relevant,  please  indicate  the  Operating  System  of  the  affected  critical\nsystem(s): Choose an item.\n\u2022\nIf others, kindly state the OS: Click here to enter text.",
+    "section": "Please provide details of the critical system(s) or network(s) that is/are impacted by this",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is the impact of the attack? (Tick \u2018one\u2019 checkbox for each column):\nCustomer Service Delivery\n(Loss   of) Sensitive\nInformation\nPublic Confidence   and\nReputation\n\u2610No Impact\n\u2610No loss\n\u2610No Impact\n\u2610Minor Impact\n\u2610Minor Loss\n\u2610Minor Impact\n\u2610Major Impact\n\u2610Major Loss\n\u2610Major Impact\n\u2610Serious Impact\n\u2610Serious Loss\n\u2610Serious Impact\n\u2610Severe Impact\n\u2610Severe Loss\n\u2610Severe impact",
+    "section": "What is the impact of the attack? (Tick \u2018one\u2019 checkbox for each column)",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Does the affected critical system(s)/ network(s) have potential impact to another critical:\nsystem/critical asset(s) of the NBFC?\nChoose an item.\n\u2022\nIf \u201cYes\u201d, please provide more details.\nClick here to enter text.\nIncident Status",
+    "section": "Does the affected critical system(s)/ network(s) have potential impact to another critical",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is/are the type(s) of follow up action(s) that has/have been taken at this time?:\nClick here to enter text.",
+    "section": "What is/are the type(s) of follow up action(s) that has/have been taken at this time?",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is the current status or resolution of this incident?:\nChoose an item.\nIf it is not resolved, what is the next course of actions?\nClick here to enter text.\nAnnex to Master Direction- Information Technology Framework for the NBFC Sector",
+    "section": "What is the current status or resolution of this incident?",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is the earliest known date of attack or compromise? (Tick \u2018checkbox\u2019 if unknown):\n(Please specify in Indian Local Time +5.30 GMT)\nDate: Click here to enter a date.  Unknown: \u2610",
+    "section": "What is the earliest known date of attack or compromise? (Tick \u2018checkbox\u2019 if unknown)",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is the source/cause of the incident? (\u2018NIL\u2019 OR \u2018NA\u2019 if unknown):\nClick here to enter text.",
+    "section": "What is the source/cause of the incident? (\u2018NIL\u2019 OR \u2018NA\u2019 if unknown)",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Has  the  incident  been  reported  to  CERT-IN/NCIIP/  any  law  enforcement:\nagency/IBCART? Choose an item.\n\u2022\nIf \u201cYes\u201d, specify the agency that is being reported to.\nClick here to enter text..",
+    "section": "Has  the  incident  been  reported  to  CERT-IN/NCIIP/  any  law  enforcement",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What tools were used for collecting the evidence for the incident?:\nAttack Vectors\nE1. Did the NBFC locate/identify IP addresses, domain names, related to the incident\nWhether the Indicators of Compromise,  list of IP addresses identified from the incident,\ninvolvement  of  the  IP  addresses  in  the  incident (ex.  Victim,  Malware Command &\nControl Servers, etc.), domain names resolved, involvement of the domain names in the\nincident. (ex. Drive-by-download Servers, Malware Control & Command  Servers,  defaced\nwebsite),  email  addresses  identified  and  their involvement,  malicious files/attachments\n(file name, size, MD5/SHA1 hash, etc.) etc. have been reported in IB-CART/CERT-\nIN/NCIIP/Law enforcement agencies\n***************",
+    "section": "What tools were used for collecting the evidence for the incident?",
+    "source": "RBI",
+    "file_name": "Master_Direction-Information_Technology_Framework_for_the_NBFC_Sector.pdf",
+    "type": "banking"
+  }
+]

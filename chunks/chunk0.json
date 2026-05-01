@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Data Privacy & Protection (DPDP / GDPR):\nDo you collect personal data from users?\nIs explicit user consent obtained before data collection?\nCan users request deletion of their data?\nIs sensitive data encrypted at rest and in transit?\nDo you store data within permitted jurisdictions (data localization)?\nIs data anonymized or masked where possible?\nDo you have a privacy policy available to users?\nIs access to user data restricted based on roles?\nDo you log access to sensitive data?\nDo you regularly audit data storage practices?",
+    "section": "Data Privacy & Protection (DPDP / GDPR)",
+    "source": "AI_RAG_Compliance_Questionnaire.pdf",
+    "type": "privacy"
+  },
+  {
+    "text": "Security & Infrastructure (ISO 27001 / OWASP):\nAre APIs secured with authentication and authorization?\nIs input validation implemented to prevent injection attacks?\nAre secrets (API keys, tokens) securely stored?\nDo you perform regular vulnerability scans?\nIs HTTPS enforced across all endpoints?\nDo you have firewall and intrusion detection systems?\nAre backups taken and tested regularly?\nDo you have role-based access control (RBAC)?\nAre logs monitored for suspicious activity?\nIs multi-factor authentication (MFA) enabled for admins?",
+    "section": "Security & Infrastructure (ISO 27001 / OWASP)",
+    "source": "AI_RAG_Compliance_Questionnaire.pdf",
+    "type": "security"
+  },
+  {
+    "text": "AI / LLM Risk Management (OWASP LLM Top 10):\nAre prompts validated to prevent prompt injection?\nDo you filter harmful or unsafe model outputs?\nIs there a mechanism to detect hallucinations?\nAre outputs grounded using verified data sources?\nDo you restrict model access to sensitive internal data?\nIs user input sanitized before processing?\nDo you log prompts and responses for auditing?\nAre rate limits applied to prevent abuse?\nIs model behavior tested under adversarial conditions?\nDo you have fallback responses for uncertain outputs?",
+    "section": "AI / LLM Risk Management (OWASP LLM Top 10)",
+    "source": "AI_RAG_Compliance_Questionnaire.pdf",
+    "type": "ai-risk"
+  },
+  {
+    "text": "Logging & Monitoring (CERT-In / NIST):\nDo you maintain logs of all system activities?\nAre logs stored securely and retained for required duration?\nIs there a real-time monitoring system for incidents?\nDo you have an incident response plan?\nAre alerts configured for unusual behavior?\nDo you regularly review logs for anomalies?\nIs there a system for reporting security incidents?\nAre audit trails maintained for critical actions?\nDo you track system performance metrics?\nAre logs protected from unauthorized access?",
+    "section": "Logging & Monitoring (CERT-In / NIST)",
+    "source": "AI_RAG_Compliance_Questionnaire.pdf",
+    "type": "logging"
+  },
+  {
+    "text": "Banking / Fintech Compliance (RBI Guidelines):\nDo you comply with RBI cybersecurity guidelines?\nAre financial transactions logged and monitored?\nDo you implement fraud detection mechanisms?\nIs user authentication strong (OTP, MFA)?\nAre payment systems secured against breaches?\nDo you follow KYC and AML requirements?\nIs data encrypted during financial transactions?\nDo you perform regular compliance audits?\nAre third-party integrations vetted for security?\nDo you maintain regulatory reporting records?",
+    "section": "Banking / Fintech Compliance (RBI Guidelines)",
+    "source": "AI_RAG_Compliance_Questionnaire.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Governance & Risk Management (NIST / ISO):\nDo you have a defined risk management framework?\nAre risks identified and documented regularly?\nDo you conduct periodic internal audits?\nIs there a compliance officer or responsible role?\nDo you maintain documentation of policies and procedures?\nAre employees trained on security and compliance?\nDo you have business continuity and disaster recovery plans?\nAre third-party vendors assessed for compliance?\nDo you review and update policies regularly?\nIs there a mechanism for continuous improvement?",
+    "section": "Governance & Risk Management (NIST / ISO)",
+    "source": "AI_RAG_Compliance_Questionnaire.pdf",
+    "type": "general"
+  }
+]

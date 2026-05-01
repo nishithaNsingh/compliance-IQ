@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Compliance Intelligence | GDPR · RBI · Regulatory Framework</title>
+  <!-- Google Fonts + IBM Plex Mono for a refined legal-tech aesthetic -->
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <!-- Lucide Icons (CDN) for crisp vector icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --ink: #1a1a1a;
+      --paper: #fefefe;
+      --slate: #4a5568;
+      --seal: #2c3e50;
+      --gold: #d4af37;
+      --gold-muted: #b8941f;
+      --border: #e2e2e2;
+      --border-dark: #c4c4c4;
+      --shadow: rgba(0, 0, 0, 0.08);
+      --shadow-heavy: rgba(0, 0, 0, 0.15);
+      --success: #2d6a4f;
+      --success-bg: #d8f3dc;
+      --warning: #bb6528;
+      --warning-bg: #ffe5cc;
+      --radius: 2px;
+    }
+
+    body {
+      font-family: 'Crimson Pro', Georgia, serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .app-container {
+      min-height: 100vh;
+      background: linear-gradient(to bottom, #fafafa 0%, var(--paper) 100%);
+    }
+
+    /* header animations */
+    .header {
+      border-bottom: 3px solid var(--ink);
+      background: var(--paper);
+      padding: 2.5rem 2rem 2rem;
+      box-shadow: 0 2px 8px var(--shadow);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      animation: slideDown 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    @keyframes slideDown {
+      from {
+        transform: translateY(-100%);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    .header-content {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .title-section {
+      margin-bottom: 1.5rem;
+    }
+
+    .title {
+      font-size: 3.5rem;
+      font-weight: 300;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.25rem;
+      color: var(--ink);
+    }
+
+    .title strong {
+      font-weight: 700;
+    }
+
+    .subtitle {
+      font-size: 1.1rem;
+      color: var(--slate);
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      font-size: 0.875rem;
+    }
+
+    .search-form {
+      display: flex;
+      gap: 0.75rem;
+      max-width: 900px;
+    }
+
+    .search-input {
+      flex: 1;
+      padding: 1rem 1.25rem;
+      font-size: 1.1rem;
+      font-family: 'Crimson Pro', serif;
+      border: 2px solid var(--border-dark);
+      border-radius: var(--radius);
+      background: white;
+      color: var(--ink);
+      transition: all 0.2s ease;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--seal);
+      box-shadow: 0 0 0 3px rgba(44, 62, 80, 0.1);
+    }
+
+    .search-input::placeholder {
+      color: #999;
+    }
+
+    .submit-btn {
+      padding: 1rem 2rem;
+      background: var(--seal);
+      color: white;
+      border: none;
+      border-radius: var(--radius);
+      font-family: 'Crimson Pro', serif;
+      font-size: 0.875rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.2s ease;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .submit-btn:hover:not(:disabled) {
+      background: var(--ink);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px var(--shadow-heavy);
+    }
+
+    .submit-btn:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+
+    .main-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+
+    .history-item {
+      margin-bottom: 3rem;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: 0 2px 8px var(--shadow);
+      animation: fadeInUp 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .query-section {
+      padding: 2rem;
+      background: linear-gradient(135deg, var(--seal) 0%, #34495e 100%);
+      color: white;
+      border-bottom: 3px solid var(--gold);
+    }
+
+    .query-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      opacity: 0.8;
+      margin-bottom: 0.5rem;
+      font-weight: 600;
+    }
+
+    .query-text {
+      font-size: 1.5rem;
+      font-weight: 400;
+      line-height: 1.4;
+    }
+
+    .response-section {
+      padding: 2rem;
+    }
+
+    .answer-block {
+      margin-bottom: 2rem;
+    }
+
+    .section-title {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--slate);
+      margin-bottom: 1rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .answer-text {
+      font-size: 1.15rem;
+      line-height: 1.8;
+      color: var(--ink);
+    }
+
+    .metadata-row {
+      display: flex;
+      gap: 2rem;
+      padding: 1.5rem 2rem;
+      background: #f8f9fa;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .metadata-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .metadata-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--slate);
+      font-weight: 600;
+    }
+
+    .metadata-value {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.95rem;
+      font-weight: 500;
+    }
+
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.25rem 0.75rem;
+      border-radius: 12px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .status-success {
+      background: var(--success-bg);
+      color: var(--success);
+    }
+
+    .status-warning {
+      background: var(--warning-bg);
+      color: var(--warning);
+    }
+
+    .sources-section {
+      padding: 0 2rem 2rem;
+    }
+
+    .sources-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 0.75rem;
+    }
+
+    .source-tag {
+      padding: 0.5rem 1rem;
+      background: var(--paper);
+      border: 1px solid var(--border-dark);
+      border-radius: var(--radius);
+      font-size: 0.9rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--seal);
+      transition: all 0.2s ease;
+    }
+
+    .source-tag:hover {
+      border-color: var(--seal);
+      background: #f8f9fa;
+    }
+
+    .evidence-section {
+      padding: 0 2rem 2rem;
+    }
+
+    .evidence-item {
+      margin-top: 1rem;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    .evidence-header {
+      padding: 1rem 1.25rem;
+      background: #f8f9fa;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: background 0.2s ease;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .evidence-header:hover {
+      background: #f0f1f2;
+    }
+
+    .evidence-source {
+      font-weight: 600;
+      color: var(--seal);
+      font-size: 0.95rem;
+    }
+
+    .evidence-content {
+      padding: 1.5rem;
+      background: #fafafa;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.875rem;
+      line-height: 1.7;
+      color: var(--ink);
+      border-left: 3px solid var(--gold);
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 6rem 2rem;
+      color: var(--slate);
+    }
+
+    .empty-icon {
+      width: 80px;
+      height: 80px;
+      margin: 0 auto 1.5rem;
+      opacity: 0.3;
+    }
+
+    .empty-title {
+      font-size: 1.75rem;
+      font-weight: 300;
+      margin-bottom: 0.5rem;
+    }
+
+    .empty-text {
+      font-size: 1.1rem;
+    }
+
+    .loading-spinner {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      border-top-color: white;
+      border-radius: 50%;
+      animation: spin 0.6s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    @media (max-width: 768px) {
+      .header {
+        padding: 1.5rem 1rem;
+      }
+
+      .title {
+        font-size: 2.25rem;
+      }
+
+      .search-form {
+        flex-direction: column;
+      }
+
+      .submit-btn {
+        width: 100%;
+        justify-content: center;
+      }
+
+      .main-content {
+        padding: 2rem 1rem;
+      }
+
+      .metadata-row {
+        flex-direction: column;
+        gap: 1rem;
+      }
+
+      .query-section,
+      .response-section,
+      .sources-section,
+      .evidence-section {
+        padding: 1.5rem 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="app-container">
+  <header class="header">
+    <div class="header-content">
+      <div class="title-section">
+        <h1 class="title">Compliance <strong>Intelligence</strong></h1>
+        <p class="subtitle">GDPR • RBI • Regulatory Framework Analysis</p>
+      </div>
+
+      <form id="queryForm" class="search-form">
+        <input type="text" id="queryInput" class="search-input" placeholder="Ask a compliance question..." autocomplete="off">
+        <button type="submit" id="submitBtn" class="submit-btn">
+          <span id="btnContent">
+            <i data-lucide="send" style="width: 18px; height: 18px;"></i>
+            Submit
+          </span>
+        </button>
+      </form>
+    </div>
+  </header>
+
+  <main class="main-content" id="historyContainer">
+    <div class="empty-state" id="emptyState">
+      <div class="empty-icon" id="emptyIconPlaceholder"></div>
+      <h2 class="empty-title">Ready for your first inquiry</h2>
+      <p class="empty-text">Submit a question to begin compliance analysis</p>
+    </div>
+  </main>
+</div>
+
+<script>
+  
+  const API_URL = '/ask';
+  const USE_MOCK_API = false;  
+  
+  // Helper to generate deterministic but realistic compliance answers
+  function generateMockResponse(query) {
+    const lowerQuery = query.toLowerCase();
+    let answer = "";
+    let sources = [];
+    let evidenceList = [];
+    let score = 0.92;
+    let status = "success";
+    
+    // GDPR & Data protection patterns
+    if (lowerQuery.includes("gdpr") || lowerQuery.includes("data protection") || lowerQuery.includes("personal data")) {
+      answer = "Under GDPR (General Data Protection Regulation), organizations must establish a lawful basis for processing personal data, implement data protection by design and by default, and respect data subject rights (access, rectification, erasure). Article 5 outlines principles such as purpose limitation, data minimization, and integrity. Failure to comply may result in fines up to €20 million or 4% of global annual turnover.";
+      sources = ["GDPR Article 5", "GDPR Article 25", "WP29 Guidelines on Data Protection by Design"];
+      evidenceList = [
+        { source: "GDPR Article 5(1)(c)", snippet: "Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed ('data minimisation')." },
+        { source: "GDPR Article 25(1)", snippet: "The controller shall implement appropriate technical and organisational measures... designed to implement data-protection principles, such as data minimisation, in an effective manner." },
+        { source: "EDPB Guidance 3/2021", snippet: "Transparency requires clear communication about processing purposes and retention periods." }
+      ];
+      score = 0.95;
+    } 
+    else if (lowerQuery.includes("rbi") || lowerQuery.includes("reserve bank") || lowerQuery.includes("banking regulation") || lowerQuery.includes("kyc")) {
+      answer = "The Reserve Bank of India (RBI) mandates strict KYC/AML compliance under the Master Direction on KYC. Recent guidelines require periodic updation of customer due diligence, risk-based approach, and digital KYC options. For NBFCs and banks, adherence to the Fair Practices Code and outsourcing guidelines is critical. Non-compliance may lead to monetary penalties and restrictions on business activities.";
+      sources = ["RBI Master Direction - KYC 2021", "RBI Circular on Digital Lending", "Banking Regulation Act, 1949 (Sec 35A)"];
+      evidenceList = [
+        { source: "RBI/2021-22/49 DOR.AML.BC.No.13/14.01.001/2021-22", snippet: "REs shall ensure that KYC policies incorporate the following four elements: Customer Policy, Customer Identification Procedure, Customer Due Diligence, and Risk Management." },
+        { source: "RBI's Fair Practices Code for NBFCs", snippet: "Non-compliance with KYC norms shall attract penal action including imposing monetary penalty under Section 31 of the RBI Act." }
+      ];
+      score = 0.88;
+      status = "success";
+    } 
+    else if (lowerQuery.includes("data breach") || lowerQuery.includes("notification")) {
+      answer = "Under GDPR, a personal data breach notification must be reported to the supervisory authority within 72 hours after becoming aware of it, unless the breach is unlikely to result in a risk to individuals. If the breach poses a high risk, affected data subjects must also be informed without undue delay. Under Indian DPDP Act (when enforced), significant data fiduciaries must notify both the Board and affected data principals.";
+      sources = ["GDPR Article 33", "GDPR Article 34", "DPDP Act 2023 (Sec 12)", "RBI's IT Framework for Banks"];
+      evidenceList = [
+        { source: "GDPR Art. 33(1)", snippet: "In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the supervisory authority." },
+        { source: "DPDP Act 2023 - Section 12", snippet: "The Data Fiduciary shall notify the Board and each affected Data Principal of a personal data breach in such form and manner as may be prescribed." }
+      ];
+      score = 0.91;
+    }
+    else {
+      answer = "Compliance frameworks generally require risk assessment, internal controls, documentation, and periodic audits. Depending on jurisdiction, regulations such as GDPR (EU), RBI guidelines (India), or CCPA (California) may apply. A principle-based approach to data governance, data mapping, and third-party risk management forms the foundation of regulatory readiness.";
+      sources = ["ISO 37301:2021 Compliance Management Systems", "OECD Guidelines on Corporate Governance", "IAPP Privacy Program Management"];
+      evidenceList = [
+        { source: "ISO 37301:2021 Clause 7.4", snippet: "The organization shall establish a process for reporting compliance concerns and protection against retaliation." },
+        { source: "General Compliance Best Practices", snippet: "Periodic monitoring and training significantly reduce the risk of regulatory sanctions." }
+      ];
+      score = 0.82;
+    }
+    
+    // add variety: if query is vague we lower confidence a bit
+    if (lowerQuery.length < 15) {
+      score = score - 0.05;
+      if (score < 0.7) score = 0.72;
+    }
+    
+    return {
+      answer: answer,
+      sources: sources,
+      evidence: evidenceList,
+      score: score,
+      status: status
+    };
+  }
+  
+  // Real fetch wrapper (if needed)
+  async function callRealAPI(query) {
+    const endpoint = API_URL;
+    const response = await fetch(endpoint, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ query }),
+    });
+    if (!response.ok) throw new Error(`API responded with status ${response.status}`);
+    const data = await response.json();
+    return data;  // expected shape: { answer, sources, evidence, score, status }
+  }
+  
+  // environment variable simulation (would be from process.env, but we mock detection)
+  function processEnvSimulator() {
+    // simulate API_URL from env context – but for plain HTML, we return null to use mock or a default.
+    return null;
+  }
+  
+  // Main state (similar to React useState)
+  let history = [];       // array of { query, response, timestamp }
+  let expandedState = {}; // key `${index}-${evidenceIdx}` boolean
+  
+  const historyContainer = document.getElementById('historyContainer');
+  const queryInput = document.getElementById('queryInput');
+  const submitBtn = document.getElementById('submitBtn');
+  const btnContentSpan = document.getElementById('btnContent');
+  let loading = false;
+  
+  // helper to render lucide icons after each render (since we dynamically add content)
+  function refreshLucideIcons() {
+    if (typeof lucide !== 'undefined' && lucide.createIcons) {
+      lucide.createIcons();
+    } else {
+      // fallback: if lucide not loaded yet, wait a tick
+      setTimeout(() => {
+        if (typeof lucide !== 'undefined' && lucide.createIcons) lucide.createIcons();
+      }, 20);
+    }
+  }
+  
+  // toggle evidence expand/collapse
+  function toggleEvidence(index, evidenceIdx) {
+    const key = `${index}-${evidenceIdx}`;
+    expandedState[key] = !expandedState[key];
+    renderHistory();   // re-render entire history (simple but efficient for moderate history)
+  }
+  
+  async function handleSubmit(queryText) {
+    if (!queryText.trim() || loading) return;
+    loading = true;
+    updateButtonLoading(true);
+    
+    try {
+      let responseData;
+      if (USE_MOCK_API) {
+        // simulate network delay realistic 500-900ms
+        await new Promise(resolve => setTimeout(resolve, 650));
+        responseData = generateMockResponse(queryText);
+      } else {
+        responseData = await callRealAPI(queryText);
+      }
+      
+      // ensure expected fields existence fallback
+      const safeResponse = {
+        answer: responseData.answer || "Analysis completed, but no detailed answer provided.",
+        sources: Array.isArray(responseData.sources) ? responseData.sources : ["Regulatory framework"],
+        evidence: Array.isArray(responseData.evidence) ? responseData.evidence : [],
+        score: typeof responseData.score === 'number' ? responseData.score : 0.78,
+        status: responseData.status === 'success' ? 'success' : 'warning'
+      };
+      // insert at beginning of history
+      history = [{ query: queryText, response: safeResponse, timestamp: new Date() }, ...history];
+      queryInput.value = '';
+      renderHistory();
+    } catch (err) {
+      console.error("Compliance assistant request failed:", err);
+      // optionally show a fallback error message as a temporary history item?
+      const errorResponse = {
+        answer: "⚠️ Unable to reach compliance intelligence engine. Please check your network or API endpoint.",
+        sources: ["System log"],
+        evidence: [{ source: "error context", snippet: err.message || "Connection failure"}],
+        score: 0.2,
+        status: "warning"
+      };
+      history = [{ query: queryText, response: errorResponse, timestamp: new Date() }, ...history];
+      renderHistory();
+    } finally {
+      loading = false;
+      updateButtonLoading(false);
+    }
+  }
+  
+  function updateButtonLoading(isLoading) {
+    if (isLoading) {
+      submitBtn.disabled = true;
+      btnContentSpan.innerHTML = '<span class="loading-spinner"></span> Processing';
+    } else {
+      submitBtn.disabled = false;
+      btnContentSpan.innerHTML = '<i data-lucide="send" style="width: 18px; height: 18px;"></i> Submit';
+      refreshLucideIcons(); // reinit the icon inside button
+    }
+  }
+  
+  // render full history
+  function renderHistory() {
+    if (!historyContainer) return;
+    
+    if (history.length === 0) {
+      historyContainer.innerHTML = `
+        <div class="empty-state" id="emptyState">
+          <div class="empty-icon" id="emptyIconPlaceholder"></div>
+          <h2 class="empty-title">Ready for your first inquiry</h2>
+          <p class="empty-text">Submit a question to begin compliance analysis</p>
+        </div>
+      `;
+      // manually add lucide file icon inside empty-icon after render
+      const emptyIconDiv = document.getElementById('emptyIconPlaceholder');
+      if (emptyIconDiv) {
+        emptyIconDiv.innerHTML = '<i data-lucide="file-text" style="width: 80px; height: 80px; stroke-width: 1;"></i>';
+      }
+      refreshLucideIcons();
+      return;
+    }
+    
+    let htmlString = '';
+    for (let idx = 0; idx < history.length; idx++) {
+      const item = history[idx];
+      const response = item.response;
+      const scorePercent = (response.score * 100).toFixed(1);
+      const statusClass = response.status === 'success' ? 'status-success' : 'status-warning';
+      const statusIcon = response.status === 'success' ? '<i data-lucide="check-circle" style="width:14px;height:14px;"></i>' : '<i data-lucide="alert-circle" style="width:14px;height:14px;"></i>';
+      
+      // Sources HTML
+      let sourcesHtml = '';
+      if (response.sources && response.sources.length) {
+        sourcesHtml = `<div class="sources-section">
+          <h3 class="section-title"><i data-lucide="file-text" style="width:16px;height:16px;"></i> Referenced Sources</h3>
+          <div class="sources-list">`;
+        response.sources.forEach(src => {
+          sourcesHtml += `<div class="source-tag"><i data-lucide="file-text" style="width:14px;height:14px;"></i> ${escapeHtml(src)}</div>`;
+        });
+        sourcesHtml += `</div></div>`;
+      }
+      
+      // Evidence list with toggles
+      let evidenceHtml = '';
+      if (response.evidence && response.evidence.length) {
+        evidenceHtml = `<div class="evidence-section">
+          <h3 class="section-title"><i data-lucide="file-text" style="width:16px;height:16px;"></i> Supporting Evidence</h3>`;
+        for (let evIdx = 0; evIdx < response.evidence.length; evIdx++) {
+          const ev = response.evidence[evIdx];
+          const isExpanded = expandedState[`${idx}-${evIdx}`] || false;
+          evidenceHtml += `
+            <div class="evidence-item">
+              <div class="evidence-header" data-history-index="${idx}" data-evidence-index="${evIdx}">
+                <span class="evidence-source">${escapeHtml(ev.source)}</span>
+                ${isExpanded ? '<i data-lucide="chevron-up" style="width:20px;height:20px;"></i>' : '<i data-lucide="chevron-down" style="width:20px;height:20px;"></i>'}
+              </div>
+              ${isExpanded ? `<div class="evidence-content">${escapeHtml(ev.snippet)}</div>` : ''}
+            </div>
+          `;
+        }
+        evidenceHtml += `</div>`;
+      }
+      
+      htmlString += `
+        <article class="history-item">
+          <div class="query-section">
+            <div class="query-label">Inquiry</div>
+            <div class="query-text">${escapeHtml(item.query)}</div>
+          </div>
+          <div class="response-section">
+            <div class="answer-block">
+              <h3 class="section-title"><i data-lucide="file-text" style="width:16px;height:16px;"></i> Analysis</h3>
+              <p class="answer-text">${marked.parse(response.answer)}</p>
+            </div>
+          </div>
+          <div class="metadata-row">
+            <div class="metadata-item">
+              <span class="metadata-label">Status</span>
+              <span class="status-badge ${statusClass}">${statusIcon} ${response.status}</span>
+            </div>
+            <div class="metadata-item">
+              <span class="metadata-label">Confidence</span>
+              <span class="metadata-value">${scorePercent}%</span>
+            </div>
+          </div>
+          ${sourcesHtml}
+          ${evidenceHtml}
+        </article>
+      `;
+    }
+    
+    historyContainer.innerHTML = htmlString;
+    refreshLucideIcons();
+    
+    // attach event listeners for evidence headers after DOM update
+    document.querySelectorAll('.evidence-header').forEach(header => {
+      const historyIdxAttr = header.getAttribute('data-history-index');
+      const evidenceIdxAttr = header.getAttribute('data-evidence-index');
+      if (historyIdxAttr !== null && evidenceIdxAttr !== null) {
+        const hIdx = parseInt(historyIdxAttr, 10);
+        const eIdx = parseInt(evidenceIdxAttr, 10);
+        header.addEventListener('click', (e) => {
+          e.stopPropagation();
+          toggleEvidence(hIdx, eIdx);
+        });
+      }
+    });
+  }
+  
+  // simple XSS protection
+  function escapeHtml(str) {
+    if (!str) return '';
+    return str.replace(/[&<>]/g, function(m) {
+      if (m === '&') return '&amp;';
+      if (m === '<') return '&lt;';
+      if (m === '>') return '&gt;';
+      return m;
+    }).replace(/[\uD800-\uDBFF][\uDC00-\uDFFF]/g, function(c) {
+      return c;
+    });
+  }
+  
+  // form submission
+  const form = document.getElementById('queryForm');
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const queryVal = queryInput.value.trim();
+    if (queryVal) handleSubmit(queryVal);
+  });
+  
+  // initial icons for header + empty state (first load)
+  window.addEventListener('DOMContentLoaded', () => {
+    refreshLucideIcons();
+    renderHistory();
+  });
+</script>
+</body>
+</html>

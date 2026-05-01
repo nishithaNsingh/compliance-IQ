@@ -1,0 +1,989 @@
+[
+  {
+    "text": "Since then, the use of technology by banks has gained further momentum. On the:\nother hand, the number, frequency and impact of cyber incidents / attacks have\nincreased manifold in the recent past, more so in the case of financial sector\nincluding banks, underlining the urgent need to put in place a robust cyber\nsecurity/resilience framework at banks and to ensure adequate cyber-security\npreparedness among banks on a continuous basis. In view of the low barriers to\nentry, evolving nature, growing scale/velocity, motivation and resourcefulness of\ncyber-threats to the banking system, it is essential to enhance the resilience of the\nbanking system by improving the current defences in addressing cyber risks. These\nwould include, but not limited to, putting in place an adaptive Incident Response,\nManagement and Recovery framework to deal with adverse incidents/disruptions, if\nand when they occur.\nNeed for a Board approved Cyber-security Policy",
+    "section": "Since then, the use of technology by banks has gained further momentum. On the",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Banks should immediately put in place a cyber-security policy elucidating the:\nstrategy containing an appropriate approach to combat cyber threats given the level\nof complexity of business and acceptable levels of risk, duly approved by their\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\n\u092c\u0948\u0902\u0915 \u093f\u0902\u0917 \u092a\u0930\u094d\u092f\u0935\u0947\u0915\u094d\u0937\u0923 \u0935\u0935\u092d\u093e\u0917,  \u0947\u0902\u0926\u094d\u0930\u0940\u0930\u094d  \u093e\u0930\u094d\u093e\u092f\u0932\u0930\u094d, \u0935\u0930\u094d\u0932\u094d\u092f \u091f\u094d\u0930\u0947\u094d \u0938\u0947\u0902\u091f\u0930, \u0938\u0947\u0902\u091f\u0930- I,  \u092b \u092a\u0930\u0947\u094d,  \u094b\u0932\u093e\u092c\u093e, \u092e \u093f\u0902\u092c\u0908 -400005\nDepartment of Banking Supervision, Central Office, World Trade Centre, Cuffe Parade, Colaba, Mumbai 400005\n\u091f\u0947\u0932\u0940\u092b\u094b\u0928 / Tele: +91 22 22189131-39; \u092b\u0948\u0915\u094d\u0938 / Fax +91 22 22180157; \u0908\u092e\u0947\u0932 /email : cgmicdbsco@rbi.org.in\nBoard.  A confirmation in this regard may be communicated to Cyber Security and\nInformation Technology Examination (CSITE) Cell of Department of Banking\nSupervision, Reserve Bank of India, Central Office, World Trade Centre-I, 4th Floor,\nCuffe Parade, Mumbai 400005 at the earliest, and in any case not later than\nSeptember 30, 2016.\nIt may be ensured that the strategy deals with the following broad aspects:\nCyber Security Policy to be distinct from the broader IT policy / IS Security\nPolicy of a bank",
+    "section": "Banks should immediately put in place a cyber-security policy elucidating the",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "In order to address the need for the entire bank to contribute to a cyber-safe:\nenvironment, the Cyber Security Policy should be distinct and separate from the\nbroader IT policy / IS Security policy so that it can highlight the risks from cyber\nthreats and the measures to address / mitigate these risks.",
+    "section": "In order to address the need for the entire bank to contribute to a cyber-safe",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The size, systems, technological complexity, digital products, stakeholders and:\nthreat perception vary from bank to bank and hence it is important to identify the\ninherent risks and the controls in place to adopt appropriate cyber-security\nframework. While identifying and assessing the inherent risks, banks are required to\nreckon the technologies adopted, alignment with business and regulatory\nrequirements, connections established, delivery channels, online / mobile products,\ntechnology services, organisational culture and internal & external threats.\nDepending on the level of inherent risks, the banks are required to identify their\nriskiness as low, moderate, high and very high or adopt any other similar\ncategorisation. Riskiness of the business component also may be factored into while\nassessing the inherent risks. While evaluating the controls, Board oversight, policies,\nprocesses, cyber risk management architecture including experienced and qualified\nresources, training and culture, threat intelligence gathering arrangements,\nmonitoring and analysing the threat intelligence received vis-\u00e0-vis the situation\nobtaining in banks, information sharing arrangements (among peer banks, with\nIDRBT/RBI/CERT-In), preventive, detective and corrective cyber security controls,\nvendor management and incident management & response are to be outlined.\nArrangement for continuous surveillance",
+    "section": "The size, systems, technological complexity, digital products, stakeholders and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Testing for vulnerabilities at reasonable intervals of time is very important. The:\nnature of cyber-attacks are such that they can occur at any time and in a manner\nthat may not have been anticipated. Hence, it is mandated that a SOC (Security\nOperations Centre) be set up at the earliest, if not yet been done. It is also essential\nthat this Centre ensures continuous surveillance and keeps itself regularly updated\non the latest nature of emerging cyber threats.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\n\u092c\u0948\u0902\u0915 \u093f\u0902\u0917 \u092a\u0930\u094d\u092f\u0935\u0947\u0915\u094d\u0937\u0923 \u0935\u0935\u092d\u093e\u0917,  \u0947\u0902\u0926\u094d\u0930\u0940\u0930\u094d  \u093e\u0930\u094d\u093e\u092f\u0932\u0930\u094d, \u0935\u0930\u094d\u0932\u094d\u092f \u091f\u094d\u0930\u0947\u094d \u0938\u0947\u0902\u091f\u0930, \u0938\u0947\u0902\u091f\u0930- I,  \u092b \u092a\u0930\u0947\u094d,  \u094b\u0932\u093e\u092c\u093e, \u092e \u093f\u0902\u092c\u0908 -400005\nDepartment of Banking Supervision, Central Office, World Trade Centre, Cuffe Parade, Colaba, Mumbai 400005\n\u091f\u0947\u0932\u0940\u092b\u094b\u0928 / Tele: +91 22 22189131-39; \u092b\u0948\u0915\u094d\u0938 / Fax +91 22 22180157; \u0908\u092e\u0947\u0932 /email : cgmicdbsco@rbi.org.in\nIT architecture should be conducive to security",
+    "section": "Testing for vulnerabilities at reasonable intervals of time is very important. The",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The IT architecture should be designed in such a manner that it takes care of:\nfacilitating the security measures to be in place at all times. The same needs to be\nreviewed by the IT Sub Committee of the Board and upgraded, if required, as per\ntheir risk assessment in a phased manner. The risk cost/potential cost trade off\ndecisions which a bank may take should be recorded in writing to enable an\nappropriate supervisory assessment subsequently.",
+    "section": "The IT architecture should be designed in such a manner that it takes care of",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "An indicative, but not exhaustive, minimum baseline cyber security and resilience:\nframework to be implemented by the banks is given in Annex 1. Banks should\nproactively initiate the process of setting up of and operationalising a Security\nOperations Centre (SOC) to monitor and manage cyber risks in real time. An\nindicative configuration of the SOC is given in Annex 2.\nComprehensively address network and database security",
+    "section": "An indicative, but not exhaustive, minimum baseline cyber security and resilience",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "Recent incidents have highlighted the need to thoroughly review network security:\nin every bank. In addition, it has been observed that many times connections to\nnetworks/databases are allowed for a specified period of time to facilitate some\nbusiness or operational requirement. However, the same do not get closed due to\noversight making the network/database vulnerable to cyber-attacks. It is essential\nthat unauthorized access to networks and databases is not allowed and wherever\npermitted, these are through well-defined processes which are invariably followed.\nResponsibility over such networks and databases should be clearly elucidated and\nshould invariably rest with the officials of the bank.\nEnsuring Protection of customer information",
+    "section": "Recent incidents have highlighted the need to thoroughly review network security",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "Banks depend on technology very heavily not only in their smooth functioning but:\nalso in providing cutting-edge digital products to their consumers and in the process\ncollect various personal and sensitive information. Banks, as owners of such data,\nshould take appropriate steps in preserving the Confidentiality, Integrity and\nAvailability of the same, irrespective of whether the data is stored/in transit within\nthemselves or with customers or with the third party vendors; the confidentiality of\nsuch custodial information should not be compromised at any situation and to this\nend, suitable systems and processes across the data/information lifecycle need to be\nput in place by banks.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\n\u092c\u0948\u0902\u0915 \u093f\u0902\u0917 \u092a\u0930\u094d\u092f\u0935\u0947\u0915\u094d\u0937\u0923 \u0935\u0935\u092d\u093e\u0917,  \u0947\u0902\u0926\u094d\u0930\u0940\u0930\u094d  \u093e\u0930\u094d\u093e\u092f\u0932\u0930\u094d, \u0935\u0930\u094d\u0932\u094d\u092f \u091f\u094d\u0930\u0947\u094d \u0938\u0947\u0902\u091f\u0930, \u0938\u0947\u0902\u091f\u0930- I,  \u092b \u092a\u0930\u0947\u094d,  \u094b\u0932\u093e\u092c\u093e, \u092e \u093f\u0902\u092c\u0908 -400005\nDepartment of Banking Supervision, Central Office, World Trade Centre, Cuffe Parade, Colaba, Mumbai 400005\n\u091f\u0947\u0932\u0940\u092b\u094b\u0928 / Tele: +91 22 22189131-39; \u092b\u0948\u0915\u094d\u0938 / Fax +91 22 22180157; \u0908\u092e\u0947\u0932 /email : cgmicdbsco@rbi.org.in\nCyber Crisis Management Plan",
+    "section": "Banks depend on technology very heavily not only in their smooth functioning but",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "A Cyber Crisis Management Plan (CCMP) should be immediately evolved and:\nshould be a part of the overall Board approved strategy. Considering the fact that\ncyber-risk is different from many other risks, the traditional BCP/DR arrangements\nmay not be adequate and hence needs to be revisited keeping in view the nuances\nof the cyber-risk.  As you may be aware, in India, CERT-IN (Computer Emergency\nResponse Team \u2013 India, a Government entity) has been taking important initiatives\nin strengthening cyber-security by providing proactive & reactive services as well as\nguidelines, threat intelligence and assessment of preparedness of various agencies\nacross the sectors, including the financial sector. CERT-IN also have come out with\nNational Cyber Crisis Management Plan and Cyber Security Assessment\nFramework. CERT-In/NCIIPC/RBI/IDRBT guidance may be referred to while\nformulating the CCMP.",
+    "section": "A Cyber Crisis Management Plan (CCMP) should be immediately evolved and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "CCMP should address the following four aspects: (i) Detection (ii) Response (iii):\nRecovery and (iv) Containment.  Banks need to take effective measures to prevent\ncyber-attacks and to promptly detect any cyber-intrusions so as to respond / recover\n/ contain the fall out. Banks are expected to be well prepared to face emerging\ncyber-threats such as \u2018zero-day\u2019 attacks, remote access threats, and targeted\nattacks. Among other things, banks should take necessary preventive and corrective\nmeasures in addressing various types of cyber threats including, but not limited to,\ndenial of service, distributed denial of services (DDoS), ransom-ware / crypto ware,\ndestructive malware, business email frauds including spam, email phishing, spear\nphishing, whaling, vishing frauds, drive-by downloads, browser gateway fraud, ghost\nadministrator exploits, identity frauds, memory update frauds, password related\nfrauds, etc.\nCyber security preparedness indicators",
+    "section": "CCMP should address the following four aspects: (i) Detection (ii) Response (iii)",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The adequacy of and adherence to cyber resilience framework should be:\nassessed and measured through development of indicators to assess the level of\nrisk/preparedness. These indicators should be used for comprehensive testing\nthrough independent compliance checks and audits carried out by qualified and\ncompetent professionals. The awareness among the stakeholders including\nemployees may also form a part of this assessment.\nSharing of information on cyber-security incidents with RBI",
+    "section": "The adequacy of and adherence to cyber resilience framework should be",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "It is observed that banks are hesitant to share cyber-incidents faced by them.:\nHowever, the experience gained globally indicates that collaboration among entities\nin sharing the cyber-incidents and the best practices would facilitate timely measures\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\n\u092c\u0948\u0902\u0915 \u093f\u0902\u0917 \u092a\u0930\u094d\u092f\u0935\u0947\u0915\u094d\u0937\u0923 \u0935\u0935\u092d\u093e\u0917,  \u0947\u0902\u0926\u094d\u0930\u0940\u0930\u094d  \u093e\u0930\u094d\u093e\u092f\u0932\u0930\u094d, \u0935\u0930\u094d\u0932\u094d\u092f \u091f\u094d\u0930\u0947\u094d \u0938\u0947\u0902\u091f\u0930, \u0938\u0947\u0902\u091f\u0930- I,  \u092b \u092a\u0930\u0947\u094d,  \u094b\u0932\u093e\u092c\u093e, \u092e \u093f\u0902\u092c\u0908 -400005\nDepartment of Banking Supervision, Central Office, World Trade Centre, Cuffe Parade, Colaba, Mumbai 400005\n\u091f\u0947\u0932\u0940\u092b\u094b\u0928 / Tele: +91 22 22189131-39; \u092b\u0948\u0915\u094d\u0938 / Fax +91 22 22180157; \u0908\u092e\u0947\u0932 /email : cgmicdbsco@rbi.org.in\nin containing cyber-risks. It is reiterated that banks need to report all unusual cyber-\nsecurity incidents (whether they were successful or were attempts which did not\nfructify) to the Reserve Bank. Banks are also encouraged to actively participate in\nthe activities of their CISOs\u2019 Forum coordinated by IDRBT and promptly report the\nincidents to Indian Banks \u2013 Center for Analysis of Risks and Threats (IB-CART) set\nup by IDRBT. Such collaborative efforts will help the banks in obtaining collective\nthreat intelligence, timely alerts and adopting proactive cyber security measures.\nSupervisory Reporting framework",
+    "section": "It is observed that banks are hesitant to share cyber-incidents faced by them.",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "It has been decided to collect both summary level information as well as details:\non information security incidents including cyber-incidents. Banks are required to\nreport promptly the incidents, in the format given in Annex-3.\nAn immediate assessment of gaps in preparedness to be reported to RBI",
+    "section": "It has been decided to collect both summary level information as well as details",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "The material gaps in controls may be identified early and appropriate remedial:\naction under the active guidance and oversight of the IT Sub Committee of the Board\nas well as by the Board may be initiated immediately. The identified gaps, proposed\nmeasures/controls and their expected effectiveness, milestones with timelines for\nimplementing the proposed controls/measures and measurement criteria for\nassessing their effectiveness including the risk assessment and risk management\nmethodology followed by the bank/proposed by the bank, as per their self-\nassessment, may be submitted to the Cyber Security and Information Technology\nExamination (CSITE) Cell of Department of Banking Supervision, Central Office not\nlater than July 31, 2016 by the Chief Information Security Officer.\nOrganisational arrangements",
+    "section": "The material gaps in controls may be identified early and appropriate remedial",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Banks should review the organisational arrangements so that the security:\nconcerns are appreciated, receive adequate attention and get escalated to\nappropriate levels in the hierarchy to enable quick action.\nCyber-security awareness among stakeholders / Top Management / Board",
+    "section": "Banks should review the organisational arrangements so that the security",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "It should be realized that managing cyber risk requires the commitment of the:\nentire organization to create a cyber-safe environment. This will require a high level\nof awareness among staff at all levels. Top Management and Board should also\nhave a fair degree of awareness of the fine nuances of the threats and appropriate\nfamiliarisation may be organized. Banks should proactively promote, among their\ncustomers, vendors, service providers and other relevant stakeholders an\nunderstanding of the bank\u2019s cyber resilience objectives, and require and ensure\nappropriate action to support their synchronised implementation and testing. It is well\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\n\u092c\u0948\u0902\u0915 \u093f\u0902\u0917 \u092a\u0930\u094d\u092f\u0935\u0947\u0915\u094d\u0937\u0923 \u0935\u0935\u092d\u093e\u0917,  \u0947\u0902\u0926\u094d\u0930\u0940\u0930\u094d  \u093e\u0930\u094d\u093e\u092f\u0932\u0930\u094d, \u0935\u0930\u094d\u0932\u094d\u092f \u091f\u094d\u0930\u0947\u094d \u0938\u0947\u0902\u091f\u0930, \u0938\u0947\u0902\u091f\u0930- I,  \u092b \u092a\u0930\u0947\u094d,  \u094b\u0932\u093e\u092c\u093e, \u092e \u093f\u0902\u092c\u0908 -400005\nDepartment of Banking Supervision, Central Office, World Trade Centre, Cuffe Parade, Colaba, Mumbai 400005\n\u091f\u0947\u0932\u0940\u092b\u094b\u0928 / Tele: +91 22 22189131-39; \u092b\u0948\u0915\u094d\u0938 / Fax +91 22 22180157; \u0908\u092e\u0947\u0932 /email : cgmicdbsco@rbi.org.in\nrecognised that stakeholders\u2019 (including customers, employees, partners and\nvendors) awareness about the potential impact of cyber-attacks helps in cyber-\nsecurity preparedness of banks. Banks are required to take suitable steps in building\nthis awareness. Concurrently, there is an urgent need to bring the Board of Directors\nand Top Management in banks up to speed on cyber-security related aspects, where\nnecessary, and hence banks are advised to take immediate steps in this direction.\nA copy of this circular may be placed before the Board of Directors in its ensuing\nmeeting.\nYours sincerely,\n(R.Ravikumar)\nChief General Manager\nEncl: As above\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nAnnex 1\nBaseline Cyber Security and Resilience Requirements\nAn indicative but not exhaustive list of requirements to be put in place by banks to\nachieve baseline cyber-security/resilience is given. This may be evaluated\nperiodically to integrate risks that arise due to newer threats, products or processes.\nImportant security controls for effective cyber security as may be articulated by\nCERT-In also may be referred. Some of the key points to be kept in mind are:\na. In view of the growing technology adoption and potential threats, the role of IT\nSub-committee may be reviewed; Board level involvement and guidance\nwould set the right tone at the top.\nb. It is important to endeavour to stay ahead of the adversary.\nc. Cyber Security Operations Centre should have the capacity to monitor various\nlogs / incidents in real time / near real time.\nd. It is important to keep the vigil and to constantly remain alert.\ne. While hardware devices and software applications may provide security, it is\nimportant to configure them appropriately.\nf. Human resources are the key and ensure that they are provided with\nappropriate training. Communicate the security policy of the bank periodically.\nBaseline Controls\n1)  Inventory Management of Business IT Assets",
+    "section": "It should be realized that managing cyber risk requires the commitment of the",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "1 Maintain an up-to-date inventory of Assets, including business data/information:\nincluding\ncustomer\ndata/information,\nbusiness\napplications,\nsupporting\nIT\ninfrastructure and facilities \u2013 hardware/software/network devices, key personnel,\nservices, etc. indicating their business criticality. The banks may have their own\nframework/criteria for identifying critical assets.",
+    "section": "1 Maintain an up-to-date inventory of Assets, including business data/information",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "data"
+  },
+  {
+    "text": "2 Classify data/information based on information classification/sensitivity criteria of:\nthe bank",
+    "section": "2 Classify data/information based on information classification/sensitivity criteria of",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "data"
+  },
+  {
+    "text": "3 Appropriately manage and provide protection within and outside organisation:\nborders/network taking into consideration how the data/information  are stored,\ntransmitted, processed,  accessed and put to use within/outside the bank\u2019s network,\nand level of risk they are exposed to depending on the sensitivity of the\ndata/information.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\n2) Preventing execution of unauthorised software",
+    "section": "3 Appropriately manage and provide protection within and outside organisation",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1:\nMaintain\nan\nup-to-date\nand\npreferably\ncentralised\ninventory\nof\nauthorised/unauthorised\nsoftware(s).\nConsider\nimplementing\nwhitelisting\nof\nauthorised applications / software/libraries, etc.",
+    "section": "1",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2:\nHave\nmechanism\nto\ncentrally/otherwise\ncontrol\ninstallation\nof\nsoftware/applications on end-user PCs, laptops, workstations, servers, mobile\ndevices, etc. and mechanism to block /prevent and identify installation and running of\nunauthorised software/applications on such devices/systems.",
+    "section": "2",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Continuously monitor the release of patches by various vendors / OEMs,:\nadvisories issued by CERT-in and other similar agencies and expeditiously apply the\nsecurity patches as per the patch management policy of the bank. If a patch/series of\npatches is/are released by the OEM/manufacturer/vendor for protection against well-\nknown/well publicised/reported attacks exploiting the vulnerability patched, the banks\nmust have a mechanism to apply them expeditiously following an emergency patch\nmanagement process.",
+    "section": "3 Continuously monitor the release of patches by various vendors / OEMs,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Have a clearly defined framework including requirements justifying the:\nexception(s), duration of exception(s), process of granting exceptions, and authority\nfor approving, authority for review of exceptions granted on a periodic basis by\nofficer(s) preferably at senior levels who are well equipped to understand the\nbusiness and technical context of the exception(s).\n3)       Environmental Controls",
+    "section": "4 Have a clearly defined framework including requirements justifying the",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Put in place appropriate environmental controls for securing location of critical:\nassets providing protection from natural and man-made threats.",
+    "section": "1 Put in place appropriate environmental controls for securing location of critical",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Put in place mechanisms for monitoring of breaches / compromises of:\nenvironmental controls relating to temperature, water, smoke, access alarms, service\navailability alerts (power supply, telecommunication, servers), access logs, etc.\nAppropriate physical security measures shall be taken to protect the critical assets of\nthe bank.\n4) Network Management and Security",
+    "section": "2 Put in place mechanisms for monitoring of breaches / compromises of",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Prepare and maintain an up-to-date network architecture diagram at the:\norganisation level including wired/wireless networks;",
+    "section": "1 Prepare and maintain an up-to-date network architecture diagram at the",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Maintain an up-to-date/centralised inventory of authorised devices connected to:\nbank\u2019s network (within/outside bank\u2019s premises) and authorised devices enabling the\nbank\u2019s network. The bank may consider implementing solutions to automate network\ndiscovery and management.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks",
+    "section": "2 Maintain an up-to-date/centralised inventory of authorised devices connected to",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Ensure that all the network devices are configured appropriately and periodically:\nassess whether the configurations are appropriate to the desired level of network\nsecurity;",
+    "section": "3 Ensure that all the network devices are configured appropriately and periodically",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Put in appropriate controls to secure wireless local area networks, wireless:\naccess points, wireless client access systems.",
+    "section": "4 Put in appropriate controls to secure wireless local area networks, wireless",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 Have mechanisms to identify authorised hardware / mobile devices like Laptops,:\nmobile phones, tablets, etc. and ensure that they are provided connectivity only when\nthey meet the security requirements prescribed by the bank.",
+    "section": "5 Have mechanisms to identify authorised hardware / mobile devices like Laptops,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "6 Have mechanism to automatically identify unauthorised device connections to the:\nbank\u2019s network and block such connections.",
+    "section": "6 Have mechanism to automatically identify unauthorised device connections to the",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "7 Put in place mechanism to detect and remedy any unusual activities in systems,:\nservers, network devices and endpoints.",
+    "section": "7 Put in place mechanism to detect and remedy any unusual activities in systems,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "8 Establish Standard Operating Procedures (SOP) for all major IT activities:\nincluding for connecting devices to the network.",
+    "section": "8 Establish Standard Operating Procedures (SOP) for all major IT activities",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "9 Security Operation Centre to monitor the logs of various network activities and:\nshould have the capability to escalate any abnormal / undesirable activities.",
+    "section": "9 Security Operation Centre to monitor the logs of various network activities and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "10 Boundary defences should be multi-layered with properly configured firewalls,:\nproxies, DMZ perimeter networks, and network--\u2010based IPS and IDS. Mechanism to\nfilter both inbound and outbound traffic to be put in place.\n5) Secure Configuration",
+    "section": "10 Boundary defences should be multi-layered with properly configured firewalls,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Document and apply baseline security requirements/configurations to all:\ncategories of devices (end-points/workstations, mobile devices, operating systems,\ndatabases, applications, network devices, security devices, security systems, etc.),\nthroughout the lifecycle (from conception to deployment) and carry out reviews\nperiodically,",
+    "section": "1 Document and apply baseline security requirements/configurations to all",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "2  periodically evaluate critical device (such as firewall, network switches, security:\ndevices, etc.) configurations and patch levels for all systems in the bank\u2019s network\nincluding in Data Centres, in third party hosted sites, shared-infrastructure locations.\n6) Application Security  Life Cycle (ASLC)",
+    "section": "2  periodically evaluate critical device (such as firewall, network switches, security",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "2 In respect of critical business applications, banks may consider conducting:\nsource code audits by professionally competent personnel/service providers or have\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nassurance from application providers/OEMs that the application is free from\nembedded malicious / fraudulent code.",
+    "section": "2 In respect of critical business applications, banks may consider conducting",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Secure coding practices may also be implemented for internally /collaboratively:\ndeveloped applications.",
+    "section": "3 Secure coding practices may also be implemented for internally /collaboratively",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Besides business functionalities, security requirements relating to system access:\ncontrol, authentication, transaction authorization, data integrity, system activity\nlogging, audit trail, session management, security event tracking and exception\nhandling are required to be clearly specified at the initial and ongoing stages of\nsystem development/acquisition/implementation.",
+    "section": "4 Besides business functionalities, security requirements relating to system access",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "5 The development, test and production environments need to be properly:\nsegregated.",
+    "section": "5 The development, test and production environments need to be properly",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "6 Software/Application development approach should be based on threat:\nmodelling, incorporate secure coding principles and security testing based on global\nstandards and secure rollout.",
+    "section": "6 Software/Application development approach should be based on threat",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "7 Ensure that software/application development practices addresses the:\nvulnerabilities based on best practices baselines such as Open Web Application\nSecurity Project (OWASP) proactively and adopt principle of defence-in-depth to\nprovide layered security mechanism.",
+    "section": "7 Ensure that software/application development practices addresses the",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "8 Consider implementing measures such as installing a \u201ccontainerized\u201d apps on:\nmobile/smart phones for exclusive business use that is encrypted and separated\nfrom other smartphone data/applications; measures to initiate a remote wipe on the\ncontainerized app, rendering the data unreadable, in case of requirement may also\nbe considered.",
+    "section": "8 Consider implementing measures such as installing a \u201ccontainerized\u201d apps on",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "9 Ensure that adoption of new technologies shall be adequately evaluated for:\nexisting/evolving security threats and IT/security team of the bank reach reasonable\nlevel of comfort and maturity with such technologies before introducing for critical\nsystems of the bank.\n7) Patch/Vulnerability & Change Management",
+    "section": "9 Ensure that adoption of new technologies shall be adequately evaluated for",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Follow a documented risk-based strategy for inventorying IT components that:\nneed to be patched, identification of patches and applying patches so as to minimize\nthe number of vulnerable systems and the time window of vulnerability/exposure.",
+    "section": "1 Follow a documented risk-based strategy for inventorying IT components that",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "2 Put in place systems and processes to identify, track, manage and monitor the:\nstatus of patches to operating system and application software running at end-user\ndevices directly connected to the internet and in respect of Server operating\nSystems/Databases/Applications/ Middleware, etc.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks",
+    "section": "2 Put in place systems and processes to identify, track, manage and monitor the",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Changes to business applications, supporting technology, service components:\nand facilities should be managed using robust configuration management processes,\nconfiguration baseline that ensure integrity of any changes thereto",
+    "section": "3 Changes to business applications, supporting technology, service components",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Periodically conduct VA/PT of internet facing web/mobile applications, servers &:\nnetwork\ncomponents\nthroughout\ntheir\nlifecycle\n(pre-implementation,\npost\nimplementation, after changes etc.)",
+    "section": "4 Periodically conduct VA/PT of internet facing web/mobile applications, servers &",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 Periodically conduct Application security testing of web/mobile applications:\nthroughout their lifecycle (pre-implementation, post implementation, after changes) in\nenvironment closely resembling or replica of production environment.",
+    "section": "5 Periodically conduct Application security testing of web/mobile applications",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "6 As a threat mitigation strategy, identify the root cause of incident and apply:\nnecessary patches to plug the vulnerabilities.",
+    "section": "6 As a threat mitigation strategy, identify the root cause of incident and apply",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "7 Periodically evaluate the access device configurations and patch levels to ensure:\nthat all access points, nodes between (i) different VLANs in the Data Centre (ii)\nLAN/WAN interfaces (iii) bank\u2019s network to external network and interconnections\nwith partner, vendor and service provider networks are to be securely configured.\n8) User Access Control / Management",
+    "section": "7 Periodically evaluate the access device configurations and patch levels to ensure",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Provide secure access to the bank\u2019s assets/services from within/outside bank\u2019s:\nnetwork by protecting data/information at rest (e.g. using encryption, if supported by\nthe device) and in-transit (e.g. using technologies such as VPN or other secure web\nprotocols, etc.)",
+    "section": "1 Provide secure access to the bank\u2019s assets/services from within/outside bank\u2019s",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Carefully protect customer access credentials such as logon userid,:\nauthentication information and tokens, access profiles, etc. against leakage/attacks",
+    "section": "2 Carefully protect customer access credentials such as logon userid,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Disallow administrative rights on end-user workstations/PCs/laptops and provide:\naccess rights on a need to know basis and for specific duration when it is required\nfollowing an established process.",
+    "section": "3 Disallow administrative rights on end-user workstations/PCs/laptops and provide",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Implement centralised authentication and authorisation system or accessing and:\nadministering applications, operating systems, databases, network and security\ndevices/systems, point of connectivity (local/remote, etc.) including enforcement of\nstrong password policy, two-factor/multi-factor authentication depending on risk\nassessment and following the principle of least privileges and separation of duties.",
+    "section": "4 Implement centralised authentication and authorisation system or accessing and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 Implement appropriate (e.g. centralised) systems and controls to allow, manage,:\nlog and monitor privileged/superuser/administrative access to critical systems\n(Servers/OS/DB, applications, network devices etc.).",
+    "section": "5 Implement appropriate (e.g. centralised) systems and controls to allow, manage,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "6 Implement controls to minimize invalid logon counts, deactivate dormant:\naccounts.",
+    "section": "6 Implement controls to minimize invalid logon counts, deactivate dormant",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "7 Monitor any abnormal change in pattern of logon.:\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks",
+    "section": "7 Monitor any abnormal change in pattern of logon.",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "9 Implement controls for remote management/wiping/locking of mobile devices:\nincluding laptops, etc.",
+    "section": "9 Implement controls for remote management/wiping/locking of mobile devices",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "10 Implement measures to control use of VBA/macros in office documents, control:\npermissible attachment types in email systems.\n9) Authentication Framework for Customers",
+    "section": "10 Implement measures to control use of VBA/macros in office documents, control",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Implement authentication framework/mechanism to provide positive identify:\nverification of bank to customers.",
+    "section": "1 Implement authentication framework/mechanism to provide positive identify",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Banks should act as the identity provider for identification and authentication of:\ncustomers for access to partner systems using secure authentication technologies.\n10) Secure mail and messaging systems",
+    "section": "3 Banks should act as the identity provider for identification and authentication of",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Implement secure mail and messaging systems, including those used by bank\u2019s:\npartners & vendors, that include measures to prevent email spoofing, identical mail\ndomains, protection of attachments, malicious links etc.",
+    "section": "1 Implement secure mail and messaging systems, including those used by bank\u2019s",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Document and implement email server specific controls:\n11) Vendor Risk Management",
+    "section": "2 Document and implement email server specific controls",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Banks shall be accountable for ensuring appropriate management and:\nassurance on security risks in outsourced and partner arrangements.",
+    "section": "1 Banks shall be accountable for ensuring appropriate management and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Banks shall carefully evaluate the need for outsourcing critical processes and:\nselection of vendor/partner based on comprehensive risk assessment.",
+    "section": "2 Banks shall carefully evaluate the need for outsourcing critical processes and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Among others, banks shall regularly conduct effective due diligence, oversight:\nand management of third party vendors/service providers & partners.",
+    "section": "3 Among others, banks shall regularly conduct effective due diligence, oversight",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Establish appropriate framework, policies and procedures supported by baseline:\nsystem security configuration standards to evaluate, assess, approve, review, control\nand monitor the risks and materiality of all its vendor/outsourcing activities shall be\nput in place.",
+    "section": "4 Establish appropriate framework, policies and procedures supported by baseline",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 Banks shall ensure and demonstrate that the service provider (including another:\nbank) adheres to all regulatory and legal requirements of the country. Banks may\nnecessarily enter into agreement with the service provider that amongst others\nprovides for right of audit by the bank and inspection by the regulators of the country.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks",
+    "section": "5 Banks shall ensure and demonstrate that the service provider (including another",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "6 Reserve Bank of India shall have access to all information resources (online/in:\nperson) that are consumed by banks, to be made accessible to RBI officials by the\nbanks when sought, though the infrastructure/enabling resources may not physically\nbe located in the premises of banks.",
+    "section": "6 Reserve Bank of India shall have access to all information resources (online/in",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "7 Further, banks have to adhere to the relevant legal and regulatory requirements:\nrelating to geographical location of infrastructure and movement of data out of\nborders.",
+    "section": "7 Further, banks have to adhere to the relevant legal and regulatory requirements",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "8 Banks shall thoroughly satisfy about the credentials of vendor/third-party:\npersonnel accessing and managing the bank\u2019s critical assets.",
+    "section": "8 Banks shall thoroughly satisfy about the credentials of vendor/third-party",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "9 Background checks, non-disclosure and security policy compliance agreements:\nshall be mandated for all third party service providers\n12) Removable Media",
+    "section": "9 Background checks, non-disclosure and security policy compliance agreements",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "1 Define and implement policy for restriction and secure use of removable:\nmedia/BYOD on various types/categories of devices including but not limited to\nworkstations/PCs/Laptops/Mobile devices/servers, etc. and secure erasure of data\non such media after use.",
+    "section": "1 Define and implement policy for restriction and secure use of removable",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Limit media types and information that could be transferred/copied to/from such:\ndevices.",
+    "section": "2 Limit media types and information that could be transferred/copied to/from such",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Get the removable media scanned for malware/anti-virus prior to providing:\nread/write access.",
+    "section": "3 Get the removable media scanned for malware/anti-virus prior to providing",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Consider implementing centralised policies through Active Directory or End-:\npoint management systems to whitelist/blacklist/restrict removable media use.",
+    "section": "4 Consider implementing centralised policies through Active Directory or End-",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 As default rule, use of removable devices and media should not be permitted in:\nthe banking environment unless specifically authorised for defined use and duration\nof use.\n13) Advanced Real-time Threat Defence and Management",
+    "section": "5 As default rule, use of removable devices and media should not be permitted in",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Build a robust defence against the installation, spread, and execution of:\nmalicious code at multiple points in the enterprise.",
+    "section": "1 Build a robust defence against the installation, spread, and execution of",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Implement Anti-malware, Antivirus protection including behavioural detection:\nsystems for all categories of devices \u2013 (Endpoints such as PCs/laptops/ mobile\ndevices\netc.),\nservers\n(operating\nsystems,\ndatabases,\napplications,\netc.),\nWeb/Internet gateways, email-gateways, Wireless networks, SMS servers etc.\nincluding tools and processes for centralised management and monitoring.",
+    "section": "2 Implement Anti-malware, Antivirus protection including behavioural detection",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Consider implementing whitelisting of internet websites/systems.:\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks",
+    "section": "3 Consider implementing whitelisting of internet websites/systems.",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Consider implementing secure web gateways with capability to deep scan:\nnetwork packets including secure (HTTPS, etc.) traffic passing through the\nweb/internet gateway\n14) Anti-Phishing",
+    "section": "4 Consider implementing secure web gateways with capability to deep scan",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Subscribe to Anti-phishing/anti-rouge app services from external service:\nproviders for identifying and taking down phishing websites/rouge applications.\n15) Data Leak prevention strategy",
+    "section": "1 Subscribe to Anti-phishing/anti-rouge app services from external service",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Develop a comprehensive data loss/leakage prevention strategy to safeguard:\nsensitive (including confidential) business and customer data/information.",
+    "section": "1 Develop a comprehensive data loss/leakage prevention strategy to safeguard",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "data"
+  },
+  {
+    "text": "2 This shall include protecting data processed in end point devices, data in:\ntransmission, as well as data stored in servers and other digital stores, whether\nonline or offline.",
+    "section": "2 This shall include protecting data processed in end point devices, data in",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "data"
+  },
+  {
+    "text": "3 Similar arrangements need to be ensured at the vendor managed facilities as:\nwell.\n16) Maintenance, Monitoring, and Analysis of Audit Logs",
+    "section": "3 Similar arrangements need to be ensured at the vendor managed facilities as",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Consult all the stakeholders before finalising the scope, frequency and storage:\nof log collection.",
+    "section": "1 Consult all the stakeholders before finalising the scope, frequency and storage",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Manage and analyse audit logs in a systematic manner so as to detect,:\nunderstand or recover from an attack.",
+    "section": "2 Manage and analyse audit logs in a systematic manner so as to detect,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Enough care is to be taken to capture audit logs pertaining to user actions in a:\nsystem. Such arrangements should facilitate forensic auditing, if need be.\n17) Audit Log settings",
+    "section": "3 Enough care is to be taken to capture audit logs pertaining to user actions in a",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Implement and periodically validate settings for capturing of appropriate:\nlogs/audit trails of each device, system software and application software , ensuring\nthat logs include minimum information to uniquely identify the log for example by\nincluding a date, timestamp, source addresses, destination addresses, and various\nother useful elements of each packet and/or event and/or transaction.\n18) Vulnerability assessment and Penetration Test and Red Team Exercises",
+    "section": "1 Implement and periodically validate settings for capturing of appropriate",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Periodically conduct vulnerability assessment and penetration testing exercises:\nfor all the critical systems, particularly those facing the internet.",
+    "section": "1 Periodically conduct vulnerability assessment and penetration testing exercises",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 The vulnerabilities detected are to be remedied promptly in terms of the bank\u2019s:\nrisk management/treatment framework so as to avoid exploitation of such\nvulnerabilities.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks",
+    "section": "2 The vulnerabilities detected are to be remedied promptly in terms of the bank\u2019s",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Penetration testing of public facing systems as well as other critical applications:\nare to be carried out by professionally qualified teams.",
+    "section": "3 Penetration testing of public facing systems as well as other critical applications",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Findings of VA/PT and the follow up actions necessitated are to be monitored:\nclosely by the Information Security/Information Technology Audit team as well as\nSenior/Top Management.",
+    "section": "4 Findings of VA/PT and the follow up actions necessitated are to be monitored",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 Red Teams may be used to identify the vulnerabilities and the business risk,:\nassess the efficacy of the defences and check the mitigating controls already in place\nby simulating the objectives and actions of an attacker.",
+    "section": "5 Red Teams may be used to identify the vulnerabilities and the business risk,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "6 Periodically and actively participate in cyber drills conducted under the aegis of:\nCert-IN, IDRBT etc.\n19) Incident Response & Management\nResponding to Cyber-Incidents:",
+    "section": "6 Periodically and actively participate in cyber drills conducted under the aegis of",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Put in place a fully effective Incident Response programme with due approval of:\nthe Board / Top Management.",
+    "section": "1 Put in place a fully effective Incident Response programme with due approval of",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Have written incident response procedures including the roles of staff /:\noutsourced staff handling such incidents; Response strategies shall consider\nreadiness to meet various incident scenarios based on situational awareness and\npotential/post impact, consistent communication & co-ordination with stakeholders\nduring response;",
+    "section": "2 Have written incident response procedures including the roles of staff /",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Have a mechanism to dynamically incorporate lessons learnt to continually:\nimprove the response strategies.\nRecovery from Cyber - Incidents:",
+    "section": "3 Have a mechanism to dynamically incorporate lessons learnt to continually",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "4 Bank\u2019s BCP/DR capabilities shall adequately and effectively support the Bank\u2019s:\ncyber resilience objectives and should be so designed to enable the bank to recover\nrapidly from cyber-attacks/other incidents and safely resume critical operations\naligned with recovery time objectives while ensuring security of processes and data\nis protected.",
+    "section": "4 Bank\u2019s BCP/DR capabilities shall adequately and effectively support the Bank\u2019s",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 Banks shall ensure such capabilities in all interconnected systems and networks:\nincluding those of vendors and partners and readiness demonstrated through\ncollaborative & co-ordinated resilience testing that meet the bank\u2019s recovery time\nobjectives.",
+    "section": "5 Banks shall ensure such capabilities in all interconnected systems and networks",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "6 Such testing shall also include testing of crisis communication to customers and:\nother internal and external stakeholders, reputation management. Adequate capacity\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nshall be planned and maintained, in consideration thereof. The following may be\nconsidered:\n(a) Define incidents, method of detection, methods of reporting\nincidents by employees, vendors and customers and periodicity of\nmonitoring, collection/sharing of threat information, expected response\nin each scenario/incident type, allocate and communicate clear roles\nand responsibilities of personnel manning/handling such incidents,\nprovide specialised training to such personnel, post incident review,\nperiodically test incident response plans.\n(b) Establish and implement a Security Operations Centre for\ncentralised and coordinated monitoring and management of security\nrelated incidents.\n(c) Establish and implement systems to collect and share threat\ninformation from local/national/international sources following legally\naccepted/defined means/process\n(d) Document and communicate strategies to respond to advanced\nattacks containing ransom ware/cyber extortion, data destruction,\nDDOS, etc.\n(e) Contain the level of cyber-attack by implementing shielding\ncontrols/quarantining the affected devices/systems.\n(f) Implement a policy & framework for aligning Security Operation\nCentre, Incident Response and Digital forensics to reduce the business\ndowntime/ to bounce back to normalcy.\n20) Risk based transaction monitoring",
+    "section": "6 Such testing shall also include testing of crisis communication to customers and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Risk based transaction monitoring or surveillance process shall be implemented:\nas part of fraud risk management system across all -delivery channels.",
+    "section": "1 Risk based transaction monitoring or surveillance process shall be implemented",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "2 The bank should notify the customer, through alternate communication:\nchannels, of all payment or fund transfer transactions above a specified value\ndetermined by the customer.\n21) Metrics",
+    "section": "2 The bank should notify the customer, through alternate communication",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Develop a comprehensive set of metrics that provide for prospective and:\nretrospective measures, like key performance indicators and key risk indicators.",
+    "section": "1 Develop a comprehensive set of metrics that provide for prospective and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Some illustrative metrics include coverage of anti-malware software and their:\nupdation percentage, patch latency, extent of user awareness training, vulnerability\nrelated metrics, etc.\n22) Forensics\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks",
+    "section": "2 Some illustrative metrics include coverage of anti-malware software and their",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Have support/ arrangement for network forensics/forensic investigation/DDOS:\nmitigation services on stand-by.",
+    "section": "1 Have support/ arrangement for network forensics/forensic investigation/DDOS",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Periodically and actively participate in cyber drills conducted under the aegis of:\nCert-IN, IDRBT etc.\n23) User / Employee/ Management Awareness",
+    "section": "2 Periodically and actively participate in cyber drills conducted under the aegis of",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "1 Define and communicate to users/employees, vendors & partners security:\npolicy/ies covering secure and acceptable use of bank\u2019s network/assets including\ncustomer information/data, educating them about cybersecurity risks and protection\nmeasures at their level.",
+    "section": "1 Define and communicate to users/employees, vendors & partners security",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "2 Encourage them to report suspicious behaviour incidents to the incident:\nmanagement team.",
+    "section": "2 Encourage them to report suspicious behaviour incidents to the incident",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Conduct targeted awareness/training for key personnel (at executive,:\noperations, security related administration/operation and management roles, etc.)",
+    "section": "3 Conduct targeted awareness/training for key personnel (at executive,",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "5 Establish a mechanism for adaptive capacity building for effective Cybersecurity:\nManagement. Making cyber security awareness programs mandatory for new\nrecruits and web-based quiz & training for lower, middle & upper management every\nyear. (Recent and past cyber-attacks show, cyber adversaries are also targeting\nbank employees).",
+    "section": "5 Establish a mechanism for adaptive capacity building for effective Cybersecurity",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "security"
+  },
+  {
+    "text": "6 Board members may be sensitised on various technological developments and:\ncyber security related developments periodically.",
+    "section": "6 Board members may be sensitised on various technological developments and",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "7 Board members may be provided with training programmes on IT Risk / Cyber-:\nsecurity Risk and evolving best practices in this regard so as to cover all the Board\nmembers atleast once a year.\n24) Customer Education and Awareness",
+    "section": "7 Board members may be provided with training programmes on IT Risk / Cyber-",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "1 Improve and maintain customer awareness and education with regard to:\ncybersecurity risks.",
+    "section": "1 Improve and maintain customer awareness and education with regard to",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "2 Encourage customers to report phishing mails/ Phishing sites and on such:\nreporting take effective remedial action.",
+    "section": "2 Encourage customers to report phishing mails/ Phishing sites and on such",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "3 Educate the customers on the downside risk of sharing their login credentials /:\npasswords etc. to any third party vendor and the consequences thereof.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nAnnex-2\nSetting up and Operationalising Cyber Security Operation Centre (C-SOC)\nIntroduction\n1 - Banking Industry in India has evolved technologically over the years and currently\ndelivering innovative services to its customers. These services are delivered\nnonstop, round the clock and the customers access these services using Internet\nand Mobile Connectivity. Security of the financial transactions is of paramount\nimportance and therefore the RBI has come out with guidelines from time to time\naddressing the security and operational aspects for specific applications and\nservices.\n2 - It is important and pertinent to look at specifically the Internet facing applications\nand services that are currently delivered and proposed to be delivered in the\nimmediate future in the Banking Industry and come out with Cyber Security\nguidelines across the applications and services.\n3 - Constant and Continuous monitoring of the environment using appropriate and\ncost effective technology tools, clearly defined policies and procedures based on\nbest practices and monitored by technically competent and capable manpower is the\nurgent need for the Industry. Compliance to the Government guidelines that are put\nout periodically covering the cyber security policy, protecting critical information\ninfrastructure and the Information Technology Act are of paramount importance. It is\nimportant to address the governance, technology, operational, outsourcing and legal\nissues while setting up the Cyber Security Operations Centre.\n4 \u2013 Issues that need to be kept in mind while setting up the CSOC is given below.\nThese are indicative but not exhaustive.\nGovernance Aspects:\n\u2022\nTop Management/Board Briefing on Threat Intelligence\n\u2022\nDashboards and oversight\n\u2022\nPolicy, measurement and enforcement (key metrics, reporting structure,\ndefine what is to be reported)\n\u2022\nInforming stakeholders , stakeholder participation\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nCyber SoC: Points to be considered\n1 - Conventional or Traditional Security systems have always focussed on\npreventive approaches over the years and are reactive in nature. They are in\na position to address the concerns regarding known attacks. It is to be noted\nthat the threat landscape has changed significantly in the recent past and\ntherefore the approach and methodology required to be put in place has to\nnecessarily take into account proactive approaches rather than reactive\napproaches and have to also address possible unknown attacks. For\nexample, zero day attacks and attacks for which signatures are not available\nhave to be kept in mind.\n2 - The Cyber SoC has to take into account proactive monitoring and\nmanagement capabilities with sophisticated tools for detection, quick\nresponse and backed by data and tools for sound analytics.\n3 - The systems that are implemented currently to monitor the security\noperation takes into account collection of the logs from each one of the point\nproducts deployed, storing and processing of the logs, correlation through\nappropriate SIEM tools, continuous monitoring of SIEM screens and finding\nthe anomalies, if any and raising the alarms.\n4 - The systems that NEED to be put in place as a part of the Cyber SoC\nrequires the following aspects to be addressed.\n\uf0a7 Methods to identify root cause of attacks, classify them into identified\ncategories and come out with solutions to contain further attacks of\nsimilar types.\n\uf0a7 Incident investigation, forensics and deep packet analysis need to be in\nplace to achieve the above.\n\uf0a7 Dynamic Behaviour Analysis. \u2013 preliminary static & dynamic analysis\nand collecting Indicators of Compromise (IOC)\n\uf0a7 Analytics with good dash board, showing the Geo-location of the IP\u2019s\n\uf0a7 Counter response and Honeypot services\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nExpectations from SOC:\n\uf0a7 Ability to Protect critical business and customer data/information,\ndemonstrate compliance with internal guidelines, country regulations\nand laws\n\uf0a7 Ability to Provide real-time/near-real time information on and insight\ninto the security posture of the bank\n\uf0a7 Ability to Effectively and Efficiently manage security operations by\npreparing for and responding to cyber risks/threats, facilitate continuity\nand recovery\n\uf0a7 Ability to assess threat intelligence and the proactively identify/visualize\nimpact of threats on the bank\n\uf0a7 Ability to know who did what, when ,  how and preservation of\nevidence\n\uf0a7 Integration of various log types and logging options into SIEM,\nticketing/workflow/case management, unstructured data/big data,\nreporting/dashboard, use cases/rule design (customized based on risk\nand compliance requirements/drivers, etc.), etc.\nKey Responsibilities of SOC could include:\n\uf0a7 Monitor, analyze and escalate security incidents\n\uf0a7 Develop Response - protect, detect, respond, recover\n\uf0a7 Conduct Incident Management and Forensic Analysis\n\uf0a7 Co-ordination with contact groups within the bank/external agencies\n5 - Building blocks for the Cyber SoC:\nTECHNOLOGY ISSUES:\nFirst step is to arrive at a suitable and cost effective technology framework\ndesigned and implemented to ensure proactive monitoring capabilities aligned\nwith the banking technology risk profile and business and regulatory\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nrequirements. Clear understanding of the service delivery architecture\ndeployed by the Bank to deliver innovative customer services will enable\nidentification of the location for the sensors to collect the logs that are required\nto carry out the analysis and investigation. SIEM is able to meet this\nrequirement to some extent but a holistic approach to problem identification\nand solution is required.\nSecond step is to have security analytics engine which can process the logs\nwithin reasonable time frame and come out with possible recommendations\nwith options for further deep dive investigations\nThird step is to look at deep packet inspection approaches which are currently\nimplemented using the UTM solutions that deliver wire speed performance\nwith on the fly deep packet inspection.\nFourth step is to have tools and technologies for malware detection and\nanalysis as well as imaging solutions for data to address the forensics\nrequirements\nIt is to be noted that the solution architecture deployed for the above has to\naddress performance and scalability requirements in addition to high\navailability.\nNeed to think through by appropriately designing the\n\u2022\nSIEM architecture & use cases\n\u2022\nLog types and logging options (data sources, integration into SIEM)\n\u2022\nIntegration of various log types and logging options into the SIEM,\nticketing/workflow/case\nmanagement,\nunstructured\ndata/big\ndata,\nreporting/dashboard, use cases/rule design (customized based on risk and\ncompliance requirements/drivers, etc.), etc.\n\u2022\nTechnology for improving effectiveness and efficiency (tracking of metrics,\nanalytics, scorecards, dashboards, etc.)\nPROCESS RELATED ASPECTS:\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nOne of the key aspects that require attention while designing the CSC is to\nunderstand the process to be followed to identify the root cause of a security\nbreach and further steps to mitigate such attacks in future.\nIncident Management\nProblem management processes with reference to security operations\nVulnerability and Patch Management Security risk management Availability\nmanagement Computer forensics and response management are the key\nmetrics that need to be well understood and architectured while configuring\nthe solution.\nPEOPLE RELATED ISSUES:\nCSC is managed and monitored by competent and capable staff round the\nclock and therefore it is important to look at a suitable structure for this\nrequirement.\nThe Level 1 monitoring by adequately trained staff working round the clock is\nthe first step. They need to have training and product/ vendor certification to\nhandle the tasks efficiently.\nLevel 2 deals with highly trained staff in specific areas of network, data\nsecurity, end point security etc. to address the requirements especially while\ncarrying out the root cause analysis as well as suitable corrective steps.\nLevel 3 staff are called the SoC analysts. They have profound knowledge of\nsecurity, perform deep packet analysis, collection of IOC, forensic knowledge\nfor collection of evidence, malware reverse engineering and write custom\nscripts whenever required.\nIt is to be noted that all the staff involved in the above exercise need to have a\ngood knowledge of the products and services deployed by the respective\nBank.\n\u2022\nBanks need to seriously consider practical ways of tackling the following\nissues when it comes to hiring and managing staff/people for SOC. It is not\nany other function in the bank. There has to be a different approach\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nbecause such personnel with required skill sets that are hard to find and\nretain.\n\u2022\nStaffing of SOC \u2013 is it required to be 24x7x365, in shifts, business hours\nonly\u2026.etc.\n\u2022\nModel used - Finding staff with required skills /managed service provider\nwith required skill set\n\u2022\nTraining own staff/training of staff by service provider\n\u2022\nAppropriate compensation/incentives to retain trained staff /staff with\nrequired skill set\n\u2022\nMetrics to measure performance of SOC\n\u2022\nEnsuring scalability and continuity of staff through appropriate capacity\nplanning initiatives\nEXTERNAL INTEGRATION:\nWhile delivering services to the customers of the Bank, several stake holders\nare involved directly or otherwise. They do have experience which could be\nvery useful. For example the threat intelligence feeds from various sources\nmay be provided by the product vendors and other major players in the\ntechnology landscape. Security information feeds from other Banks in\nparticular and the financial ecosystem in general will be quite useful.\nCyber response cells, CERT-In and telecom service providers of the Bank\nmay add value to the discussions based on the happenings in the Industry at\nlarge.\nIDENTIFYING A SUITABLE MODEL FOR IMPLEMENTATION:\nSome of the decisions which have to be taken upfront is to look at BOO or the\nOutsourcing model. It is difficult to reverse this decision post implementation\nand therefore it is important.\nShould the SoC be in-house or outsourced?\nShould it address only the Internet facing environment or the complete IT\ninfrastructure?\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nDoes each Bank need to set up independently or should we look at the\nconsortium based approach?\nDo we need to keep in mind the Bank's risk posture?\n\nPoints to keep in mind while planning for SOC in view of\n(a) Specialized skill set requirements of operating and managing a SOC,\n(b) Difficulty in finding experienced staff,\n(c) Time consuming and expensive trainings,\n(d) Designing of suitable compensation strategies,\n(e) difficulty of retaining staff  due to continual need for updated training, lack of\nadequate career path options, and overstretching ,\n(f) Resource requirements pertaining to other supporting functions such as (i) system\nadministration\nof\nsystems\nfacilitating\nSOC\noperations\nsuch\nas\nSIEM/dashboard/reporting/workflow/case management systems, etc., (ii) receiving,\nintegrating and using threat intelligence, (iii) implementing communication strategy,\n(iv) Supervision/ management of SOC staff/personnel, (v) meeting compliance\nrequirements of regulators/laws/regulations\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nAnnex-3\nTemplate for reporting Cyber Incidents",
+    "section": "3 Educate the customers on the downside risk of sharing their login credentials /",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "risk"
+  },
+  {
+    "text": "Subsequent update(s) RBI (updates to be provided if the earlier reporting:\nwas incomplete i.e. investigation underway or new information pertaining\nto the incident has been discovered or as per request of RBI):\nBasic Information",
+    "section": "Subsequent update(s) RBI (updates to be provided if the earlier reporting",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Particulars of Reporting::\n\uf0b7 Name of the bank\n\uf0b7 Date and Time of Reporting to RBI, CERT-\nIN, other agencies (please mention\nseparately time of reporting to each)\n\uf0b7 Name of Person Reporting\n\uf0b7 Designation/Department\n\uf0b7 Contact details (e.g. official email-id,\ntelephone no, mobile no)",
+    "section": "Particulars of Reporting:",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Details of Incident::\n\uf0b7 Date and time of incident detection\n\uf0b7 Type of incidents and systems affected\n(i)\nOutage of Critical IT system(s)\n(e.g. CBS, Treasury Systems, Trade\nfinance systems, Internet banking\nsystems, ATMs, payment systems\nsuch as SWIFT, RTGS, NEFT,\nNACH, IMPS, etc.)\n(ii)\nCyber Security Incident (e.g.\nDDOS, Ransom ware/crypto ware,\ndata breach, data destruction, web\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\ndefacement, etc.)? [Please\ncomplete Annex]\n(iii)\nTheft or Loss of Information (e.g.\nsensitive customer or business\ninformation stolen or missing or\ndestroyed or corrupted)?\n(iv)\nOutage of Infrastructure (e.g.\nwhich premises-DC/Central\nProcessing Units, branch, etc.,\npower/utilities supply,\ntelecommunications supply,)?\n(v)\nFinancial (e.g. liquidity, bank run)?\n(vi)\nUnavailability of Staff (e.g. number\nand percentage on loss of staff\n/absence of staff from work (vii)\nOthers (e.g. outsourced service\nproviders, business partners, breach\nof IT Act/any other law and\nRBI/SEBI regulations. Etc.)?\n\uf0b7 What actions or responses have been\ntaken by the bank at the time of first\nreporting/till the time of subsequent\nreporting?",
+    "section": "Details of Incident:",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Impact Assessment(examples are given:\nbut not exhaustive):\n\uf0b7 Business impact including availability of\nservices \u2013 Banking Services, Internet\nbanking, Cash Management, Trade\nFinance, Branches, ATMs, Clearing and\nSettlement activities, etc.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\n\uf0b7 Impact on stakeholders\u2013 affected\nretail/corporate customers, affected\nparticipants including operator(s),\nsettlement institution(s), business partners,\nand service providers, etc.\n\uf0b7 Financial and market impact \u2013 Trading\nactivities, transaction volumes and values,\nmonetary losses, liquidity impact, bank run,\nwithdrawal of funds, etc.\n\uf0b7 Regulatory and Legal impact",
+    "section": "Impact Assessment(examples are given",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Chronological order of events::\n\uf0b7 Date of incident, start time and duration.\n\uf0b7 Escalations done  including approvals\nsought on interim measures to mitigate the\nevent, and reasons for taking such\nmeasures\n\uf0b7 Stakeholders informed or involved\n\uf0b7 Channels of communications used (e.g.\nemail, internet, sms, press release,\nwebsite notice, etc.)\n\uf0b7 Rationale on the decision/activation of\nBCP and/or  DR",
+    "section": "Chronological order of events:",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Root Cause Analysis(RCA)::\n\uf0b7 Factors that caused the problem/ Reasons\nfor occurrence, Cause and effects of\nincident\n\uf0b7 Interim measures to mitigate/resolve the\nissue, and reasons for taking such\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nmeasures, and\n\uf0b7 Steps identified or to be taken to address\nthe problem in the longer term. List the\nremedial measures/corrections affected\n(one time measure) and/or corrective\nactions taken to prevent future\noccurrences of similar types of incident",
+    "section": "Root Cause Analysis(RCA):",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Date/target date of resolution_________:\n(DD/MM/YYYY).\n\uf0b7\n\uf0b7\n\uf0b7\nNote: All fields are REQUIRED to be filled unless otherwise stated.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nCYBER SECURITY INCIDENT REPORTING(CSIR) FORM\nGeneral Information                        Report No:",
+    "section": "Date/target date of resolution_________",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Contact Information: (Please provide if different from what is reported in Basic:\nInformation above)\nName of bank:\nName\nof\nthe\nperson\nreporting and Designation:\nDepartment\nOfficial Email :\nTelephone/Mobile :",
+    "section": "Contact Information: (Please provide if different from what is reported in Basic",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Is this a \u2610New incident \u2610Update to reported incident?:\n\uf0b7 For the first update, please indicate \u201c1. If this is an update to a reported\nincident, please provide the update number for this update. (X.1, X.2, X.3,\nX.4, etc. where X is the Report No.\nUpdate No: Click here to enter text.\n3 What severity is this incident being classified as?\nSeverity 1     \u2610\nAffected critical system(s)/\ncustomer\nfacing\napplications/systems,\ncrippled Internal network or\na combination of the above\nSeverity  2     \u2610\nIncident occurred on\nsystem or network that\ncould\nput\nthe\nbank\u2019s\nnetwork / critical system(s)\nor a combination of them at\nrisk\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nInformation about the Incident",
+    "section": "Is this a \u2610New incident \u2610Update to reported incident?",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Please indicate the date and time the incident was reported to the RBI. If it is also:\nreported to Other Agencies (CERT-IN/NCIIP), Law enforcement agencies, separately\nindicate the date and time of such reporting.\n(Please specify in Indian Local Time (+5.30 GMT))\nReported to RBI - Date: Click here to enter a date.\nReported to CERT-IN Date: Click here to enter a date.\nReported to NCIIP Date: Click here to enter a date.\nReported to ----mention the name of agency Date: Click here to enter a date.",
+    "section": "Please indicate the date and time the incident was reported to the RBI. If it is also",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Types of Threat/Incident:\n((Please select more than one, as applicable)\n\u2610 Denial of Service (DoS)  \u2610 Distributed Denial of Service (DDoS)\n\u2610 Virus/Worm/Trojan/Malware   \u2610 Intrusion/Hack/Unauthorised access\n\u2610 Website Defacement\n\u2610 Misuse of Systems/Inappropriate usage\n\u2610 APT/0-day attack \u2610 Spear phishing/Whaling/Phishing/Wishing/Social engineering\nattack\n\u2610 Other: Click here to enter text.",
+    "section": "Types of Threat/Incident",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Is this incident related to another incident previously reported?:\nChoose an item.\n\uf0b7 If \u201cYes\u201d, provide more information on how both incidents are related.\nClick here to enter text.\n\uf0b7 Please provide the reference no. of the previously reported incident.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nRef no: Click here to enter text.\nIncident Details",
+    "section": "Is this incident related to another incident previously reported?",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Please provide details of the incident in the box below.:\n\uf0b7\nWhen was the incident first observed/sighted/detected?\nClick here to enter a date.\n\uf0b7 How was the incident first observed/sighted/detected?\nClick here to enter text.\n\uf0b7 Who observed?",
+    "section": "Please provide details of the incident in the box below.",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Please provide details of the critical system(s) or network(s) that is/are impacted by:\nthis incident. Details should minimally include:\nLocation, purpose of this system/ network, affected applications (including hardware\nmanufacturer, software developer, make/ model, etc.) running on the systems/\nnetworks, etc.\nClick here to enter text.\nWhat security software installed on the system currently?\nIf known, any TCP or UDP ports involved in the incident.\nIf known, provide the affected system\u2019s IP address If known, provide the attacker\u2019s\nIP address\nWhere relevant, please indicate the Operating System of the affected critical\nsystem(s): Choose an item.\n\uf0b7 If others, kindly state the OS: Click here to enter text.",
+    "section": "Please provide details of the critical system(s) or network(s) that is/are impacted by",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is the impact of the attack? (Tick \u2018one\u2019 checkbox for each column):\nCustomer\nService\nDelivery\n(Loss\nof\n)\nSensitive\nInformation\nPublic\nConfidence\nand\nReputation\n\u2610No Impact\n\u2610No loss\n\u2610No Impact\n\u2610Minor Impact\n\u2610Minor Loss\n\u2610Minor Impact\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\n\u2610Major Impact\n\u2610Major Loss\n\u2610Major Impact\n\u2610Serious Impact\n\u2610Serious Loss\n\u2610Serious Impact\n\u2610Severe Impact\n\u2610Severe Loss\n\u2610Severe impact",
+    "section": "What is the impact of the attack? (Tick \u2018one\u2019 checkbox for each column)",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Does the affected critical system(s)/ network(s) have potential impact to another:\ncritical system/critical asset(s) of the bank?\nChoose an item.\n\uf0b7 If \u201cYes\u201d, please provide more details.\nClick here to enter text.\nIncident Status",
+    "section": "Does the affected critical system(s)/ network(s) have potential impact to another",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is/are the type(s) of follow up action(s) that has/have been taken at this:\ntime?\nClick here to enter text.",
+    "section": "What is/are the type(s) of follow up action(s) that has/have been taken at this",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is the current status or resolution of this incident?:\nChoose an item.\nIf it is not resolved, what is the next course of actions?\nClick here to enter text.",
+    "section": "What is the current status or resolution of this incident?",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is the earliest known date of attack or compromise? (Tick \u2018checkbox\u2019 if:\nunknown)\n(Please specify in Indian Local Time +5.30 GMT)\nDate: Click here to enter a date.  Unknown: \u2610",
+    "section": "What is the earliest known date of attack or compromise? (Tick \u2018checkbox\u2019 if",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What is the source/cause of the incident? (\u2018NIL\u2019 OR \u2018NA\u2019 if unknown):\nClick here to enter text.",
+    "section": "What is the source/cause of the incident? (\u2018NIL\u2019 OR \u2018NA\u2019 if unknown)",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "Has the incident been reported to CERT-IN/NCIIP/ any law enforcement:\nagency/IBCART? Choose an item.\n\uf0b7 If \u201cYes\u201d, specify the agency that is being reported to.\n\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0930\u095b\u0930\u094d\u0935 \u092c\u0948\u0902\u0915\n_________________________ RESERVE BANK OF INDIA_____________________\nwww.rbi.org.in\nAnnex to Circular on Cyber Security Framework in Banks\nClick here to enter text..",
+    "section": "Has the incident been reported to CERT-IN/NCIIP/ any law enforcement",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  },
+  {
+    "text": "What tools were used for collecting the evidence for the incident?:\n: Attack Vectors\nE1. Did the bank locate/identify IP addresses, domain names, related to the\nincident\nWhether the Indicators of Compromise, list of IP addresses identified from the\nincident, involvement of the IP addresses in the incident (ex. Victim, Malware\nCommand & Control Servers, etc.), domain names resolved, involvement of the\ndomain names in the incident. (ex. Drive-by-download Servers, Malware Control &\nCommand Servers, defaced website), email addresses identified and their\ninvolvement,  malicious files/attachments (file name, size, MD5/SHA1 hash, etc. ) etc.\nhave been reported in IB-CART/CERT-IN/NCIIP/Law enforcement agencies",
+    "section": "What tools were used for collecting the evidence for the incident?",
+    "source": "RBI",
+    "file_name": "NT41802062016.pdf",
+    "type": "banking"
+  }
+]
